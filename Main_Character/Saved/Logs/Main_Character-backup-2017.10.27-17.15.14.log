@@ -1,0 +1,1117 @@
+﻿Log file open, 10/27/17 16:22:32
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: Main_Character
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1159699515) SRandInit(1159699515).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168770
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.27-22.22.33:173][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.27-22.22.33:173][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.27-22.22.33:209][  0]LogInit: Computer: LAPTOP-59HO4QPN
+[2017.10.27-22.22.33:209][  0]LogInit: User: Reaper
+[2017.10.27-22.22.33:209][  0]LogInit: CPU Page size=4096, Cores=2
+[2017.10.27-22.22.33:209][  0]LogInit: High frequency timer resolution =2.343748 MHz
+[2017.10.27-22.22.33:210][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.10.27-22.22.33:210][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.27-22.22.33:210][  0]LogMemory: Process Physical Memory: 277.26 MB used, 277.26 MB peak
+[2017.10.27-22.22.33:210][  0]LogMemory: Process Virtual Memory: 275.71 MB used, 275.71 MB peak
+[2017.10.27-22.22.33:210][  0]LogMemory: Physical Memory: 5167.45 MB used,  2914.45 MB free, 8081.91 MB total
+[2017.10.27-22.22.33:210][  0]LogMemory: Virtual Memory: 652.51 MB used,  2914.45 MB free, 134217728.00 MB total
+[2017.10.27-22.22.33:473][  0]LogInit: Using OS detected language (en-US).
+[2017.10.27-22.22.33:473][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.27-22.22.33:478][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.27-22.22.34:490][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.27-22.22.34:500][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2017.10.27-22.22.34:500][  0]LogD3D11RHI:       128/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.10.27-22.22.34:504][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.27-22.22.34:504][  0]LogD3D11RHI:       0/0/4040 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.27-22.22.34:504][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.27-22.22.34:511][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.27-22.22.34:511][  0]LogD3D11RHI:     GPU DeviceId: 0x1916 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.27-22.22.34:511][  0]LogWindows: EnumDisplayDevices:
+[2017.10.27-22.22.34:511][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2017.10.27-22.22.34:512][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.10.27-22.22.34:512][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2017.10.27-22.22.34:512][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.10.27-22.22.34:512][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 520
+[2017.10.27-22.22.34:512][  0]LogD3D11RHI:   Driver Version: 21.20.16.4542 (internal:21.20.16.4542, unified:21.20.16.4542)
+[2017.10.27-22.22.34:512][  0]LogD3D11RHI:      Driver Date: 10-24-2016
+[2017.10.27-22.22.34:512][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.27-22.22.34:519][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.27-22.22.34:526][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2017.10.27-22.22.34:528][  0]LogShaderCompilers: Guid format shader working directory is -24 characters bigger than the processId version (../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Intermediate/Shaders/WorkingDirectory/2564/).
+[2017.10.27-22.22.34:528][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Reaper/AppData/Local/Temp/UnrealShaderWorkingDir/21053FA94A7070FE0546E7A7A75475CF/'.
+[2017.10.27-22.22.34:528][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.27-22.22.35:970][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.27-22.22.36:062][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.27-22.22.36:155][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.27-22.22.36:456][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.27-22.22.36:569][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.27-22.22.36:687][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.27-22.22.36:823][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.27-22.22.36:922][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.27-22.22.37:005][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.27-22.22.37:100][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.27-22.22.37:195][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.27-22.22.37:288][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.27-22.22.37:382][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.27-22.22.37:476][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.27-22.22.37:567][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.27-22.22.37:749][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.27-22.22.37:749][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.27-22.22.37:828][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.27-22.22.37:975][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.27-22.22.38:019][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.27-22.22.38:112][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.27-22.22.38:203][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.27-22.22.38:297][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.27-22.22.38:387][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.27-22.22.38:387][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.27-22.22.39:193][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.27-22.22.39:303][  0]LogDerivedDataCache: Loaded boot cache 0.11s 93MB C:/Users/Reaper/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.27-22.22.39:303][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Reaper/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.27-22.22.39:303][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.27-22.22.39:304][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.27-22.22.39:304][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.27-22.22.39:304][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.27-22.22.39:323][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.27-22.22.39:337][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Reaper/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.27-22.22.39:349][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.27-22.22.39:350][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.27-22.22.39:351][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.27-22.22.39:351][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.27-22.22.39:728][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2017.10.27-22.22.39:911][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.27-22.22.40:550][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.27-22.22.40:626][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.27-22.22.40:626][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.27-22.22.40:626][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.27-22.22.40:626][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.27-22.22.40:626][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.27-22.22.40:628][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.27-22.22.41:260][  0]LogNetVersion: Main_Character , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4159326360)
+[2017.10.27-22.22.41:707][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.151570 seconds
+[2017.10.27-22.22.41:715][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.27-22.22.41:715][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.10.27-22.22.41:715][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.27-22.22.41:826][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.27-22.22.46:407][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.27-22.22.46:469][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.27-22.22.47:600][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.27-22.22.48:356][  0]SourceControl: Source control is disabled
+[2017.10.27-22.22.48:356][  0]SourceControl: Source control is disabled
+[2017.10.27-22.22.48:454][  0]SourceControl: Source control is disabled
+[2017.10.27-22.22.48:550][  0]SourceControl: Source control is disabled
+[2017.10.27-22.22.49:638][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.27-22.22.50:087][  0]LogOcInput: OculusInput pre-init called
+[2017.10.27-22.22.50:541][  0]LogEngine: Initializing Engine...
+[2017.10.27-22.22.50:544][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.10.27-22.22.50:842][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.27-22.22.50:843][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.27-22.22.51:074][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.27-22.22.51:084][  0]LogInit: XAudio2 using 'Speaker/HP (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.27-22.22.51:105][  0]LogInit: FAudioDevice initialized.
+[2017.10.27-22.22.51:395][  0]LogDerivedDataCache: Saved boot cache 0.29s 93MB C:/Users/Reaper/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.27-22.22.51:409][  0]LogInit: Texture streaming: Enabled
+[2017.10.27-22.22.51:598][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.27-22.22.52:001][  0]LogInit: Transaction tracking system initialized
+[2017.10.27-22.22.52:575][  0]BlueprintLog: New page: Editor Load
+[2017.10.27-22.22.54:200][  0]LocalizationService: Localization service is disabled
+[2017.10.27-22.22.55:444][  0]LogConsoleResponse: Display: 
+[2017.10.27-22.22.55:760][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.27-22.22.55:761][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.27-22.22.55:761][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.27-22.22.56:360][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Reaper/Documents/Unreal Projects/Main_Character/Content/' took 0.01s
+[2017.10.27-22.22.57:671][  0]SourceControl: Source control is disabled
+[2017.10.27-22.22.57:671][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.27-22.22.57:672][  0]LightingResults: New page: Lighting Build
+[2017.10.27-22.22.57:749][  0]MapCheck: New page: Map Check
+[2017.10.27-22.22.57:749][  0]LightingResults: New page: Lighting Build
+[2017.10.27-22.22.57:973][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.27-22.22.57:980][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.27-22.22.58:010][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.27-22.22.58:137][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127.645ms to complete.
+[2017.10.27-22.22.58:137][  0]LogFileHelpers: Loading map 'Template_Default' took 0.466
+[2017.10.27-22.22.58:304][  0]LogCollectionManager: Loaded 0 collections in 0.002921 seconds
+[2017.10.27-22.22.58:423][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Collections/' took 0.01s
+[2017.10.27-22.22.58:423][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Developers/Reaper/Collections/' took 0.01s
+[2017.10.27-22.22.58:423][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Collections/' took 0.01s
+[2017.10.27-22.22.58:423][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.27-22.22.58:433][  0]LogContentBrowser: Native class hierarchy populated in 0.0103 seconds. Added 2386 classes and 500 folders.
+[2017.10.27-22.22.58:542][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.27-22.22.58:623][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.27-22.22.58:701][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.27-22.22.58:755][  0]LogSlate: Took 0.000430 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.27-22.22.58:758][  0]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.27-22.22.58:765][  0]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.27-22.22.58:895][  0]LogRenderer: Reallocating scene render targets to support 840x388 Format 10 NumSamples 1 (Frame:1).
+[2017.10.27-22.22.59:709][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.10.27-22.22.59:709][  0]LogLoad: (Engine Initialization) Total time: 29.90 seconds
+[2017.10.27-22.22.59:709][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.27-22.22.59:709][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.10.27-22.23.00:067][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.27-22.23.00:390][  1]LogAssetRegistry: Asset discovery search completed in 20.6834 seconds
+[2017.10.27-22.23.00:392][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.10.27-22.23.00:392][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000098 seconds (updated 0 objects)
+[2017.10.27-22.23.04:391][ 13]LogSlate: Took 0.000495 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.27-22.23.16:364][526]LogSlate: Took 0.000532 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.27-22.23.17:235][526]LogSlate: Took 0.000513 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.27-22.23.19:071][526]LogAIModule: Creating AISystem for world Main_Character
+[2017.10.27-22.23.19:141][526]Cmd: MAP LOAD FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.27-22.23.19:142][526]LightingResults: New page: Lighting Build
+[2017.10.27-22.23.19:142][526]LoadErrors: New page: Loading map: Main_Character.umap
+[2017.10.27-22.23.19:143][526]MapCheck: New page: Map Check
+[2017.10.27-22.23.19:143][526]LightingResults: New page: Lighting Build
+[2017.10.27-22.23.19:215][526]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.27-22.23.19:251][526]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.27-22.23.19:403][526]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 151.77ms to complete.
+[2017.10.27-22.23.19:404][526]LogFileHelpers: Loading map 'Main_Character' took 0.263
+[2017.10.27-22.23.33:215][951]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0007 seconds. Added 1 classes and 0 folders.
+[2017.10.27-22.23.33:298][951]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.23.33:488][951]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.23.33:563][951]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.23.33:671][951]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.23.33:720][951]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.23.33:740][951]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.23.33:756][951]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.23.33:792][951]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.23.33:811][951]LogSlate: Took 0.000841 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.27-22.23.41:042][221]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.23.41:105][221]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.23.59:178][781]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.24.01:828][890]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.24.01:967][890]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.24.28:499][736]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.24.30:902][833]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.24.31:013][833]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.24.33:661][909]LogMaterialEditor: Applying material Shoesmat
+[2017.10.27-22.24.34:682][909]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.24.34:908][909]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.24.35:080][909]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.24.35:279][909]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Shoesmat, compiling. 
+[2017.10.27-22.24.43:718][909]TextureStreamingBuild: Display: Compiling optional shaders took 8.482 seconds.
+[2017.10.27-22.25.32:417][341]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.10.27-22.25.32:417][341]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.10.27-22.25.32:417][341]MaterialEditorStats: Texture samplers: 7/16
+[2017.10.27-22.25.32:417][341]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.25.49:365][932]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.25.49:497][932]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.25.49:543][932]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.25.49:614][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.25.49:656][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.25.49:664][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.25.49:698][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.25.49:747][932]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.26.18:387][996]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.26.18:470][996]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.26.25:194][289]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.26.30:052][525]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.26.30:158][525]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.26.44:019][995]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.26.47:696][155]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.26.47:788][155]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.26.54:230][344]LogMaterialEditor: Applying material Topmat
+[2017.10.27-22.26.55:289][344]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.26.55:468][344]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.26.55:628][344]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.26.55:810][344]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Topmat, compiling. 
+[2017.10.27-22.27.05:535][344]TextureStreamingBuild: Display: Compiling optional shaders took 9.751 seconds.
+[2017.10.27-22.27.14:933][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.27-22.27.17:507][785]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-22.27.45:998][606]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.10.27-22.27.45:998][606]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.10.27-22.27.45:998][606]MaterialEditorStats: Texture samplers: 7/16
+[2017.10.27-22.27.45:998][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.27.50:837][774]Cmd: SELECT NONE
+[2017.10.27-22.27.52:152][828]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-22.27.53:142][861]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Main_Character_Model)
+[2017.10.27-22.28.02:275][222]Cmd: SELECT NONE
+[2017.10.27-22.28.23:895][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-22.28.24:029][955]LogSavePackage: Save=81.81ms
+[2017.10.27-22.28.24:029][955]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_CharacterEFA56FEA43F19689BBAB26990DAA2422.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-22.28.24:033][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-22.28.24:092][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-22.28.24:129][955]LogSavePackage: Save=27.61ms
+[2017.10.27-22.28.24:130][955]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltData26BB1EB34D7EBAAB285B4E859C53A4FF.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-22.28.24:133][955]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-22.29.04:781][670]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.10.27-22.29.04:935][670]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.10.27-22.29.05:008][670]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.10.27-22.29.05:108][670]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.29.05:115][670]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.29.05:180][670]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.29.05:234][670]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.29.05:279][670]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.29.32:478][634]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-22.29.33:372][665]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-22.29.36:036][770]Cmd: SELECT NONE
+[2017.10.27-22.29.36:600][797]Cmd: SELECT NONE
+[2017.10.27-22.29.46:469][202]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.10.27-22.29.46:469][202]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.27-22.29.46:469][202]MaterialEditorStats: Texture samplers: 6/16
+[2017.10.27-22.29.46:469][202]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.30.21:563][262]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.27-22.32.59:195][420]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.32.59:400][420]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.32.59:479][420]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.32.59:588][420]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.32.59:595][420]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.32.59:628][420]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.32.59:689][420]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.32.59:734][420]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.33.34:274][215]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.10.27-22.33.34:274][215]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.27-22.33.34:274][215]MaterialEditorStats: Texture samplers: 6/16
+[2017.10.27-22.33.34:274][215]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.36.41:807][470]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.36.43:064][506]LogMaterialEditor: Applying material Bodymat
+[2017.10.27-22.36.44:150][506]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.36.44:341][506]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.36.44:504][506]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.36.44:674][506]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2017.10.27-22.36.58:220][506]TextureStreamingBuild: Display: Compiling optional shaders took 13.555 seconds.
+[2017.10.27-22.37.32:897][340]MaterialEditorStats: Base pass shader: 97 instructions
+[2017.10.27-22.37.32:897][340]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.10.27-22.37.32:897][340]MaterialEditorStats: Texture samplers: 6/16
+[2017.10.27-22.37.32:897][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.38.23:870][573]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.38.23:991][573]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.38.27:848][694]LogMaterialEditor: Applying material Bodymat
+[2017.10.27-22.38.28:939][694]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.38.29:136][694]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.38.29:290][694]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.38.29:463][694]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bodymat, compiling. 
+[2017.10.27-22.38.41:373][694]TextureStreamingBuild: Display: Compiling optional shaders took 11.920 seconds.
+[2017.10.27-22.38.53:552][731]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main_Character' took 0.038
+[2017.10.27-22.38.53:723][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Bodymat] ([1] browsable assets)...
+[2017.10.27-22.39.02:206][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Bodymat.Bodymat]
+[2017.10.27-22.39.02:206][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Bodymat]
+[2017.10.27-22.39.02:317][731]LogSavePackage: Save=87.35ms
+[2017.10.27-22.39.02:317][731]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Bodymat_Auto1B27C1FD441CC3A70A0BFA59C5FEF9762.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Materials/Bodymat_Auto1.uasset'
+[2017.10.27-22.39.02:396][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Materials/Bodymat_Auto1.uasset
+[2017.10.27-22.39.02:405][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Shoesmat] ([1] browsable assets)...
+[2017.10.27-22.39.02:434][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Shoesmat.Shoesmat]
+[2017.10.27-22.39.02:434][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Shoesmat]
+[2017.10.27-22.39.02:464][731]LogSavePackage: Save=18.24ms
+[2017.10.27-22.39.02:464][731]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Shoesmat_Auto15DD0CCBC4DC3E0F0F88686AA0B8AFFD0.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Materials/Shoesmat_Auto1.uasset'
+[2017.10.27-22.39.02:468][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Materials/Shoesmat_Auto1.uasset
+[2017.10.27-22.39.02:470][731]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Topmat] ([1] browsable assets)...
+[2017.10.27-22.39.02:499][731]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Topmat.Topmat]
+[2017.10.27-22.39.02:499][731]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Topmat]
+[2017.10.27-22.39.02:536][731]LogSavePackage: Save=24.61ms
+[2017.10.27-22.39.02:536][731]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Topmat_Auto11A94EAB14D8D0AF8473A9D9F71D08885.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Materials/Topmat_Auto1.uasset'
+[2017.10.27-22.39.02:542][731]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Materials/Topmat_Auto1.uasset
+[2017.10.27-22.39.02:543][731]LogFileHelpers: Auto-saving content packages took 8.977
+[2017.10.27-22.39.02:594][732]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.10.27-22.39.02:594][732]MaterialEditorStats: Vertex shader: 33 instructions
+[2017.10.27-22.39.02:594][732]MaterialEditorStats: Texture samplers: 7/16
+[2017.10.27-22.39.02:594][732]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.39.29:703][986]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.27-22.39.54:050][ 80]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.10.27-22.39.54:282][ 80]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.10.27-22.39.54:431][ 80]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.10.27-22.39.54:567][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.39.54:576][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.39.54:585][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.39.54:632][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.39.54:639][ 80]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.40.44:704][690]LogSlate: Took 0.001017 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.27-22.41.23:174][ 75]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.27-22.42.29:842][844]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.10.27-22.42.30:076][844]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.10.27-22.42.30:157][844]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.10.27-22.42.30:273][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.42.30:281][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.42.30:323][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.42.30:330][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.42.30:337][844]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.44.06:260][911]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.27-22.44.06:522][911]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.27-22.44.06:626][911]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.10.27-22.44.06:756][911]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.44.06:779][911]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.44.06:819][911]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.44.06:827][911]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.44.06:835][911]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.45.18:324][622]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.27-22.45.36:273][814]MaterialEditorStats: Base pass shader: 52 instructions
+[2017.10.27-22.45.36:273][814]MaterialEditorStats: Vertex shader: 124 instructions
+[2017.10.27-22.45.36:273][814]MaterialEditorStats: Texture samplers: 6/16
+[2017.10.27-22.45.36:273][814]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.45.53:208][ 44]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.27-22.46.20:166][759]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Main_Character_Model)
+[2017.10.27-22.46.25:963][891]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.27-22.46.27:017][932]Cmd: SELECT NONE
+[2017.10.27-22.46.30:394][992]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.27-22.46.31:109][993]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.10.27-22.48.33:057][740]LogTexture: Display: Building textures: Main_Character_Model_Body_Normal (BC5, 1024X1024)
+[2017.10.27-22.48.33:280][740]LogTexture: Display: Building textures: Main_Character_Model_Bottom_Normal (BC5, 512X512)
+[2017.10.27-22.48.33:334][740]LogTexture: Display: Building textures: Main_Character_Model_Hair_Normal (BC5, 512X512)
+[2017.10.27-22.48.33:414][740]LogTexture: Display: Building textures: Main_Character_Model_Shoes_Normal (BC5, 512X512)
+[2017.10.27-22.48.33:481][740]LogTexture: Display: Building textures: Main_Character_Model_Top_Normal (BC5, 512X512)
+[2017.10.27-22.49.11:814][370]LogSavePackage: Save=70.87ms
+[2017.10.27-22.49.11:814][370]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Auto22E341A954638F9B2EDA856A6247A8BCD.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Main_Character_Auto2.umap'
+[2017.10.27-22.49.11:827][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Main_Character_Auto2.umap
+[2017.10.27-22.49.11:853][370]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Main_Character' took 0.277
+[2017.10.27-22.49.11:853][370]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.277
+[2017.10.27-22.49.11:889][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Main_Character_Model_Body_Normal] ([1] browsable assets)...
+[2017.10.27-22.49.11:952][370]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Main_Character_Model_Body_Normal.Main_Character_Model_Body_Normal]
+[2017.10.27-22.49.11:952][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Main_Character_Model_Body_Normal]
+[2017.10.27-22.49.12:005][370]LogSavePackage: Save=26.29ms
+[2017.10.27-22.49.12:005][370]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Body_Normal_Auto2E59679D74D963B3D9BC6ACA86C9684E9.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Body_Normal_Auto2.uasset'
+[2017.10.27-22.49.12:018][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Body_Normal_Auto2.uasset
+[2017.10.27-22.49.12:025][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Main_Character_Model_Bottom_Normal] ([1] browsable assets)...
+[2017.10.27-22.49.12:067][370]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Main_Character_Model_Bottom_Normal.Main_Character_Model_Bottom_Normal]
+[2017.10.27-22.49.12:067][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Main_Character_Model_Bottom_Normal]
+[2017.10.27-22.49.12:126][370]LogSavePackage: Save=31.94ms
+[2017.10.27-22.49.12:126][370]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Bottom_Normal_Auto2AB56665D49E78F418892D7BE9E054741.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Bottom_Normal_Auto2.uasset'
+[2017.10.27-22.49.12:154][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Bottom_Normal_Auto2.uasset
+[2017.10.27-22.49.12:163][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Main_Character_Model_Hair_Normal] ([1] browsable assets)...
+[2017.10.27-22.49.12:212][370]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Main_Character_Model_Hair_Normal.Main_Character_Model_Hair_Normal]
+[2017.10.27-22.49.12:212][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Main_Character_Model_Hair_Normal]
+[2017.10.27-22.49.12:263][370]LogSavePackage: Save=25.29ms
+[2017.10.27-22.49.12:263][370]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Hair_Normal_Auto2CB9E43284C3B8D8FAFDFC789D83857F3.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Hair_Normal_Auto2.uasset'
+[2017.10.27-22.49.12:280][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Hair_Normal_Auto2.uasset
+[2017.10.27-22.49.12:287][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Main_Character_Model_Shoes_Normal] ([1] browsable assets)...
+[2017.10.27-22.49.12:416][370]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Main_Character_Model_Shoes_Normal.Main_Character_Model_Shoes_Normal]
+[2017.10.27-22.49.12:417][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Main_Character_Model_Shoes_Normal]
+[2017.10.27-22.49.12:474][370]LogSavePackage: Save=31.31ms
+[2017.10.27-22.49.12:474][370]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Shoes_Normal_Auto2D0219C9544324196A7F53D93A2451E22.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Shoes_Normal_Auto2.uasset'
+[2017.10.27-22.49.12:484][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Shoes_Normal_Auto2.uasset
+[2017.10.27-22.49.12:491][370]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Main_Character_Model_Top_Normal] ([1] browsable assets)...
+[2017.10.27-22.49.12:600][370]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Main_Character_Model_Top_Normal.Main_Character_Model_Top_Normal]
+[2017.10.27-22.49.12:600][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Main_Character_Model_Top_Normal]
+[2017.10.27-22.49.12:671][370]LogSavePackage: Save=38.64ms
+[2017.10.27-22.49.12:671][370]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Top_Normal_Auto25436E28D4E12CF95AD01EEA4C635BCF2.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Top_Normal_Auto2.uasset'
+[2017.10.27-22.49.12:680][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Autosaves/Game/Textures/Main_Character_Model_Top_Normal_Auto2.uasset
+[2017.10.27-22.49.12:680][370]LogFileHelpers: Auto-saving content packages took 0.816
+[2017.10.27-22.50.06:916][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-22.50.06:967][840]LogSavePackage: Save=29.49ms
+[2017.10.27-22.50.06:968][840]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_CharacterFBED72244CD0E4C8052AC1A4AE0A16CF.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-22.50.07:013][840]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-22.50.07:037][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-22.50.07:100][840]LogSavePackage: Save=13.36ms
+[2017.10.27-22.50.07:100][840]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltData18C32ADD4A032464F51B609F96184A71.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-22.50.07:103][840]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-22.50.32:943][988]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-22.50.41:502][279]LogSavePackage: Save=57.27ms
+[2017.10.27-22.50.41:502][279]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Body_Normal0174308145930F9DF28B4B8FC057A9A6.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Body_Normal.uasset'
+[2017.10.27-22.50.41:512][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Body_Normal.uasset
+[2017.10.27-22.50.41:578][279]LogSavePackage: Save=39.77ms
+[2017.10.27-22.50.41:578][279]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Bottom_Normal5B2236864200A55BA366659B7AF62F5E.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Bottom_Normal.uasset'
+[2017.10.27-22.50.41:594][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Bottom_Normal.uasset
+[2017.10.27-22.50.41:646][279]LogSavePackage: Save=21.18ms
+[2017.10.27-22.50.41:646][279]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Hair_NormalA2E2FA914B2DAE6CF07493B653462A18.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Hair_Normal.uasset'
+[2017.10.27-22.50.41:655][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Hair_Normal.uasset
+[2017.10.27-22.50.41:713][279]LogSavePackage: Save=34.39ms
+[2017.10.27-22.50.41:713][279]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Shoes_Normal39C0422746F1417A334D61B664437A72.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Shoes_Normal.uasset'
+[2017.10.27-22.50.41:721][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Shoes_Normal.uasset
+[2017.10.27-22.50.41:780][279]LogSavePackage: Save=32.52ms
+[2017.10.27-22.50.41:780][279]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Top_NormalB68CD5E8455C219476C0FCABFD936F75.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Top_Normal.uasset'
+[2017.10.27-22.50.41:788][279]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Top_Normal.uasset
+[2017.10.27-22.50.42:780][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-22.50.45:084][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-22.50.45:142][399]LogSavePackage: Save=31.20ms
+[2017.10.27-22.50.45:142][399]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character2959AB214A732F11F86879B31845057D.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-22.50.45:147][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-22.50.45:175][399]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-22.50.45:201][399]LogSavePackage: Save=16.90ms
+[2017.10.27-22.50.45:201][399]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltDataCF5F87E547D43CEDA264B4AEBBACCD61.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-22.50.45:205][399]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-22.51.01:638][620]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.51.01:793][620]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.51.01:861][620]LogMaterial: Missing cached shader map for material Topmat, compiling. 
+[2017.10.27-22.51.01:977][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.51.01:985][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.51.01:993][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.51.02:000][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.51.02:043][620]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.51.25:038][923]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.10.27-22.51.25:038][923]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.27-22.51.25:038][923]MaterialEditorStats: Texture samplers: 6/16
+[2017.10.27-22.51.25:039][923]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.51.43:840][170]LogMaterial: Missing cached shader map for material TutorialMaterial, compiling. 
+[2017.10.27-22.51.43:858][170]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2017.10.27-22.51.43:926][170]LogMaterial: Missing cached shader map for material TutorialMaterial, compiling. 
+[2017.10.27-22.51.43:942][170]LogMaterial: Missing cached shader map for material TutorialMaterial, compiling. 
+[2017.10.27-22.51.48:319][305]MaterialEditorStats: Base pass shader: 78 instructions
+[2017.10.27-22.51.48:319][305]MaterialEditorStats: Vertex shader: 29 instructions
+[2017.10.27-22.51.48:319][305]MaterialEditorStats: Texture samplers: 1/16
+[2017.10.27-22.51.49:767][345]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialEditor_MaterialProperties'
+[2017.10.27-22.51.49:768][345]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialEditor_MaterialProperties'
+[2017.10.27-22.51.50:195][358]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2017.10.27-22.51.50:196][358]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2017.10.27-22.51.50:579][368]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2017.10.27-22.51.50:581][368]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2017.10.27-22.51.51:111][384]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialPalette'
+[2017.10.27-22.51.51:112][384]LogUObjectGlobals: Warning: Failed to find object 'Object None.MaterialPalette'
+[2017.10.27-22.51.51:960][408]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2017.10.27-22.51.51:961][408]LogUObjectGlobals: Warning: Failed to find object 'Object None.GraphEditorPanel'
+[2017.10.27-22.53.06:089][826]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.53.06:313][826]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.53.06:423][826]LogMaterial: Missing cached shader map for material Bodymat, compiling. 
+[2017.10.27-22.53.06:555][826]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.53.06:563][826]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.53.06:583][826]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.53.06:603][826]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.53.06:611][826]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.54.04:411][441]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.10.27-22.54.04:411][441]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.27-22.54.04:411][441]MaterialEditorStats: Texture samplers: 6/16
+[2017.10.27-22.54.04:411][441]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.57.22:486][137]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.10.27-22.57.22:634][137]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.10.27-22.57.22:703][137]LogMaterial: Missing cached shader map for material Bottommat, compiling. 
+[2017.10.27-22.57.22:856][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.57.22:864][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.57.22:871][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.57.22:877][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.57.22:885][137]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.58.52:621][467]MaterialEditorStats: Base pass shader: 99 instructions
+[2017.10.27-22.58.52:622][467]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.10.27-22.58.52:622][467]MaterialEditorStats: Texture samplers: 6/16
+[2017.10.27-22.58.52:622][467]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.10.27-22.59.39:548][805]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.10.27-22.59.39:699][805]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.10.27-22.59.39:775][805]LogMaterial: Missing cached shader map for material PreviewMaterial_1, compiling. 
+[2017.10.27-22.59.39:872][805]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.59.39:884][805]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.59.39:891][805]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.59.39:900][805]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.59.39:907][805]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.59.42:522][857]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.10.27-22.59.42:894][857]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.10.27-22.59.43:016][857]LogMaterial: Missing cached shader map for material PreviewMaterial_2, compiling. 
+[2017.10.27-22.59.43:154][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.59.43:161][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.59.43:169][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.59.43:178][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.59.43:200][857]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.59.46:003][912]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.10.27-22.59.46:196][912]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.10.27-22.59.46:282][912]LogMaterial: Missing cached shader map for material Hairmat, compiling. 
+[2017.10.27-22.59.46:389][912]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.59.46:397][912]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.59.46:405][912]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.59.46:412][912]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.59.46:420][912]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.59.49:229][992]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.59.49:470][992]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.59.49:586][992]LogMaterial: Missing cached shader map for material Shoesmat, compiling. 
+[2017.10.27-22.59.49:758][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.59.49:784][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.59.49:791][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.59.49:800][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.59.49:807][992]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-22.59.52:792][ 53]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.10.27-22.59.53:023][ 53]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.10.27-22.59.53:140][ 53]LogMaterial: Missing cached shader map for material PreviewMaterial_3, compiling. 
+[2017.10.27-22.59.53:278][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2017.10.27-22.59.53:289][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2017.10.27-22.59.53:298][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2017.10.27-22.59.53:306][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2017.10.27-22.59.53:314][ 53]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2017.10.27-23.02.12:376][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-23.02.12:499][733]LogSavePackage: Save=33.61ms
+[2017.10.27-23.02.12:499][733]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character0A3579924D45F41806885A8E9BD39D12.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-23.02.12:503][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-23.02.12:555][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-23.02.12:584][733]LogSavePackage: Save=15.66ms
+[2017.10.27-23.02.12:584][733]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltData1D96646C417ABA6EBFDE1AAE66AA97B0.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-23.02.12:588][733]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-23.02.19:893][946]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-23.02.20:454][966]Cmd: SELECT NONE
+[2017.10.27-23.02.26:293][177]Cmd: SELECT NONE
+[2017.10.27-23.02.36:051][612]Cmd: TRANSACTION UNDO
+[2017.10.27-23.02.36:051][612]LogEditorTransaction: Undo Select None
+[2017.10.27-23.02.36:549][625]Cmd: TRANSACTION UNDO
+[2017.10.27-23.02.36:549][625]LogEditorTransaction: Undo Create Actors
+[2017.10.27-23.02.39:636][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-23.02.39:759][767]LogSavePackage: Save=41.29ms
+[2017.10.27-23.02.39:759][767]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character947DF6064E054086591CD88EAE70A71D.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-23.02.39:768][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-23.02.39:795][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-23.02.39:825][767]LogSavePackage: Save=16.19ms
+[2017.10.27-23.02.39:825][767]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltDataA5CEEFBB4F8358FF7AA382945D88316A.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-23.02.39:830][767]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-23.03.38:345][356]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-23.03.38:897][375]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Main_Character_Model)
+[2017.10.27-23.03.54:894][ 22]Cmd: TRANSACTION UNDO
+[2017.10.27-23.03.54:894][ 22]LogEditorTransaction: Undo Move Actors
+[2017.10.27-23.03.55:404][ 36]Cmd: TRANSACTION UNDO
+[2017.10.27-23.03.55:404][ 36]LogEditorTransaction: Undo Move Actors
+[2017.10.27-23.03.56:488][ 80]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-23.03.58:346][151]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-23.03.59:123][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-23.03.59:187][178]LogSavePackage: Save=32.49ms
+[2017.10.27-23.03.59:187][178]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character90C9E43F45EB90B660BDF1BE5E5895C2.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-23.03.59:199][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-23.03.59:231][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-23.03.59:260][178]LogSavePackage: Save=17.04ms
+[2017.10.27-23.03.59:260][178]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltDataA55A6782457B3FBB5B604C9A54EEB684.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-23.03.59:265][178]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-23.04.43:016][129]Cmd: TRANSACTION UNDO
+[2017.10.27-23.04.43:016][129]LogEditorTransaction: Undo Move Actors
+[2017.10.27-23.04.43:553][145]Cmd: TRANSACTION UNDO
+[2017.10.27-23.04.43:553][145]LogEditorTransaction: Undo Move Actors
+[2017.10.27-23.05.03:364][687]MapCheck: New page: Map Check
+[2017.10.27-23.05.03:531][687]LightingResults: New page: Lighting Build - Oct 27, 2017, 11:05:03 AM
+[2017.10.27-23.05.05:361][687]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2017.10.27-23.05.05:833][687]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2017.10.27-23.05.06:299][687]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2017.10.27-23.05.09:239][687]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2017.10.27-23.05.09:353][687]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2017.10.27-23.05.16:308][687]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2017.10.27-23.05.16:308][687]LogSwarmInterface: [TryOpenConnection] Local Process ID is 2564
+[2017.10.27-23.05.25:151][687]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2017.10.27-23.05.25:167][687]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2017.10.27-23.05.25:167][687]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2017.10.27-23.05.25:167][687]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2017.10.27-23.05.25:167][687]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2017.10.27-23.05.25:167][687]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2017.10.27-23.05.26:119][687]LogEditorBuildUtils: Build time 0:22
+[2017.10.27-23.05.26:140][687]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_36, compiling. 
+[2017.10.27-23.05.26:173][687]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer MaterialInstanceDynamic_36, compiling. 
+[2017.10.27-23.05.32:619][846]Job is a success!
+[2017.10.27-23.05.32:882][847]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2017.10.27-23.05.32:882][847]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2017.10.27-23.05.32:882][847]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2017.10.27-23.05.32:882][847]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2017.10.27-23.05.32:882][847]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 128X128)
+[2017.10.27-23.05.32:882][847]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2017.10.27-23.05.33:052][847]Lightmass on LAPTOP-59HO4QPN: 1.87 sec total, 520 ms importing, 207 ms setup, 270 ms photons, 737 ms processing, 0 ms extra exporting [2/2 mappings]. Threads: 2.90 sec total, 499 ms processing.
+[2017.10.27-23.05.33:111][847]LogStaticLightingSystem: Illumination: 29.5 sec (20 ms encoding lightmaps, 50 ms encoding shadowmaps)
+[2017.10.27-23.05.33:112][847]LogStaticLightingSystem: Lightmap texture memory:  0.1 MB (0.1 MB streaming, 0.0 MB non-streaming), 4 textures
+[2017.10.27-23.05.33:112][847]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 2 textures
+[2017.10.27-23.05.34:240][847]DumpUnbuiltLightIteractions
+[2017.10.27-23.05.34:240][847]Lights with unbuilt interactions: 0
+[2017.10.27-23.05.34:240][847]
+[2017.10.27-23.05.34:240][847]Primitives with unbuilt interactions: 0
+[2017.10.27-23.05.34:347][848]Cmd: MAP CHECK NOTIFYRESULTS
+[2017.10.27-23.05.34:347][848]MapCheck: New page: Main_Character - Oct 27, 2017, 11:05:34 AM
+[2017.10.27-23.05.34:561][848]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 213.515ms to complete.
+[2017.10.27-23.05.55:476][481]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.27-23.05.58:345][609]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.27-23.05.58:863][631]Cmd: TRANSACTION UNDO
+[2017.10.27-23.05.58:863][631]LogEditorTransaction: Undo Move Actors
+[2017.10.27-23.05.59:353][647]Cmd: TRANSACTION UNDO
+[2017.10.27-23.05.59:353][647]LogEditorTransaction: Undo Move Actors
+[2017.10.27-23.06.02:389][784]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.27-23.06.04:378][874]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.27-23.06.08:436][ 54]Cmd: TRANSACTION UNDO
+[2017.10.27-23.06.08:436][ 54]LogEditorTransaction: Undo Move Actors
+[2017.10.27-23.06.08:918][ 70]Cmd: TRANSACTION UNDO
+[2017.10.27-23.06.08:919][ 70]LogEditorTransaction: Undo Move Actors
+[2017.10.27-23.06.10:037][121]Cmd: TRANSACTION UNDO
+[2017.10.27-23.06.10:038][121]LogEditorTransaction: Undo Clicking on Actors
+[2017.10.27-23.06.25:867][750]Cmd: TRANSACTION UNDO
+[2017.10.27-23.06.25:867][750]LogEditorTransaction: Undo Create Actors
+[2017.10.27-23.06.31:269][954]Cmd: TRANSACTION UNDO
+[2017.10.27-23.06.31:270][954]LogEditorTransaction: Undo Create Actors
+[2017.10.27-23.06.35:007][117]Cmd: TRANSACTION UNDO
+[2017.10.27-23.06.35:007][117]LogEditorTransaction: Undo Clicking on Actors
+[2017.10.27-23.06.39:242][301]Cmd: TRANSACTION UNDO
+[2017.10.27-23.06.39:242][301]LogEditorTransaction: Undo Create Actors
+[2017.10.27-23.07.01:999][984]Cmd: TRANSACTION UNDO
+[2017.10.27-23.07.01:999][984]LogEditorTransaction: Undo Create Actors
+[2017.10.27-23.07.03:522][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-23.07.03:595][ 44]LogSavePackage: Save=28.79ms
+[2017.10.27-23.07.03:595][ 44]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character34A00AA5424733E817401D901472301C.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-23.07.03:605][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-23.07.03:633][ 44]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-23.07.03:662][ 44]LogSavePackage: Save=15.57ms
+[2017.10.27-23.07.03:662][ 44]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltData1DE038AB469B522C0F8989B54BB63CAA.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-23.07.03:671][ 44]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-23.07.30:165][608]EditorErrors: New page: Actor attachment
+[2017.10.27-23.07.31:395][663]Cmd: TRANSACTION UNDO
+[2017.10.27-23.07.31:395][663]LogEditorTransaction: Undo Attach actors
+[2017.10.27-23.07.53:786][171]Cmd: SELECT NONE
+[2017.10.27-23.08.18:404][982]Cmd: TRANSACTION UNDO
+[2017.10.27-23.08.18:404][982]LogEditorTransaction: Undo Select None
+[2017.10.27-23.08.20:069][ 46]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.10.27-23.08.21:949][126]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.10.27-23.08.24:250][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-23.08.26:986][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-23.08.27:044][339]LogSavePackage: Save=29.05ms
+[2017.10.27-23.08.27:044][339]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character3B5AC686429EBB97FD0E2EAF1496E665.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-23.08.27:054][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-23.08.27:077][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-23.08.27:105][339]LogSavePackage: Save=13.84ms
+[2017.10.27-23.08.27:105][339]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltData9DA366544D886A472AA2B6843FD9D919.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-23.08.27:109][339]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-23.10.18:184][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.27-23.10.19:315][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.27-23.10.19:717][ 61]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Main_Character_Model)
+[2017.10.27-23.10.49:020][627]Cmd: SELECT NONE
+[2017.10.27-23.10.52:963][703]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2017.10.27-23.12.47:318][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-23.12.47:390][201]LogSavePackage: Save=35.16ms
+[2017.10.27-23.12.47:390][201]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character880E48CF42A484D40AB19AACCEC6EC39.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-23.12.47:404][201]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-23.12.47:435][201]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-23.12.47:464][201]LogSavePackage: Save=16.61ms
+[2017.10.27-23.12.47:464][201]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltDataF3D2E9164F0F95C40CF633B005A3A008.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-23.12.47:469][201]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-23.13.57:725][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-23.13.57:781][ 85]LogSavePackage: Save=30.29ms
+[2017.10.27-23.13.57:782][ 85]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character78C1F1844E7E46FA8035C8AF3D3BB506.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-23.13.57:786][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-23.13.57:814][ 85]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-23.13.57:847][ 85]LogSavePackage: Save=15.77ms
+[2017.10.27-23.13.57:847][ 85]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltData854461F6487B013282E8A3B73687D8E7.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-23.13.57:851][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-23.13.59:900][171]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Main_Character_Model)
+[2017.10.27-23.14.11:162][623]Cmd: TRANSACTION UNDO
+[2017.10.27-23.14.11:162][623]LogEditorTransaction: Undo Move Actors
+[2017.10.27-23.14.15:056][773]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.10.27-23.14.26:261][177]Cmd: SELECT NONE
+[2017.10.27-23.14.32:094][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-23.14.32:146][420]LogSavePackage: Save=27.87ms
+[2017.10.27-23.14.32:146][420]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character2FE12AC64C3DD54AE3F7D2A37626FD16.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-23.14.32:155][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-23.14.32:185][420]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-23.14.32:210][420]LogSavePackage: Save=13.36ms
+[2017.10.27-23.14.32:210][420]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltData5B89DFA34906392041CB8BB9A787C1F8.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-23.14.32:215][420]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-23.14.44:498][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.10.27-23.14.44:547][799]LogSavePackage: Save=27.73ms
+[2017.10.27-23.14.44:547][799]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character8563B72C40D422512A4F148AA3C00824.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap'
+[2017.10.27-23.14.44:551][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character.umap
+[2017.10.27-23.14.44:577][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main_Character_BuiltData" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset" SILENT=true
+[2017.10.27-23.14.44:607][799]LogSavePackage: Save=15.65ms
+[2017.10.27-23.14.44:607][799]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_BuiltData137B20BE4507AAD1F73137A6395E4BF4.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset'
+[2017.10.27-23.14.44:611][799]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Main_Character_BuiltData.uasset
+[2017.10.27-23.14.48:305][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Bodymat" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Materials/Bodymat.uasset" SILENT=true
+[2017.10.27-23.14.48:327][913]LogSavePackage: Save=8.13ms
+[2017.10.27-23.14.48:327][913]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/BodymatA79C9A0245AEF2E77B6BEBA16EC3127B.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Materials/Bodymat.uasset'
+[2017.10.27-23.14.48:339][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Materials/Bodymat.uasset
+[2017.10.27-23.14.48:343][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Shoesmat" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Materials/Shoesmat.uasset" SILENT=true
+[2017.10.27-23.14.48:366][913]LogSavePackage: Save=8.67ms
+[2017.10.27-23.14.48:366][913]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/ShoesmatA2F743104CF6011A6840ADB043BED966.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Materials/Shoesmat.uasset'
+[2017.10.27-23.14.48:374][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Materials/Shoesmat.uasset
+[2017.10.27-23.14.48:378][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Topmat" FILE="../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Materials/Topmat.uasset" SILENT=true
+[2017.10.27-23.14.48:400][913]LogSavePackage: Save=7.89ms
+[2017.10.27-23.14.48:400][913]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Topmat8AD2007146D4B1F7B2BD7597F006A111.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Materials/Topmat.uasset'
+[2017.10.27-23.14.48:408][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Materials/Topmat.uasset
+[2017.10.27-23.14.48:495][913]LogSavePackage: Save=54.79ms
+[2017.10.27-23.14.48:495][913]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Body_NormalA05A942D41DF5A033D831995F043CC06.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Body_Normal.uasset'
+[2017.10.27-23.14.48:503][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Body_Normal.uasset
+[2017.10.27-23.14.48:569][913]LogSavePackage: Save=35.20ms
+[2017.10.27-23.14.48:569][913]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Bottom_NormalA01B5D5A4008600EE41776BFEEAB7D66.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Bottom_Normal.uasset'
+[2017.10.27-23.14.48:577][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Bottom_Normal.uasset
+[2017.10.27-23.14.48:628][913]LogSavePackage: Save=19.92ms
+[2017.10.27-23.14.48:628][913]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Hair_Normal858A194C463CF44867371686B4D77BA8.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Hair_Normal.uasset'
+[2017.10.27-23.14.48:636][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Hair_Normal.uasset
+[2017.10.27-23.14.48:702][913]LogSavePackage: Save=33.44ms
+[2017.10.27-23.14.48:702][913]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Shoes_Normal8AF79A6F4D1509823E33A0B2B900CE96.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Shoes_Normal.uasset'
+[2017.10.27-23.14.48:711][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Shoes_Normal.uasset
+[2017.10.27-23.14.48:772][913]LogSavePackage: Save=31.07ms
+[2017.10.27-23.14.48:772][913]LogSavePackage: Moving '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Main_Character_Model_Top_NormalCA7973024660CA469BD74AB172EA5C71.tmp' to '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Top_Normal.uasset'
+[2017.10.27-23.14.48:781][913]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Textures/Main_Character_Model_Top_Normal.uasset
+[2017.10.27-23.14.49:072][914]Cmd: QUIT_EDITOR
+[2017.10.27-23.14.49:094][914]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.27-23.14.49:094][914]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.27-23.14.49:116][914]LogExit: Preparing to exit.
+[2017.10.27-23.14.49:430][914]LogDirectoryWatcher: A directory notification for 'C:/Users/Reaper/Documents/Unreal Projects/Main_Character/Content/' was aborted.
+[2017.10.27-23.14.49:554][914]LogExit: Editor shut down
+[2017.10.27-23.14.49:594][914]LogExit: Transaction tracking system shut down
+[2017.10.27-23.14.49:748][914]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.27-23.14.49:748][914]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Reaper/Documents/Unreal Projects/Main_Character/Content/' was aborted.
+[2017.10.27-23.14.49:748][914]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.27-23.14.49:748][914]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.27-23.14.49:748][914]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.27-23.14.49:842][914]LogExit: Object subsystem successfully closed.
+[2017.10.27-23.14.49:868][914]LogD3D11RHI: Shutdown
+[2017.10.27-23.14.49:868][914]LogD3D11RHI: CleanupD3DDevice
+[2017.10.27-23.14.50:072][914]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.27-23.14.50:119][914]LogModuleManager: Shutting down and abandoning module TextureEditor (534)
+[2017.10.27-23.14.50:120][914]LogModuleManager: Shutting down and abandoning module MaterialEditor (532)
+[2017.10.27-23.14.50:120][914]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.10.27-23.14.50:120][914]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.10.27-23.14.50:120][914]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.10.27-23.14.50:120][914]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.10.27-23.14.50:126][914]LogDirectoryWatcher: A directory notification for 'C:/Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Collections/' was aborted.
+[2017.10.27-23.14.50:126][914]LogDirectoryWatcher: A directory notification for 'C:/Users/Reaper/Documents/Unreal Projects/Main_Character/Content/Developers/Reaper/Collections/' was aborted.
+[2017.10.27-23.14.50:126][914]LogDirectoryWatcher: A directory notification for 'C:/Users/Reaper/Documents/Unreal Projects/Main_Character/Saved/Collections/' was aborted.
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.10.27-23.14.50:126][914]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.10.27-23.14.50:127][914]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.10.27-23.14.50:128][914]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.10.27-23.14.50:128][914]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.10.27-23.14.50:128][914]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.10.27-23.14.50:128][914]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.10.27-23.14.50:596][914]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.10.27-23.14.50:596][914]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.10.27-23.14.50:596][914]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.10.27-23.14.50:596][914]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.10.27-23.14.50:596][914]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.10.27-23.14.50:596][914]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.10.27-23.14.50:597][914]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.10.27-23.14.50:598][914]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.10.27-23.14.50:598][914]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.10.27-23.14.50:650][914]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.10.27-23.14.50:650][914]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.10.27-23.14.50:650][914]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.10.27-23.14.50:650][914]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.10.27-23.14.50:650][914]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.10.27-23.14.50:650][914]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.10.27-23.14.50:651][914]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.10.27-23.14.50:651][914]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.10.27-23.14.50:651][914]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.10.27-23.14.50:651][914]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.10.27-23.14.50:651][914]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.10.27-23.14.50:651][914]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.10.27-23.14.50:651][914]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.10.27-23.14.50:651][914]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.10.27-23.14.50:651][914]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.10.27-23.14.50:652][914]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.10.27-23.14.50:804][914]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.10.27-23.14.50:805][914]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.10.27-23.14.50:805][914]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.10.27-23.14.50:805][914]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.10.27-23.14.50:805][914]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.10.27-23.14.50:805][914]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.10.27-23.14.50:805][914]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.10.27-23.14.50:805][914]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.10.27-23.14.50:805][914]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.10.27-23.14.50:805][914]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.10.27-23.14.50:806][914]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.10.27-23.14.50:807][914]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.10.27-23.14.50:807][914]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.10.27-23.14.50:809][914]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.10.27-23.14.50:809][914]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.10.27-23.14.50:809][914]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.10.27-23.14.50:811][914]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.10.27-23.14.50:811][914]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.10.27-23.14.50:811][914]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.10.27-23.14.50:811][914]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.10.27-23.14.50:811][914]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.10.27-23.14.50:811][914]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.10.27-23.14.50:811][914]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.10.27-23.14.50:811][914]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.10.27-23.14.50:912][914]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.10.27-23.14.51:013][914]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.10.27-23.14.51:013][914]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.10.27-23.14.51:013][914]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.10.27-23.14.51:013][914]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.10.27-23.14.51:014][914]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.10.27-23.14.51:014][914]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.10.27-23.14.51:024][914]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.10.27-23.14.51:024][914]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.10.27-23.14.51:024][914]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.10.27-23.14.51:024][914]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.10.27-23.14.51:025][914]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.10.27-23.14.51:025][914]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.10.27-23.14.51:025][914]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.10.27-23.14.51:025][914]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.10.27-23.14.51:026][914]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.10.27-23.14.51:026][914]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.10.27-23.14.51:026][914]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.10.27-23.14.51:026][914]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.10.27-23.14.51:026][914]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.10.27-23.14.51:026][914]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.10.27-23.14.51:026][914]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.10.27-23.14.51:026][914]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.10.27-23.14.51:027][914]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.10.27-23.14.51:027][914]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.10.27-23.14.51:027][914]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.10.27-23.14.51:027][914]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.10.27-23.14.51:028][914]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.10.27-23.14.51:028][914]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.10.27-23.14.51:028][914]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.10.27-23.14.51:028][914]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.10.27-23.14.51:040][914]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.10.27-23.14.51:040][914]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.10.27-23.14.51:041][914]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.10.27-23.14.51:049][914]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.10.27-23.14.51:115][914]LogDerivedDataCache: Shutdown
+[2017.10.27-23.14.51:115][914]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.10.27-23.14.51:116][914]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.10.27-23.14.51:117][914]LogOnline: Display: Unloading online subsystem: NULL
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.10.27-23.14.51:117][914]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.10.27-23.14.51:117][914]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.10.27-23.14.51:117][914]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B95BE0F52-442B-DFD6-DBE2-86A2A053D065%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=e66b016b4b8d93fb09d116b30eb46d8c%7C106165e623734435a8a780e61779b206%7Ce6f1d241-7deb-4200-b96c-db511ad94999&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.10.27-23.14.51:128][914]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.10.27-23.14.51:130][914]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.10.27-23.14.51:130][914]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.10.27-23.14.51:130][914]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.10.27-23.14.51:130][914]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.10.27-23.14.51:131][914]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.10.27-23.14.51:131][914]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.10.27-23.14.51:131][914]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.10.27-23.14.51:135][914]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.10.27-23.14.51:135][914]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.10.27-23.14.51:135][914]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.10.27-23.14.51:135][914]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.10.27-23.14.51:135][914]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.10.27-23.14.51:135][914]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.10.27-23.14.51:135][914]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.10.27-23.14.51:136][914]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.10.27-23.14.51:136][914]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.10.27-23.14.51:136][914]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.10.27-23.14.51:136][914]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.10.27-23.14.51:137][914]LogExit: Exiting.
+[2017.10.27-23.14.51:153][914]Log file closed, 10/27/17 17:14:51
