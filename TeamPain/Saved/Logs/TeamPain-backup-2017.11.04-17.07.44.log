@@ -1,0 +1,1094 @@
+﻿Log file open, 11/03/17 18:14:34
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: TeamPain
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-204678909) SRandInit(-204678909).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.180667
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.04-00.14.35:300][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.04-00.14.35:300][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.04-00.14.35:309][  0]LogInit: Computer: DESKTOP-06B5JCP
+[2017.11.04-00.14.35:309][  0]LogInit: User: Aaron
+[2017.11.04-00.14.35:309][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.04-00.14.35:309][  0]LogInit: High frequency timer resolution =2.742194 MHz
+[2017.11.04-00.14.35:310][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.04-00.14.35:310][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.04-00.14.35:310][  0]LogMemory: Process Physical Memory: 278.85 MB used, 278.85 MB peak
+[2017.11.04-00.14.35:310][  0]LogMemory: Process Virtual Memory: 282.56 MB used, 282.56 MB peak
+[2017.11.04-00.14.35:310][  0]LogMemory: Physical Memory: 3106.60 MB used,  13143.57 MB free, 16250.17 MB total
+[2017.11.04-00.14.35:310][  0]LogMemory: Virtual Memory: 676.91 MB used,  13143.57 MB free, 134217728.00 MB total
+[2017.11.04-00.14.38:140][  0]LogInit: Using OS detected language (en-US).
+[2017.11.04-00.14.38:140][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.04-00.14.38:144][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.04-00.14.39:009][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.04-00.14.39:088][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2017.11.04-00.14.39:088][  0]LogD3D11RHI:       4016/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.04-00.14.39:099][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.11.04-00.14.39:099][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.04-00.14.39:101][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.04-00.14.39:101][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.04-00.14.39:101][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.04-00.14.39:105][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.04-00.14.39:105][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2017.11.04-00.14.39:105][  0]LogWindows: EnumDisplayDevices:
+[2017.11.04-00.14.39:106][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.11.04-00.14.39:106][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.04-00.14.39:106][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.04-00.14.39:107][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.11.04-00.14.39:107][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2017.11.04-00.14.39:107][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2017.11.04-00.14.39:107][  0]LogD3D11RHI:   Driver Version: 384.77 (internal:22.21.13.8477, unified:384.77)
+[2017.11.04-00.14.39:107][  0]LogD3D11RHI:      Driver Date: 6-29-2017
+[2017.11.04-00.14.39:107][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.04-00.14.39:145][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.04-00.14.39:156][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.04-00.14.39:157][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Intermediate/Shaders/WorkingDirectory/12580/).
+[2017.11.04-00.14.39:157][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/namur/AppData/Local/Temp/UnrealShaderWorkingDir/FAE7EFE5426FBD4E1584C98F7FAC58B6/'.
+[2017.11.04-00.14.39:157][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.04-00.14.40:266][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.04-00.14.40:346][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.04-00.14.40:424][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.04-00.14.40:507][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.04-00.14.40:585][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.04-00.14.40:657][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.04-00.14.40:737][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.04-00.14.40:811][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.04-00.14.40:879][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.04-00.14.40:954][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.04-00.14.41:030][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.04-00.14.41:100][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.04-00.14.41:179][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.04-00.14.41:248][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.04-00.14.41:326][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.04-00.14.41:474][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.04-00.14.41:474][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.04-00.14.41:538][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.04-00.14.41:670][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.04-00.14.41:713][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.04-00.14.41:788][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.04-00.14.41:866][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.04-00.14.41:945][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.04-00.14.42:025][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.04-00.14.42:025][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.04-00.14.42:890][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.04-00.14.43:009][  0]LogDerivedDataCache: Loaded boot cache 0.12s 93MB C:/Users/namur/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.04-00.14.43:009][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/namur/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.04-00.14.43:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.04-00.14.43:010][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.04-00.14.43:010][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.04-00.14.43:010][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.04-00.14.43:028][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.04-00.14.43:041][  0]LogDerivedDataCache: Using Local data cache path C:/Users/namur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.04-00.14.43:054][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.04-00.14.43:055][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.04-00.14.43:056][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.04-00.14.43:056][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.04-00.14.43:371][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2017.11.04-00.14.43:530][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.04-00.14.43:731][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.04-00.14.44:225][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.04-00.14.44:294][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.04-00.14.44:294][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.04-00.14.44:294][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.04-00.14.44:294][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.04-00.14.44:294][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.04-00.14.44:777][  0]LogNetVersion: TeamPain , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1519948437)
+[2017.11.04-00.14.45:094][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.064818 seconds
+[2017.11.04-00.14.45:103][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.04-00.14.45:103][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.04-00.14.45:103][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.04-00.14.45:204][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.04-00.14.48:840][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.04-00.14.48:905][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.04-00.14.50:200][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.04-00.14.50:848][  0]SourceControl: Source control is disabled
+[2017.11.04-00.14.50:848][  0]SourceControl: Source control is disabled
+[2017.11.04-00.14.50:925][  0]SourceControl: Source control is disabled
+[2017.11.04-00.14.50:999][  0]SourceControl: Source control is disabled
+[2017.11.04-00.14.51:917][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.04-00.14.52:323][  0]LogOcInput: OculusInput pre-init called
+[2017.11.04-00.14.52:727][  0]LogEngine: Initializing Engine...
+[2017.11.04-00.14.52:729][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.04-00.14.53:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.04-00.14.53:020][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.04-00.14.53:228][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.04-00.14.53:236][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.04-00.14.54:541][  0]LogInit: FAudioDevice initialized.
+[2017.11.04-00.14.54:633][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/namur/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.04-00.14.54:652][  0]LogInit: Texture streaming: Enabled
+[2017.11.04-00.14.54:856][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.04-00.14.55:220][  0]LogInit: Transaction tracking system initialized
+[2017.11.04-00.14.55:749][  0]BlueprintLog: New page: Editor Load
+[2017.11.04-00.14.57:266][  0]LocalizationService: Localization service is disabled
+[2017.11.04-00.14.58:675][  0]LogConsoleResponse: Display: 
+[2017.11.04-00.14.58:923][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.04-00.14.58:923][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.04-00.14.58:923][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.04-00.14.59:785][  0]LogFileCache: Scanning file cache for directory 'C:/Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/' took 0.03s
+[2017.11.04-00.15.00:690][  0]SourceControl: Source control is disabled
+[2017.11.04-00.15.00:691][  0]Cmd: MAP LOAD FILE="../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.04-00.15.00:692][  0]LightingResults: New page: Lighting Build
+[2017.11.04-00.15.00:762][  0]MapCheck: New page: Map Check
+[2017.11.04-00.15.00:762][  0]LightingResults: New page: Lighting Build
+[2017.11.04-00.15.02:161][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.11.04-00.15.02:186][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.04-00.15.02:200][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.04-00.15.02:314][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 112.842ms to complete.
+[2017.11.04-00.15.02:314][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.623
+[2017.11.04-00.15.02:395][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.04-00.15.02:495][  0]LogCollectionManager: Loaded 0 collections in 0.002150 seconds
+[2017.11.04-00.15.02:614][  0]LogFileCache: Scanning file cache for directory 'C:/Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Collections/' took 0.01s
+[2017.11.04-00.15.02:614][  0]LogFileCache: Scanning file cache for directory 'C:/Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Developers/Aaron/Collections/' took 0.01s
+[2017.11.04-00.15.02:614][  0]LogFileCache: Scanning file cache for directory 'C:/Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Collections/' took 0.01s
+[2017.11.04-00.15.02:614][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.04-00.15.02:628][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2386 classes and 500 folders.
+[2017.11.04-00.15.02:750][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2017.11.04-00.15.02:806][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.11.04-00.15.02:943][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.11.04-00.15.03:051][  0]LogSlate: Took 0.000358 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.04-00.15.03:055][  0]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.04-00.15.03:057][  0]LogSlate: Took 0.000415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.04-00.15.03:172][  0]LogRenderer: Reallocating scene render targets to support 888x708 Format 9 NumSamples 1 (Frame:1).
+[2017.11.04-00.15.03:444][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0018 seconds. Added 1 classes and 2 folders.
+[2017.11.04-00.15.03:445][  0]LogLoad: (Engine Initialization) Total time: 30.19 seconds
+[2017.11.04-00.15.03:445][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.04-00.15.03:445][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.04-00.15.03:487][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.11.04-00.15.03:521][  0]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.04-00.15.03:619][  2]LogAssetRegistry: Asset discovery search completed in 20.2706 seconds
+[2017.11.04-00.15.03:622][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.04-00.15.03:622][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000048 seconds (updated 0 objects)
+[2017.11.04-00.15.11:058][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Table)
+[2017.11.04-00.15.11:413][442]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.04-00.15.29:948][403]LogTexture: Display: Building textures: T_CrazylightMask_4 (DXT1, 256X256)
+[2017.11.04-00.15.29:948][403]LogTexture: Display: Building textures: WindowFacadeTile_N (BC5, 512X2048)
+[2017.11.04-00.15.29:948][403]LogTexture: Display: Building textures: WindowFacadeTile_M (AutoDXT, 512X2048)
+[2017.11.04-00.15.29:948][403]LogTexture: Display: Building textures: Infil1_Building_Alpha_LOD_N (BC5, 2048X2048)
+[2017.11.04-00.15.29:948][403]LogTexture: Display: Building textures: Infil1_Building_Alpha_LOD_M (AutoDXT, 2048X2048)
+[2017.11.04-00.15.29:948][403]LogTexture: Display: Building textures: Infil1_Building_Alpha_LOD_E (DXT1, 2048X2048)
+[2017.11.04-00.15.30:243][403]LogMaterial: Missing cached shader map for material Building_01_Mat, compiling. 
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_Background/Material/Building_01_Mat.Building_01_Mat for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Generic_RoofTop: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Generic_RoofTop: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Concrete_Wall02: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Concrete_Wall02: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_City_DarkMetal01: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_City_DarkMetal01: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Generic_RoofTop: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Generic_RoofTop: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Concrete_Wall02: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Concrete_Wall02: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_City_DarkMetal01: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_City_DarkMetal01: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Generic_RoofTop: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_Concrete_Wall02: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.30:250][403]LogMaterial: Warning: 	Function ML_Infil1_City_DarkMetal01: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.30:251][403]LogStaticMesh: Building static mesh Building_Alpha_LOD2...
+[2017.11.04-00.15.30:257][403]LogSlate: Took 0.000248 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.04-00.15.30:259][403]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.04-00.15.30:288][403]LogStaticMesh: Built static mesh [0.04s] /Game/Env/Infil1_Buildings/Mesh/Building_Alpha_LOD2.Building_Alpha_LOD2
+[2017.11.04-00.15.45:130][ 86]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_D'
+[2017.11.04-00.15.45:130][ 86]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metals_Pipe_1.uasset.
+[2017.11.04-00.15.45:130][ 86]LoadErrors: Error: /Game/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metals_Pipe_1 : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_D
+[2017.11.04-00.15.45:130][ 86]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.15.45:131][ 86]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metals_Pipe_1.uasset.
+[2017.11.04-00.15.45:131][ 86]LoadErrors: Error: /Game/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metals_Pipe_1 : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N
+[2017.11.04-00.15.45:131][ 86]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_D'
+[2017.11.04-00.15.45:131][ 86]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metals_Pipe_1.uasset.
+[2017.11.04-00.15.45:131][ 86]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.15.45:131][ 86]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metals_Pipe_1.uasset.
+[2017.11.04-00.15.45:220][ 86]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_D'
+[2017.11.04-00.15.45:220][ 86]LoadErrors: Failed to load /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_D.T_Metal_Metal03_D Referenced by MaterialExpressionTextureSample_2
+[2017.11.04-00.15.45:220][ 86]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_D' while loading NULL.
+[2017.11.04-00.15.45:220][ 86]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.15.45:221][ 86]LoadErrors: Failed to load /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N.T_Metal_Metal03_N Referenced by MaterialExpressionTextureSample_3
+[2017.11.04-00.15.45:221][ 86]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading NULL.
+[2017.11.04-00.15.45:237][ 86]LogMaterial: Missing cached shader map for material M_Infil1_Courthouse_Roof_Trim_Grime, compiling. 
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_Courthouse/Material/M_Infil1_Courthouse_Roof_Trim_Grime.M_Infil1_Courthouse_Roof_Trim_Grime for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.45:240][ 86]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.45:243][ 86]LogMaterial: Missing cached shader map for material M_Con_Tech_Wall_2, compiling. 
+[2017.11.04-00.15.45:245][ 86]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_Buildings/Material/M_Con_Tech_Wall_2.M_Con_Tech_Wall_2 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.15.45:245][ 86]LogMaterial: Warning: 	Function ML_Infil1_Metals_Pipe_1: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.45:245][ 86]LogMaterial: Warning: 	Function ML_Infil1_Metals_Pipe_1: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.45:245][ 86]LogMaterial: Warning: 	Function ML_Infil1_Metals_Pipe_1: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.45:245][ 86]LogMaterial: Warning: 	Function ML_Infil1_Metals_Pipe_1: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.45:245][ 86]LogMaterial: Warning: 	Function ML_Infil1_Metals_Pipe_1: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.45:246][ 86]LogStaticMesh: Building static mesh Con_Tech_Pillar_3...
+[2017.11.04-00.15.45:271][ 86]LogStaticMesh: Built static mesh [0.02s] /Game/Env/Infil1_Buildings/Mesh/Con_Tech_Pillar_3.Con_Tech_Pillar_3
+[2017.11.04-00.15.50:457][274]LogStaticMesh: Building static mesh SM_Infil1_Roof2...
+[2017.11.04-00.15.50:506][274]LogStaticMesh: Built static mesh [0.05s] /Game/Env/Infil1_Buildings/Mesh/SM_Infil1_Roof2.SM_Infil1_Roof2
+[2017.11.04-00.15.50:524][274]LogMaterial: Missing cached shader map for material M_Infil1_Courthouse_Roof_Oxidized_Copper_Panels, compiling. 
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_Courthouse/Material/M_Infil1_Courthouse_Roof_Oxidized_Copper_Panels.M_Infil1_Courthouse_Roof_Oxidized_Copper_Panels for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.50:526][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.50:527][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.50:527][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.50:527][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.50:527][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.50:527][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.50:527][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.50:529][274]LogMaterial: Missing cached shader map for material M_Infil1_Courthouse_Roof_Oxidized_Copper_Trim, compiling. 
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_Courthouse/Material/M_Infil1_Courthouse_Roof_Oxidized_Copper_Trim.M_Infil1_Courthouse_Roof_Oxidized_Copper_Trim for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Flat: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Base: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.15.50:532][274]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.16.42:724][890]LogStaticMesh: Building static mesh Awning...
+[2017.11.04-00.16.42:742][890]LogStaticMesh: Built static mesh [0.02s] /Game/Env/Infil1_City_Decos/Mesh/Awning.Awning
+[2017.11.04-00.17.02:307][729]LogTexture: Display: Building textures: T_Infil1_City_Decos_Bench_N (BC5, 2048X2048)
+[2017.11.04-00.17.02:307][729]LogTexture: Display: Building textures: T_Infil1_City_Decos_Bench_M (DXT1, 2048X2048)
+[2017.11.04-00.17.02:312][729]LogMaterial: Missing cached shader map for material M_Infil1_City_Deco_Bench, compiling. 
+[2017.11.04-00.17.02:358][729]LogStaticMesh: Building static mesh SM_Infil1_City_Decos_Bench...
+[2017.11.04-00.17.02:427][729]LogStaticMesh: Built static mesh [0.07s] /Game/Env/Infil1_City_Decos/Mesh/SM_Infil1_City_Decos_Bench.SM_Infil1_City_Decos_Bench
+[2017.11.04-00.17.02:485][729]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N'
+[2017.11.04-00.17.02:485][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze.uasset.
+[2017.11.04-00.17.02:485][729]LoadErrors: Error: /Game/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N
+[2017.11.04-00.17.02:486][729]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N'
+[2017.11.04-00.17.02:486][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze.uasset.
+[2017.11.04-00.17.02:494][729]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N'
+[2017.11.04-00.17.02:495][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Copper_Grime2.uasset.
+[2017.11.04-00.17.02:495][729]LoadErrors: Error: /Game/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Copper_Grime2 : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N
+[2017.11.04-00.17.02:496][729]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N'
+[2017.11.04-00.17.02:496][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Copper_Grime2.uasset.
+[2017.11.04-00.17.02:523][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO'
+[2017.11.04-00.17.02:523][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_City_Statue_Master.uasset.
+[2017.11.04-00.17.02:523][729]LoadErrors: Error: /Game/Env/Infil1_City_Decos/Material/M_City_Statue_Master : Can't find file for asset. /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO
+[2017.11.04-00.17.02:523][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.17.02:523][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_City_Statue_Master.uasset.
+[2017.11.04-00.17.02:523][729]LoadErrors: Error: /Game/Env/Infil1_City_Decos/Material/M_City_Statue_Master : Can't find file for asset. /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N
+[2017.11.04-00.17.02:532][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO'
+[2017.11.04-00.17.02:532][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_City_Statue_Master.uasset.
+[2017.11.04-00.17.02:532][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.17.02:532][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_City_Statue_Master.uasset.
+[2017.11.04-00.17.02:551][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO'
+[2017.11.04-00.17.02:551][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_Bronze_Statue_Master_Cloaked.uasset.
+[2017.11.04-00.17.02:551][729]LoadErrors: Error: /Game/Env/Infil1_City_Decos/Material/M_Infil1_Bronze_Statue_Master_Cloaked : Can't find file for asset. /Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO
+[2017.11.04-00.17.02:551][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_N'
+[2017.11.04-00.17.02:551][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_Bronze_Statue_Master_Cloaked.uasset.
+[2017.11.04-00.17.02:551][729]LoadErrors: Error: /Game/Env/Infil1_City_Decos/Material/M_Infil1_Bronze_Statue_Master_Cloaked : Can't find file for asset. /Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_N
+[2017.11.04-00.17.02:551][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO'
+[2017.11.04-00.17.02:551][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_Bronze_Statue_Master_Cloaked.uasset.
+[2017.11.04-00.17.02:552][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_N'
+[2017.11.04-00.17.02:552][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_Bronze_Statue_Master_Cloaked.uasset.
+[2017.11.04-00.17.02:555][729]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N'
+[2017.11.04-00.17.02:555][729]LoadErrors: Failed to load /Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N.T_Infil1_Metal_Copper_Shiny_N Referenced by MaterialExpressionTextureSample_3
+[2017.11.04-00.17.02:556][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N' while loading NULL.
+[2017.11.04-00.17.02:560][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO'
+[2017.11.04-00.17.02:560][729]LoadErrors: Failed to load /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO.T_Female_Statue_Naked_AO Referenced by MaterialExpressionTextureSampleParameter2D_37
+[2017.11.04-00.17.02:560][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO' while loading NULL.
+[2017.11.04-00.17.02:560][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.17.02:560][729]LoadErrors: Failed to load /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N.T_Female_Statue_Naked_N Referenced by MaterialExpressionTextureSampleParameter2D_38
+[2017.11.04-00.17.02:561][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading NULL.
+[2017.11.04-00.17.02:561][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO'
+[2017.11.04-00.17.02:561][729]LoadErrors: Failed to load /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO.T_Female_Statue_Naked_AO Referenced by MaterialExpressionTextureSampleParameter2D_39
+[2017.11.04-00.17.02:561][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO' while loading NULL.
+[2017.11.04-00.17.02:561][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO'
+[2017.11.04-00.17.02:561][729]LoadErrors: Failed to load /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO.T_Female_Statue_Naked_AO Referenced by MaterialExpressionTextureSampleParameter2D_7
+[2017.11.04-00.17.02:561][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_AO' while loading NULL.
+[2017.11.04-00.17.02:564][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO'
+[2017.11.04-00.17.02:565][729]LoadErrors: Failed to load /Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO.T_Male_Statue_Naked_AO Referenced by M_Infil1_Bronze_Statue_Master_Cloaked
+[2017.11.04-00.17.02:565][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO' while loading NULL.
+[2017.11.04-00.17.02:565][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO'
+[2017.11.04-00.17.02:565][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO' while loading NULL.
+[2017.11.04-00.17.02:566][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_N'
+[2017.11.04-00.17.02:566][729]LoadErrors: Failed to load /Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_N.T_Male_Statue_Naked_N Referenced by M_Infil1_Bronze_Statue_Master_Cloaked
+[2017.11.04-00.17.02:566][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_N' while loading NULL.
+[2017.11.04-00.17.02:566][729]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO'
+[2017.11.04-00.17.02:566][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Male_Statue_Naked_AO' while loading NULL.
+[2017.11.04-00.17.02:577][729]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N'
+[2017.11.04-00.17.02:577][729]LoadErrors: Failed to load /Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N.T_Infil1_Metal_Copper_Grime_N Referenced by MaterialExpressionTextureSample_3
+[2017.11.04-00.17.02:577][729]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N' while loading NULL.
+[2017.11.04-00.17.05:406][729]LogTexture: Display: Building textures: T_DPW_Bot_Var (AutoDXT, 512X512)
+[2017.11.04-00.17.05:406][729]LogTexture: Display: Building textures: T_CloakwithSword_N (BC5, 2048X2048)
+[2017.11.04-00.17.05:406][729]LogTexture: Display: Building textures: T_Cloakwithsword_AO (AutoDXT, 2048X2048)
+[2017.11.04-00.17.05:406][729]LogTexture: Display: Building textures: T_Infil1_City_Deco_Planter_Top_M (AutoDXT, 2048X2048)
+[2017.11.04-00.17.05:406][729]LogMaterial: Missing cached shader map for material M_City_Statue_Master, compiling. 
+[2017.11.04-00.17.05:418][729]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_City_Decos/Material/M_City_Statue_Master.M_City_Statue_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.17.05:418][729]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime2: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.17.05:418][729]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime2: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.17.05:418][729]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.17.05:418][729]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.17.05:418][729]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.04-00.17.05:419][729]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.17.05:419][729]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.17.05:419][729]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.17.05:419][729]LogMaterial: Warning: 	Function Blend_Overlay: (Node If) If input A must be of type float.
+[2017.11.04-00.17.05:419][729]LogMaterial: Warning: 	(Node TextureSampleParameter2D) // LAYER MASK> Requires Texture2D
+[2017.11.04-00.17.05:419][729]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.17.05:419][729]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.17.05:435][729]LogStaticMesh: Building static mesh Statue_CloakedWithSword...
+[2017.11.04-00.17.05:672][729]LogStaticMesh: Built static mesh [0.24s] /Game/Env/Infil1_City_Decos/Mesh/Statue_CloakedWithSword.Statue_CloakedWithSword
+[2017.11.04-00.18.47:534][426]LogMaterial: Missing cached shader map for material M_City_Statue_Master, compiling. 
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_City_Decos/Material/M_City_Statue_Master.M_City_Statue_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime2: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime2: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function Blend_Overlay: (Node If) If input A must be of type float.
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	(Node TextureSampleParameter2D) // LAYER MASK> Requires Texture2D
+[2017.11.04-00.18.47:537][426]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.18.47:538][426]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.18.47:538][426]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.18.47:704][426]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.04-00.18.47:705][426]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_0 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.18.47:705][426]LogMaterial: Warning: 	(Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.18.47:705][426]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.18.47:706][426]LogMaterial: Warning: 	(Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.18.47:706][426]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.18.47:706][426]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.19.00:241][942]LogTexture: Display: Building textures: T_Infil1_Base_Metal_Gray_D (AutoDXT, 2048X2048)
+[2017.11.04-00.19.00:937][942]LogTexture: Display: Building textures: T_Infil1_Base_Metal_Gray_N (BC5, 2048X2048)
+[2017.11.04-00.19.06:308][123]LogMaterial: Missing cached shader map for material M_Infil1_City_Deco_Bench, compiling. 
+[2017.11.04-00.19.06:310][123]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_City_Decos/M_Infil1_City_Deco_Bench.M_Infil1_City_Deco_Bench for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.19.06:311][123]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.19.06:311][123]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.19.06:311][123]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.19.06:676][123]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2017.11.04-00.19.06:676][123]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_1 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.19.06:676][123]LogMaterial: Warning: 	(Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.19.06:676][123]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.19.06:677][123]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.19.26:123][167]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2017.11.04-00.20.04:957][234]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_D'
+[2017.11.04-00.20.04:957][234]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Base_Metal_Gray_Grime.uasset.
+[2017.11.04-00.20.04:957][234]LoadErrors: Error: /Game/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Base_Metal_Gray_Grime : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_D
+[2017.11.04-00.20.04:958][234]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_N'
+[2017.11.04-00.20.04:958][234]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Base_Metal_Gray_Grime.uasset.
+[2017.11.04-00.20.04:958][234]LoadErrors: Error: /Game/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Base_Metal_Gray_Grime : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_N
+[2017.11.04-00.20.04:958][234]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_D'
+[2017.11.04-00.20.04:958][234]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Base_Metal_Gray_Grime.uasset.
+[2017.11.04-00.20.04:958][234]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_N'
+[2017.11.04-00.20.04:958][234]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Base_Metal_Gray_Grime.uasset.
+[2017.11.04-00.20.05:006][234]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_D'
+[2017.11.04-00.20.05:007][234]LoadErrors: Failed to load /Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_D.T_Infil1_Base_Metal_Gray_D Referenced by MaterialExpressionTextureSample_2
+[2017.11.04-00.20.05:007][234]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_D' while loading NULL.
+[2017.11.04-00.20.05:008][234]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_N'
+[2017.11.04-00.20.05:008][234]LoadErrors: Failed to load /Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_N.T_Infil1_Base_Metal_Gray_N Referenced by MaterialExpressionTextureSample_3
+[2017.11.04-00.20.05:009][234]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Gray_N' while loading NULL.
+[2017.11.04-00.20.09:673][234]LogTexture: Display: Building textures: T_Underground_Ceiling_Pipes_N (BC5, 2048X2048)
+[2017.11.04-00.20.09:673][234]LogTexture: Display: Building textures: T_Infil1_Metal_Painted_05_N (BC5, 2048X2048)
+[2017.11.04-00.20.09:673][234]LogTexture: Display: Building textures: T_Infil1_Metal_Painted_05_D (AutoDXT, 2048X2048)
+[2017.11.04-00.20.09:673][234]LogTexture: Display: Building textures: T_Underground_Ceiling_Pipes_M (AutoDXT, 2048X2048)
+[2017.11.04-00.20.09:673][234]LogMaterial: Missing cached shader map for material M_Infil1_Underground_Ceiling_Pipes, compiling. 
+[2017.11.04-00.20.09:676][234]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Infil1_Underground_Ceiling_Pipes.M_Infil1_Underground_Ceiling_Pipes for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.09:676][234]LogMaterial: Warning: 	Function ML_Infil1_Base_Metal_Gray_Grime: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.20.09:677][234]LogMaterial: Warning: 	Function ML_Infil1_Base_Metal_Gray_Grime: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.09:677][234]LogMaterial: Warning: 	Function ML_Infil1_Base_Metal_Gray_Grime: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.20.09:677][234]LogMaterial: Warning: 	Function ML_Infil1_Base_Metal_Gray_Grime: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.09:677][234]LogMaterial: Warning: 	Function ML_Infil1_Base_Metal_Gray_Grime: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.09:678][234]LogStaticMesh: Building static mesh SM_Infil1_Tunnel_Ceiling_Pipes_1x1000...
+[2017.11.04-00.20.09:697][234]LogStaticMesh: Built static mesh [0.02s] /Game/Env/Underground/Infrastructure/Model/SM_Infil1_Tunnel_Ceiling_Pipes_1x1000.SM_Infil1_Tunnel_Ceiling_Pipes_1x1000
+[2017.11.04-00.20.09:731][234]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2017.11.04-00.20.09:731][234]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_3 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.09:731][234]LogMaterial: Warning: 	(Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.20.09:731][234]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.09:732][234]LogMaterial: Warning: 	(Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.20.09:732][234]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.09:732][234]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.16:145][474]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Light_D'
+[2017.11.04-00.20.16:146][474]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Light_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metal_Base_Light.uasset.
+[2017.11.04-00.20.16:146][474]LoadErrors: Error: /Game/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metal_Base_Light : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Light_D
+[2017.11.04-00.20.16:153][474]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Light_D'
+[2017.11.04-00.20.16:153][474]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Light_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metal_Base_Light.uasset.
+[2017.11.04-00.20.21:379][474]LogTexture: Display: Building textures: T_Infil1_Metal_Scuffed_N (AutoDXT, 2048X2048)
+[2017.11.04-00.20.21:379][474]LogTexture: Display: Building textures: T_Infil1_Metal_Scuffed_D (AutoDXT, 2048X2048)
+[2017.11.04-00.20.21:387][474]LogMaterial: Missing cached shader map for material M_Infil1_Underground_Pipe_Clamps_04, compiling. 
+[2017.11.04-00.20.21:390][474]LogMaterial: Warning: Failed to compile Material /Game/Env/Infrastructure/Metals/Materials/M_Infil1_Underground_Pipe_Clamps_04.M_Infil1_Underground_Pipe_Clamps_04 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.21:390][474]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.20.21:391][474]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.21:391][474]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.21:393][474]LogStaticMesh: Building static mesh SM_Underground_Pipe_Clamp06...
+[2017.11.04-00.20.21:449][474]LogStaticMesh: Built static mesh [0.06s] /Game/Env/Underground/Infrastructure/Model/SM_Underground_Pipe_Clamp06.SM_Underground_Pipe_Clamp06
+[2017.11.04-00.20.38:463][280]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D'
+[2017.11.04-00.20.38:464][280]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01.uasset.
+[2017.11.04-00.20.38:464][280]LoadErrors: Error: /Game/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01 : Can't find file for asset. /Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D
+[2017.11.04-00.20.38:464][280]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N'
+[2017.11.04-00.20.38:464][280]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01.uasset.
+[2017.11.04-00.20.38:464][280]LoadErrors: Error: /Game/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01 : Can't find file for asset. /Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N
+[2017.11.04-00.20.38:464][280]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D'
+[2017.11.04-00.20.38:464][280]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01.uasset.
+[2017.11.04-00.20.38:464][280]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N'
+[2017.11.04-00.20.38:465][280]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01.uasset.
+[2017.11.04-00.20.38:487][280]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D'
+[2017.11.04-00.20.38:487][280]LoadErrors: Failed to load /Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D.T_Yellow_Paint_D Referenced by MaterialExpressionTextureSample_0
+[2017.11.04-00.20.38:488][280]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D' while loading NULL.
+[2017.11.04-00.20.38:488][280]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N'
+[2017.11.04-00.20.38:488][280]LoadErrors: Failed to load /Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N.T_Yellow_Paint_N Referenced by MaterialExpressionTextureSample_1
+[2017.11.04-00.20.38:488][280]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N' while loading NULL.
+[2017.11.04-00.20.38:496][280]LogStaticMesh: Building static mesh Floor_Grate_3...
+[2017.11.04-00.20.38:521][280]LogStaticMesh: Built static mesh [0.03s] /Game/Env/Underground/Infrastructure/Model/Floor_Grate_3.Floor_Grate_3
+[2017.11.04-00.20.38:531][280]LogMaterial: Missing cached shader map for material M_Floor_Tech_1_Edge, compiling. 
+[2017.11.04-00.20.38:533][280]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1_Edge.M_Floor_Tech_1_Edge for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.38:533][280]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.20.38:533][280]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.38:533][280]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.20.38:533][280]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.38:533][280]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.59:172][ 46]LogMaterial: Missing cached shader map for material M_Floor_Tech_1, compiling. 
+[2017.11.04-00.20.59:174][ 46]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1.M_Floor_Tech_1 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.59:174][ 46]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.04-00.20.59:174][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:174][ 46]LogMaterial: Warning: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:174][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.59:174][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.20.59:174][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.04-00.20.59:174][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.59:178][ 46]LogMaterial: Missing cached shader map for material M_Floor_Tech_1, compiling. 
+[2017.11.04-00.20.59:181][ 46]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1.M_Floor_Tech_1 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.59:181][ 46]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.04-00.20.59:181][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:181][ 46]LogMaterial: Warning: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:181][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.59:181][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.20.59:181][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.04-00.20.59:181][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.59:185][ 46]LogMaterial: Missing cached shader map for material M_Floor_Tech_1, compiling. 
+[2017.11.04-00.20.59:187][ 46]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1.M_Floor_Tech_1 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.59:187][ 46]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.04-00.20.59:187][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:187][ 46]LogMaterial: Warning: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:187][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.59:187][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.20.59:187][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.04-00.20.59:187][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.59:192][ 46]LogMaterial: Missing cached shader map for material M_Floor_Tech_1, compiling. 
+[2017.11.04-00.20.59:194][ 46]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1.M_Floor_Tech_1 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.59:194][ 46]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.04-00.20.59:194][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:194][ 46]LogMaterial: Warning: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:194][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.59:194][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.20.59:194][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.04-00.20.59:194][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.59:199][ 46]LogMaterial: Missing cached shader map for material M_Floor_Tech_1, compiling. 
+[2017.11.04-00.20.59:202][ 46]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1.M_Floor_Tech_1 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.59:202][ 46]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.04-00.20.59:202][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:202][ 46]LogMaterial: Warning: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:202][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.59:202][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.20.59:202][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.04-00.20.59:202][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.59:208][ 46]LogMaterial: Missing cached shader map for material M_Floor_Tech_1_Edge, compiling. 
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1_Edge.M_Floor_Tech_1_Edge for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.59:209][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.59:214][ 46]LogMaterial: Missing cached shader map for material M_Floor_Tech_1_Edge, compiling. 
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1_Edge.M_Floor_Tech_1_Edge for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.20.59:215][ 46]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.22.03:740][510]LogSavePackage: Save=480.23ms
+[2017.11.04-00.22.03:740][510]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Minimal_Default15B481B94FC2AC352E64F0837886CF5A.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.11.04-00.22.03:744][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.11.04-00.22.03:923][510]LogSavePackage: Save=122.13ms
+[2017.11.04-00.22.03:923][510]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Minimal_Default_BuiltData462597DD4A70F83C266975A7C8364894.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.11.04-00.22.03:925][510]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.11.04-00.23.01:777][211]LogTexture: Display: Building textures: T_Coathook_M (AutoDXT, 1024X1024)
+[2017.11.04-00.23.01:777][211]LogTexture: Display: Building textures: T_CoatHook_N (BC5, 1024X1024)
+[2017.11.04-00.23.16:948][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_Coathook_M'
+[2017.11.04-00.23.16:948][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_Coathook_M' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/ArchVis/Materials/M_Coathook.uasset.
+[2017.11.04-00.23.16:948][828]LoadErrors: Error: /Game/ArchVis/Materials/M_Coathook : Can't find file for asset. /Game/ArchVis/Textures/T_Coathook_M
+[2017.11.04-00.23.16:948][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_CoatHook_N'
+[2017.11.04-00.23.16:948][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_CoatHook_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/ArchVis/Materials/M_Coathook.uasset.
+[2017.11.04-00.23.16:949][828]LoadErrors: Error: /Game/ArchVis/Materials/M_Coathook : Can't find file for asset. /Game/ArchVis/Textures/T_CoatHook_N
+[2017.11.04-00.23.16:949][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_Coathook_M'
+[2017.11.04-00.23.16:949][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_Coathook_M' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/ArchVis/Materials/M_Coathook.uasset.
+[2017.11.04-00.23.16:949][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_CoatHook_N'
+[2017.11.04-00.23.16:949][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_CoatHook_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/ArchVis/Materials/M_Coathook.uasset.
+[2017.11.04-00.23.16:950][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_CoatHook_N'
+[2017.11.04-00.23.16:950][828]LoadErrors: Failed to load /Game/ArchVis/Textures/T_CoatHook_N.T_CoatHook_N Referenced by M_Coathook
+[2017.11.04-00.23.16:951][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_CoatHook_N' while loading NULL.
+[2017.11.04-00.23.16:951][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_Coathook_M'
+[2017.11.04-00.23.16:951][828]LoadErrors: Failed to load /Game/ArchVis/Textures/T_Coathook_M.T_Coathook_M Referenced by M_Coathook
+[2017.11.04-00.23.16:951][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_Coathook_M' while loading NULL.
+[2017.11.04-00.23.16:951][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_CoatHook_N'
+[2017.11.04-00.23.16:951][828]LoadErrors: Failed to load /Game/ArchVis/Textures/T_CoatHook_N.T_CoatHook_N Referenced by MaterialExpressionTextureSample_5
+[2017.11.04-00.23.16:951][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_CoatHook_N' while loading NULL.
+[2017.11.04-00.23.16:952][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_Coathook_M'
+[2017.11.04-00.23.16:952][828]LoadErrors: Failed to load /Game/ArchVis/Textures/T_Coathook_M.T_Coathook_M Referenced by MaterialExpressionTextureSample_6
+[2017.11.04-00.23.16:952][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_Coathook_M' while loading NULL.
+[2017.11.04-00.23.16:957][828]LogMaterial: Missing cached shader map for material M_Coathook, compiling. 
+[2017.11.04-00.23.16:958][828]LogMaterial: Warning: Failed to compile Material /Game/ArchVis/Materials/M_Coathook.M_Coathook for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.23.16:958][828]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.04-00.23.16:960][828]LogStaticMesh: Building static mesh CoatHook...
+[2017.11.04-00.23.16:991][828]LogStaticMesh: Built static mesh [0.03s] /Game/ArchVis/Mesh/CoatHook.CoatHook
+[2017.11.04-00.23.17:006][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_CoatHookBack_M'
+[2017.11.04-00.23.17:006][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_CoatHookBack_M' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/ArchVis/Materials/M_CoathookBack.uasset.
+[2017.11.04-00.23.17:006][828]LoadErrors: Error: /Game/ArchVis/Materials/M_CoathookBack : Can't find file for asset. /Game/ArchVis/Textures/T_CoatHookBack_M
+[2017.11.04-00.23.17:011][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_CoatHookBack_M'
+[2017.11.04-00.23.17:011][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_CoatHookBack_M' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/ArchVis/Materials/M_CoathookBack.uasset.
+[2017.11.04-00.23.17:014][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_CoatHookBack_M'
+[2017.11.04-00.23.17:014][828]LoadErrors: Failed to load /Game/ArchVis/Textures/T_CoatHookBack_M.T_CoatHookBack_M Referenced by M_CoathookBack
+[2017.11.04-00.23.17:014][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_CoatHookBack_M' while loading NULL.
+[2017.11.04-00.23.17:015][828]LogLinker: Warning: Can't find file '/Game/ArchVis/Textures/T_CoatHookBack_M'
+[2017.11.04-00.23.17:015][828]LoadErrors: Failed to load /Game/ArchVis/Textures/T_CoatHookBack_M.T_CoatHookBack_M Referenced by MaterialExpressionTextureSample_4
+[2017.11.04-00.23.17:015][828]LogLinker: Warning: Can't find file for asset '/Game/ArchVis/Textures/T_CoatHookBack_M' while loading NULL.
+[2017.11.04-00.23.17:018][828]LogMaterial: Missing cached shader map for material M_CoathookBack, compiling. 
+[2017.11.04-00.23.17:018][828]LogMaterial: Warning: Failed to compile Material /Game/ArchVis/Materials/M_CoathookBack.M_CoathookBack for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.23.17:018][828]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.04-00.23.48:582][233]LogSavePackage: Save=582.18ms
+[2017.11.04-00.23.48:582][233]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Minimal_Default80CCE9614BA55FCB12C6F89A5E83AE2A.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.11.04-00.23.48:586][233]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.11.04-00.23.48:795][233]LogSavePackage: Save=142.39ms
+[2017.11.04-00.23.48:795][233]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Minimal_Default_BuiltData40F0D9594BFA55946DCA23AF7930A30B.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.11.04-00.23.48:798][233]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.11.04-00.24.23:632][998]LogSavePackage: Save=477.53ms
+[2017.11.04-00.24.23:632][998]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Minimal_DefaultF3707B5842D9D7DDCF7A25BAF7E54CAF.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.11.04-00.24.23:637][998]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.11.04-00.24.23:801][998]LogSavePackage: Save=126.86ms
+[2017.11.04-00.24.23:801][998]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Minimal_Default_BuiltData101FD5404C0328AB994B3EA1548CA868.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.11.04-00.24.23:806][998]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.11.04-00.25.12:351][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Light_D'
+[2017.11.04-00.25.12:351][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Light_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metal_Base_Light.uasset.
+[2017.11.04-00.25.12:354][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Light_D'
+[2017.11.04-00.25.12:354][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Base_Metal_Light_D' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metal_Base_Light.uasset.
+[2017.11.04-00.25.12:395][965]LogMaterial: Missing cached shader map for material M_Infil1_City_Justice_Trims_Emissive, compiling. 
+[2017.11.04-00.25.12:398][965]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_City_Decos/Material/M_Infil1_City_Justice_Trims_Emissive.M_Infil1_City_Justice_Trims_Emissive for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.25.12:398][965]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.25.12:398][965]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.25.12:398][965]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.25.12:425][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_City_Statue_Bronze'
+[2017.11.04-00.25.12:425][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_City_Statue_Bronze' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze.uasset.
+[2017.11.04-00.25.12:425][965]LoadErrors: Error: /Game/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Infil1_City_Statue_Bronze
+[2017.11.04-00.25.12:425][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N'
+[2017.11.04-00.25.12:425][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze.uasset.
+[2017.11.04-00.25.12:426][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_City_Statue_Bronze'
+[2017.11.04-00.25.12:426][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_City_Statue_Bronze' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze.uasset.
+[2017.11.04-00.25.12:426][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N'
+[2017.11.04-00.25.12:426][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Shiny_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze.uasset.
+[2017.11.04-00.25.12:430][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N'
+[2017.11.04-00.25.12:430][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Copper_Grime2.uasset.
+[2017.11.04-00.25.12:431][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N'
+[2017.11.04-00.25.12:431][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Infil1_Metal_Copper_Grime_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Copper_Grime2.uasset.
+[2017.11.04-00.25.12:445][965]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.25.12:445][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Master.uasset.
+[2017.11.04-00.25.12:445][965]LoadErrors: Error: /Game/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Master : Can't find file for asset. /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N
+[2017.11.04-00.25.12:453][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.25.12:453][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Master.uasset.
+[2017.11.04-00.25.12:454][965]LoadErrors: Error: /Game/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Master : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N
+[2017.11.04-00.25.12:454][965]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.25.12:454][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Master.uasset.
+[2017.11.04-00.25.12:455][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.25.12:455][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Master.uasset.
+[2017.11.04-00.25.12:457][965]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.25.12:457][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue.uasset.
+[2017.11.04-00.25.12:457][965]LoadErrors: Error: /Game/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue : Can't find file for asset. /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N
+[2017.11.04-00.25.12:458][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.25.12:458][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue.uasset.
+[2017.11.04-00.25.12:458][965]LoadErrors: Error: /Game/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N
+[2017.11.04-00.25.12:459][965]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.25.12:459][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue.uasset.
+[2017.11.04-00.25.12:459][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.25.12:459][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue.uasset.
+[2017.11.04-00.25.12:460][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.25.12:460][965]LoadErrors: Failed to load /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N.T_Metal_Metal03_N Referenced by M_Infil1_City_New_Female_Statue
+[2017.11.04-00.25.12:460][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading NULL.
+[2017.11.04-00.25.12:460][965]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.25.12:460][965]LoadErrors: Failed to load /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N.T_Female_Statue_Naked_N Referenced by M_Infil1_City_New_Female_Statue
+[2017.11.04-00.25.12:461][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading NULL.
+[2017.11.04-00.25.12:462][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.25.12:462][965]LoadErrors: Failed to load /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N.T_Metal_Metal03_N Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2017.11.04-00.25.12:462][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading NULL.
+[2017.11.04-00.25.12:463][965]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.25.12:463][965]LoadErrors: Failed to load /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N.T_Female_Statue_Naked_N Referenced by MaterialExpressionTextureSampleParameter2D_1
+[2017.11.04-00.25.12:463][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading NULL.
+[2017.11.04-00.25.12:463][965]LogLinker: Warning: Can't find file '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N'
+[2017.11.04-00.25.12:463][965]LoadErrors: Failed to load /Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N.T_Female_Statue_Naked_N Referenced by MaterialExpressionTextureSampleParameter2D_3
+[2017.11.04-00.25.12:463][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infil1_City_Decos/Texture/T_Female_Statue_Naked_N' while loading NULL.
+[2017.11.04-00.25.12:469][965]LogMaterial: Missing cached shader map for material M_Infil1_City_New_Female_Statue_Master, compiling. 
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Master.M_Infil1_City_New_Female_Statue_Master for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime2: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function ML_Infil1_Copper_Grime2: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function ML_Infil1_City_Statue_Bronze: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.25.12:474][965]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.25.12:495][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.25.12:495][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Justine.uasset.
+[2017.11.04-00.25.12:496][965]LoadErrors: Error: /Game/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Justine : Can't find file for asset. /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N
+[2017.11.04-00.25.12:497][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.25.12:497][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/Material/M_Infil1_City_New_Female_Statue_Justine.uasset.
+[2017.11.04-00.25.12:499][965]LogLinker: Warning: Can't find file '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N'
+[2017.11.04-00.25.12:500][965]LoadErrors: Failed to load /Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N.T_Metal_Metal03_N Referenced by M_Infil1_City_New_Female_Statue_Justine
+[2017.11.04-00.25.12:500][965]LogLinker: Warning: Can't find file for asset '/Game/Env/Infrastructure/Metals/Texture/T_Metal_Metal03_N' while loading NULL.
+[2017.11.04-00.25.28:901][699]LogMaterial: Missing cached shader map for material Material_4, compiling. 
+[2017.11.04-00.25.28:902][699]LogMaterial: Warning: Failed to compile Material /Engine/Transient.Material_4 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.04-00.25.28:902][699]LogMaterial: Warning: 	(Node TextureSample) NORMAL> Missing input texture
+[2017.11.04-00.25.28:902][699]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Normal
+[2017.11.04-00.25.28:902][699]LogMaterial: Warning: 	(Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.04-00.25.28:902][699]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.04-00.25.28:902][699]LogMaterial: Warning: 	(Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.04-00.25.55:551][858]LogSavePackage: Save=475.93ms
+[2017.11.04-00.25.55:551][858]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Minimal_Default27B7735545372229F3DE9D970281DE7E.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.11.04-00.25.55:555][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.11.04-00.25.55:729][858]LogSavePackage: Save=125.02ms
+[2017.11.04-00.25.55:729][858]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Minimal_Default_BuiltData75DAE9904700A0E9AFC24F85C3F5EE70.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2017.11.04-00.25.55:732][858]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset
+[2017.11.04-00.26.05:939][ 60]LogSavePackage: Save=30.18ms
+[2017.11.04-00.26.05:939][ 60]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/M_Infil1_City_Deco_Bench6A40F4D1477FF228DE0E6F92B7399565.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/M_Infil1_City_Deco_Bench.uasset'
+[2017.11.04-00.26.05:945][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infil1_City_Decos/M_Infil1_City_Deco_Bench.uasset
+[2017.11.04-00.26.06:023][ 60]LogSavePackage: Save=25.44ms
+[2017.11.04-00.26.06:023][ 60]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/ML_Infil1_City_Statue_Bronze72D96B5044F68A4E9B0E6D99FDCFF7AE.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze.uasset'
+[2017.11.04-00.26.06:029][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_City_Statue_Bronze.uasset
+[2017.11.04-00.26.06:087][ 60]LogSavePackage: Save=21.08ms
+[2017.11.04-00.26.06:087][ 60]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/ML_Infil1_Metal_Base_Light2320FE1B4BDC812791C05DAA8F1060F1.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metal_Base_Light.uasset'
+[2017.11.04-00.26.06:092][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Infrastructure/Metals/MaterialLayers/ML_Infil1_Metal_Base_Light.uasset
+[2017.11.04-00.26.06:151][ 60]LogSavePackage: Save=24.43ms
+[2017.11.04-00.26.06:151][ 60]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/M_Floor_Tech_177CB79A04CC92F193392718D219A466E.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1.uasset'
+[2017.11.04-00.26.06:156][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1.uasset
+[2017.11.04-00.26.06:205][ 60]LogSavePackage: Save=16.11ms
+[2017.11.04-00.26.06:205][ 60]LogSavePackage: Moving '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/M_Floor_Tech_1_EdgeB773F07242D2A2E1EAE3E6A5460EAD6F.tmp' to '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1_Edge.uasset'
+[2017.11.04-00.26.06:211][ 60]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1_Edge.uasset
+[2017.11.04-00.26.06:696][ 61]Cmd: QUIT_EDITOR
+[2017.11.04-00.26.06:742][ 61]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.04-00.26.06:761][ 61]LogExit: Preparing to exit.
+[2017.11.04-00.26.07:563][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/' was aborted.
+[2017.11.04-00.26.07:597][ 61]LogExit: Editor shut down
+[2017.11.04-00.26.07:602][ 61]LogExit: Transaction tracking system shut down
+[2017.11.04-00.26.07:762][ 61]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.04-00.26.07:762][ 61]LogDirectoryWatcher: A directory notification for '../../../../../../Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/' was aborted.
+[2017.11.04-00.26.07:762][ 61]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.04-00.26.07:762][ 61]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.04-00.26.07:762][ 61]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.04-00.26.08:025][ 61]LogExit: Object subsystem successfully closed.
+[2017.11.04-00.26.08:045][ 61]LogD3D11RHI: Shutdown
+[2017.11.04-00.26.08:045][ 61]LogD3D11RHI: CleanupD3DDevice
+[2017.11.04-00.26.08:252][ 61]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.04-00.26.08:275][ 61]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2017.11.04-00.26.08:276][ 61]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2017.11.04-00.26.08:276][ 61]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2017.11.04-00.26.08:276][ 61]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.04-00.26.08:277][ 61]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2017.11.04-00.26.08:277][ 61]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2017.11.04-00.26.08:277][ 61]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2017.11.04-00.26.08:277][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Collections/' was aborted.
+[2017.11.04-00.26.08:277][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Content/Developers/Aaron/Collections/' was aborted.
+[2017.11.04-00.26.08:277][ 61]LogDirectoryWatcher: A directory notification for 'C:/Users/namur/Documents/TeamPain/EAE3660-TeamPain/TeamPain/Saved/Collections/' was aborted.
+[2017.11.04-00.26.08:277][ 61]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2017.11.04-00.26.08:277][ 61]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2017.11.04-00.26.08:277][ 61]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module Media (477)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2017.11.04-00.26.08:278][ 61]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2017.11.04-00.26.08:279][ 61]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2017.11.04-00.26.09:130][ 61]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2017.11.04-00.26.09:130][ 61]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2017.11.04-00.26.09:130][ 61]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2017.11.04-00.26.09:130][ 61]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2017.11.04-00.26.09:130][ 61]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2017.11.04-00.26.09:131][ 61]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2017.11.04-00.26.09:132][ 61]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2017.11.04-00.26.09:133][ 61]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2017.11.04-00.26.09:133][ 61]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2017.11.04-00.26.09:134][ 61]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2017.11.04-00.26.09:134][ 61]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2017.11.04-00.26.09:134][ 61]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2017.11.04-00.26.09:134][ 61]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2017.11.04-00.26.09:134][ 61]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2017.11.04-00.26.09:177][ 61]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2017.11.04-00.26.09:178][ 61]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2017.11.04-00.26.09:179][ 61]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2017.11.04-00.26.09:179][ 61]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2017.11.04-00.26.09:179][ 61]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2017.11.04-00.26.09:179][ 61]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2017.11.04-00.26.09:187][ 61]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2017.11.04-00.26.09:188][ 61]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2017.11.04-00.26.09:189][ 61]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2017.11.04-00.26.09:189][ 61]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2017.11.04-00.26.09:189][ 61]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2017.11.04-00.26.09:189][ 61]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2017.11.04-00.26.09:189][ 61]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2017.11.04-00.26.09:189][ 61]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2017.11.04-00.26.09:189][ 61]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2017.11.04-00.26.09:190][ 61]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2017.11.04-00.26.09:190][ 61]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2017.11.04-00.26.09:190][ 61]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2017.11.04-00.26.09:191][ 61]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2017.11.04-00.26.09:191][ 61]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2017.11.04-00.26.09:191][ 61]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2017.11.04-00.26.09:191][ 61]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2017.11.04-00.26.09:191][ 61]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2017.11.04-00.26.09:191][ 61]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2017.11.04-00.26.09:191][ 61]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2017.11.04-00.26.09:191][ 61]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2017.11.04-00.26.09:292][ 61]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2017.11.04-00.26.09:394][ 61]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2017.11.04-00.26.09:394][ 61]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2017.11.04-00.26.09:394][ 61]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2017.11.04-00.26.09:394][ 61]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2017.11.04-00.26.09:394][ 61]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2017.11.04-00.26.09:394][ 61]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2017.11.04-00.26.09:395][ 61]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2017.11.04-00.26.09:396][ 61]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2017.11.04-00.26.09:396][ 61]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2017.11.04-00.26.09:396][ 61]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2017.11.04-00.26.09:396][ 61]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2017.11.04-00.26.09:396][ 61]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2017.11.04-00.26.09:396][ 61]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2017.11.04-00.26.09:396][ 61]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2017.11.04-00.26.09:401][ 61]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2017.11.04-00.26.09:401][ 61]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2017.11.04-00.26.09:401][ 61]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2017.11.04-00.26.09:401][ 61]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2017.11.04-00.26.09:401][ 61]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2017.11.04-00.26.09:401][ 61]LogModuleManager: Shutting down and abandoning module Core (168)
+[2017.11.04-00.26.09:401][ 61]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.04-00.26.09:401][ 61]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2017.11.04-00.26.09:402][ 61]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2017.11.04-00.26.09:402][ 61]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2017.11.04-00.26.09:402][ 61]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2017.11.04-00.26.09:402][ 61]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2017.11.04-00.26.09:402][ 61]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2017.11.04-00.26.09:402][ 61]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2017.11.04-00.26.09:402][ 61]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2017.11.04-00.26.09:402][ 61]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2017.11.04-00.26.09:405][ 61]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2017.11.04-00.26.09:440][ 61]LogDerivedDataCache: Shutdown
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2017.11.04-00.26.09:440][ 61]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.04-00.26.09:441][ 61]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.04-00.26.09:441][ 61]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.04-00.26.09:441][ 61]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.04-00.26.09:441][ 61]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B7B3CAEC0-42F4-462D-A4F3-63B174F87965%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.1-3586342%2B%2B%2BUE4%2BRelease-4.17&UserID=3dcaa2f44273f293b8620e9ccceda48f%7Cc4c73b6a20b2478486b3cf4699d32010%7Ce735a183-8601-4563-9834-2f41d75de82f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.04-00.26.09:455][ 61]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.04-00.26.09:457][ 61]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.04-00.26.09:457][ 61]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.04-00.26.09:457][ 61]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.04-00.26.09:457][ 61]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.04-00.26.09:457][ 61]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.04-00.26.09:457][ 61]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.04-00.26.09:457][ 61]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.04-00.26.09:458][ 61]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.04-00.26.09:459][ 61]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.04-00.26.09:463][ 61]LogExit: Exiting.
+[2017.11.04-00.26.09:476][ 61]Log file closed, 11/03/17 18:26:09
