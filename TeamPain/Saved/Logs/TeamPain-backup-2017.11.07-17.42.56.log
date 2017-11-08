@@ -1,0 +1,1487 @@
+﻿Log file open, 11/07/17 03:18:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TeamPain
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1209696250) SRandInit(1209696250).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.206142
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin LowEntryExtStdLib
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.07-10.18.34:213][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-10.18.34:213][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.07-10.18.34:239][  0]LogInit: Computer: GAMING
+[2017.11.07-10.18.34:239][  0]LogInit: User: Driver
+[2017.11.07-10.18.34:239][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.07-10.18.34:239][  0]LogInit: High frequency timer resolution =2.435777 MHz
+[2017.11.07-10.18.34:240][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.11.07-10.18.34:240][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.07-10.18.34:240][  0]LogMemory: Process Physical Memory: 277.94 MB used, 277.94 MB peak
+[2017.11.07-10.18.34:240][  0]LogMemory: Process Virtual Memory: 274.14 MB used, 274.14 MB peak
+[2017.11.07-10.18.34:240][  0]LogMemory: Physical Memory: 7915.38 MB used,  24771.45 MB free, 32686.83 MB total
+[2017.11.07-10.18.34:240][  0]LogMemory: Virtual Memory: 669.06 MB used,  24771.45 MB free, 134217728.00 MB total
+[2017.11.07-10.18.34:673][  0]LogInit: Using OS detected language (en-US).
+[2017.11.07-10.18.34:673][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.07-10.18.34:679][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.07-10.18.35:877][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.07-10.18.35:884][  0]LogD3D11RHI:    0. 'Intel(R) Iris(TM) Pro Graphics 5200' (Feature Level 11_0)
+[2017.11.07-10.18.35:884][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x8086
+[2017.11.07-10.18.35:887][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.07-10.18.35:887][  0]LogD3D11RHI:       0/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.07-10.18.35:887][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.07-10.18.35:896][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.07-10.18.35:896][  0]LogD3D11RHI:     GPU DeviceId: 0xd26 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.07-10.18.35:896][  0]LogWindows: EnumDisplayDevices:
+[2017.11.07-10.18.35:896][  0]LogWindows:    0. 'Intel(R) Iris(TM) Pro Graphics 5200' (P:1 D:1)
+[2017.11.07-10.18.35:896][  0]LogWindows:    1. 'Intel(R) Iris(TM) Pro Graphics 5200' (P:0 D:1)
+[2017.11.07-10.18.35:897][  0]LogWindows:    2. 'Intel(R) Iris(TM) Pro Graphics 5200' (P:0 D:0)
+[2017.11.07-10.18.35:897][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2017.11.07-10.18.35:897][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(TM) Pro Graphics 5200
+[2017.11.07-10.18.35:897][  0]LogD3D11RHI:   Driver Version: 20.19.15.4531 (internal:20.19.15.4531, unified:20.19.15.4531)
+[2017.11.07-10.18.35:897][  0]LogD3D11RHI:      Driver Date: 9-29-2016
+[2017.11.07-10.18.35:897][  0]LogRHI: Texture pool is 795 MB (70% of 1136 MB)
+[2017.11.07-10.18.35:903][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.07-10.18.35:909][  0]LogD3D11RHI: GPU Timing Frequency: 12.500000 (Debug: 2 0)
+[2017.11.07-10.18.35:909][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Intermediate/Shaders/WorkingDirectory/4952/).
+[2017.11.07-10.18.35:910][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/elizabeth/AppData/Local/Temp/UnrealShaderWorkingDir/FB160BC240715E29BFFE21AAB296FBF2/'.
+[2017.11.07-10.18.35:910][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.07-10.18.37:867][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.07-10.18.38:000][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.07-10.18.38:138][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.07-10.18.38:259][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.07-10.18.38:382][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.07-10.18.38:508][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.07-10.18.38:637][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.07-10.18.38:769][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.07-10.18.38:906][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.07-10.18.39:056][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.07-10.18.39:190][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.07-10.18.39:319][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.07-10.18.39:449][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.07-10.18.39:583][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.07-10.18.39:711][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.07-10.18.39:966][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.07-10.18.39:966][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.07-10.18.40:080][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.07-10.18.40:324][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.07-10.18.40:410][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.07-10.18.40:537][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.07-10.18.40:673][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.07-10.18.40:798][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.07-10.18.40:926][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.07-10.18.40:926][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.07-10.18.42:336][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.07-10.18.42:594][  0]LogDerivedDataCache: Loaded boot cache 0.26s 242MB C:/Users/elizabeth/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.07-10.18.42:594][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/elizabeth/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.07-10.18.42:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.07-10.18.42:594][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.07-10.18.42:594][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.07-10.18.42:594][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.07-10.18.42:616][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.07-10.18.42:629][  0]LogDerivedDataCache: Using Local data cache path C:/Users/elizabeth/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.07-10.18.42:644][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.07-10.18.42:644][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.07-10.18.42:645][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-10.18.42:645][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.07-10.18.43:091][  0]LogAssetRegistry: FAssetRegistry took 0.0305 seconds to start up
+[2017.11.07-10.18.43:337][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.07-10.18.43:589][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.07-10.18.44:453][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.07-10.18.44:604][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.07-10.18.44:604][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.07-10.18.44:604][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.07-10.18.44:604][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.07-10.18.44:604][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.07-10.18.45:370][  0]LogNetVersion: TeamPain , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1519948437)
+[2017.11.07-10.18.45:959][  0]LogPackageLocalizationCache: Processed 6 localized package path(s) for 2 prioritized culture(s) in 0.161409 seconds
+[2017.11.07-10.18.45:968][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.07-10.18.45:968][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.07-10.18.45:968][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.07-10.18.46:150][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.07-10.18.52:274][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.07-10.18.52:359][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.07-10.18.53:775][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.07-10.18.54:679][  0]SourceControl: Source control is disabled
+[2017.11.07-10.18.54:679][  0]SourceControl: Source control is disabled
+[2017.11.07-10.18.54:783][  0]SourceControl: Source control is disabled
+[2017.11.07-10.18.54:895][  0]SourceControl: Source control is disabled
+[2017.11.07-10.18.56:392][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.07-10.18.56:975][  0]LogOcInput: OculusInput pre-init called
+[2017.11.07-10.18.57:535][  0]LogEngine: Initializing Engine...
+[2017.11.07-10.18.57:538][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.07-10.18.57:864][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.07-10.18.57:864][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.07-10.18.58:198][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.07-10.18.58:211][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.07-10.18.58:263][  0]LogInit: FAudioDevice initialized.
+[2017.11.07-10.18.58:390][  0]LogDerivedDataCache: Saved boot cache 0.13s 93MB C:/Users/elizabeth/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.07-10.18.58:412][  0]LogInit: Texture streaming: Enabled
+[2017.11.07-10.18.58:749][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.07-10.18.59:342][  0]LogInit: Transaction tracking system initialized
+[2017.11.07-10.19.00:227][  0]BlueprintLog: New page: Editor Load
+[2017.11.07-10.19.02:419][  0]LocalizationService: Localization service is disabled
+[2017.11.07-10.19.04:691][  0]LogConsoleResponse: Display: 
+[2017.11.07-10.19.05:010][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.07-10.19.05:010][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.07-10.19.05:010][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.07-10.19.05:979][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/' took 0.04s
+[2017.11.07-10.19.07:582][  0]SourceControl: Source control is disabled
+[2017.11.07-10.19.07:582][  0]Cmd: MAP LOAD FILE="../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Apartment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.07-10.19.07:583][  0]LightingResults: New page: Lighting Build
+[2017.11.07-10.19.07:675][  0]MapCheck: New page: Map Check
+[2017.11.07-10.19.07:675][  0]LightingResults: New page: Lighting Build
+[2017.11.07-10.19.11:731][  0]LogAIModule: Creating AISystem for world Apartment
+[2017.11.07-10.19.11:756][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.07-10.19.11:833][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.07-10.19.11:990][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 156.839ms to complete.
+[2017.11.07-10.19.11:990][  0]LogFileHelpers: Loading map 'Apartment' took 4.408
+[2017.11.07-10.19.12:219][  0]LogCollectionManager: Loaded 0 collections in 0.002008 seconds
+[2017.11.07-10.19.12:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Collections/' took 0.01s
+[2017.11.07-10.19.12:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Developers/Driver/Collections/' took 0.01s
+[2017.11.07-10.19.12:367][  0]LogFileCache: Scanning file cache for directory 'C:/Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Collections/' took 0.01s
+[2017.11.07-10.19.12:367][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.07-10.19.12:378][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2411 classes and 509 folders.
+[2017.11.07-10.19.12:536][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.11.07-10.19.12:602][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2017.11.07-10.19.12:721][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.11.07-10.19.12:786][  0]LogSlate: Took 0.000319 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-10.19.12:790][  0]LogSlate: Took 0.000461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.07-10.19.12:796][  0]LogSlate: Took 0.000255 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.07-10.19.12:932][  0]LogRenderer: Reallocating scene render targets to support 2160x384 Format 9 NumSamples 1 (Frame:1).
+[2017.11.07-10.19.13:702][  0]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-10.19.13:966][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 1 classes and 2 folders.
+[2017.11.07-10.19.13:967][  0]LogLoad: (Engine Initialization) Total time: 42.84 seconds
+[2017.11.07-10.19.13:967][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.07-10.19.13:968][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.07-10.19.13:968][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.07-10.19.13:986][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.07-10.19.14:015][  0]LogContentStreaming: Texture pool size now 600 MB
+[2017.11.07-10.19.14:298][  3]LogAssetRegistry: Asset discovery search completed in 31.2298 seconds
+[2017.11.07-10.19.14:302][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2017.11.07-10.19.14:303][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000252 seconds (updated 0 objects)
+[2017.11.07-10.19.15:116][ 18]LogSlate: Took 0.000314 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-10.19.50:659][534]LogSlate: Took 0.000259 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.07-10.19.50:678][534]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/laying_struggle.fbx)
+[2017.11.07-10.19.50:695][534]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.07-10.19.50:695][534]LogFbx: ItemName: Model, ItemCount : 67
+[2017.11.07-10.19.50:695][534]LogFbx: ItemName: NodeAttribute, ItemCount : 67
+[2017.11.07-10.19.50:695][534]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.07-10.19.50:695][534]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.07-10.19.50:695][534]LogFbx: ItemName: AnimationCurveNode, ItemCount : 54
+[2017.11.07-10.19.50:695][534]LogFbx: ItemName: AnimationCurve, ItemCount : 315
+[2017.11.07-10.19.50:702][534]LogFbx: Loading FBX Scene from ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/laying_struggle.fbx
+[2017.11.07-10.19.50:743][534]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.07-10.19.55:088][534]LogFbx: Loading FBX Scene from ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/laying_struggle.fbx
+[2017.11.07-10.19.55:137][534]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.07-10.19.55:140][534]LogFbx: SortedLinks :(0) Hips
+[2017.11.07-10.19.55:140][534]LogFbx: SortedLinks :(1) Spine
+[2017.11.07-10.19.55:140][534]LogFbx: SortedLinks :(2) Spine1
+[2017.11.07-10.19.55:140][534]LogFbx: SortedLinks :(3) Spine2
+[2017.11.07-10.19.55:140][534]LogFbx: SortedLinks :(4) Neck
+[2017.11.07-10.19.55:140][534]LogFbx: SortedLinks :(5) Head
+[2017.11.07-10.19.55:140][534]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.11.07-10.19.55:140][534]LogFbx: SortedLinks :(7) LeftEye
+[2017.11.07-10.19.55:140][534]LogFbx: SortedLinks :(8) RightEye
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(10) LeftArm
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(12) LeftHand
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(33) RightShoulder
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(34) RightArm
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(35) RightForeArm
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(36) RightHand
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(37) RightHandPinky1
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(38) RightHandPinky2
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(39) RightHandPinky3
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(40) RightHandPinky4
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(41) RightHandRing1
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(42) RightHandRing2
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(43) RightHandRing3
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(44) RightHandRing4
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(49) RightHandIndex1
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(50) RightHandIndex2
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(51) RightHandIndex3
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(52) RightHandIndex4
+[2017.11.07-10.19.55:141][534]LogFbx: SortedLinks :(53) RightHandThumb1
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(54) RightHandThumb2
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(55) RightHandThumb3
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(56) RightHandThumb4
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(57) LeftUpLeg
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(58) LeftLeg
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(59) LeftFoot
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(60) LeftToeBase
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(61) LeftToe_End
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(62) RightUpLeg
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(63) RightLeg
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(64) RightFoot
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(65) RightToeBase
+[2017.11.07-10.19.55:142][534]LogFbx: SortedLinks :(66) RightToe_End
+[2017.11.07-10.19.55:142][534]LogFbx: Parsing AnimStack mixamo.com
+[2017.11.07-10.19.55:149][534]LogLinker: Can't find file '/Game/Character/animations/laying_struggle'
+[2017.11.07-10.19.55:149][534]LogLinker: Can't find file '/Game/Character/animations/laying_struggle'
+[2017.11.07-10.19.55:589][534]LogSlate: Took 0.000362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.07-10.19.56:187][534]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/animations/laying_struggle.laying_struggle
+[2017.11.07-10.19.56:253][534]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/Reacting.fbx)
+[2017.11.07-10.19.56:268][534]LogFbx: Loading FBX Scene from ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/Reacting.fbx
+[2017.11.07-10.19.56:308][534]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(0) Hips
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(1) Spine
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(2) Spine1
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(3) Spine2
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(4) Neck
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(5) Head
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(7) LeftEye
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(8) RightEye
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(10) LeftArm
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(12) LeftHand
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2017.11.07-10.19.56:311][534]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(33) RightShoulder
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(34) RightArm
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(35) RightForeArm
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(36) RightHand
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(37) RightHandPinky1
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(38) RightHandPinky2
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(39) RightHandPinky3
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(40) RightHandPinky4
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(41) RightHandRing1
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(42) RightHandRing2
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(43) RightHandRing3
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(44) RightHandRing4
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(49) RightHandIndex1
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(50) RightHandIndex2
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(51) RightHandIndex3
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(52) RightHandIndex4
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(53) RightHandThumb1
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(54) RightHandThumb2
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(55) RightHandThumb3
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(56) RightHandThumb4
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(57) LeftUpLeg
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(58) LeftLeg
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(59) LeftFoot
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(60) LeftToeBase
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(61) LeftToe_End
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(62) RightUpLeg
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(63) RightLeg
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(64) RightFoot
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(65) RightToeBase
+[2017.11.07-10.19.56:312][534]LogFbx: SortedLinks :(66) RightToe_End
+[2017.11.07-10.19.56:314][534]LogFbx: Parsing AnimStack mixamo.com
+[2017.11.07-10.19.56:321][534]LogLinker: Can't find file '/Game/Character/animations/Reacting'
+[2017.11.07-10.19.56:321][534]LogLinker: Can't find file '/Game/Character/animations/Reacting'
+[2017.11.07-10.19.57:199][534]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/animations/Reacting.Reacting
+[2017.11.07-10.20.49:790][534]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/Sitting Drinking (1).fbx)
+[2017.11.07-10.20.49:807][534]LogFbx: Loading FBX Scene from ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/Sitting Drinking (1).fbx
+[2017.11.07-10.20.49:856][534]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(0) Hips
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(1) Spine
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(2) Spine1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(3) Spine2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(4) Neck
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(5) Head
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(7) LeftEye
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(8) RightEye
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(10) LeftArm
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(12) LeftHand
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(33) RightShoulder
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(34) RightArm
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(35) RightForeArm
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(36) RightHand
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(37) RightHandPinky1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(38) RightHandPinky2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(39) RightHandPinky3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(40) RightHandPinky4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(41) RightHandRing1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(42) RightHandRing2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(43) RightHandRing3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(44) RightHandRing4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(49) RightHandIndex1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(50) RightHandIndex2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(51) RightHandIndex3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(52) RightHandIndex4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(53) RightHandThumb1
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(54) RightHandThumb2
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(55) RightHandThumb3
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(56) RightHandThumb4
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(57) LeftUpLeg
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(58) LeftLeg
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(59) LeftFoot
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(60) LeftToeBase
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(61) LeftToe_End
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(62) RightUpLeg
+[2017.11.07-10.20.49:859][534]LogFbx: SortedLinks :(63) RightLeg
+[2017.11.07-10.20.49:860][534]LogFbx: SortedLinks :(64) RightFoot
+[2017.11.07-10.20.49:860][534]LogFbx: SortedLinks :(65) RightToeBase
+[2017.11.07-10.20.49:860][534]LogFbx: SortedLinks :(66) RightToe_End
+[2017.11.07-10.20.49:860][534]LogFbx: Parsing AnimStack mixamo.com
+[2017.11.07-10.20.49:870][534]LogLinker: Can't find file '/Game/Character/animations/Sitting_Drinking__1_'
+[2017.11.07-10.20.49:871][534]LogLinker: Can't find file '/Game/Character/animations/Sitting_Drinking__1_'
+[2017.11.07-10.20.52:435][534]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/animations/Sitting_Drinking__1_.Sitting_Drinking__1_
+[2017.11.07-10.20.52:505][534]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/Thankful.fbx)
+[2017.11.07-10.20.52:520][534]LogFbx: Loading FBX Scene from ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/Thankful.fbx
+[2017.11.07-10.20.52:552][534]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(0) Hips
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(1) Spine
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(2) Spine1
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(3) Spine2
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(4) Neck
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(5) Head
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(6) HeadTop_End
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(7) LeftEye
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(8) RightEye
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(9) LeftShoulder
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(10) LeftArm
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(11) LeftForeArm
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(12) LeftHand
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(13) LeftHandThumb1
+[2017.11.07-10.20.52:555][534]LogFbx: SortedLinks :(14) LeftHandThumb2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(15) LeftHandThumb3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(16) LeftHandThumb4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(17) LeftHandIndex1
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(18) LeftHandIndex2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(19) LeftHandIndex3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(20) LeftHandIndex4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(21) LeftHandMiddle1
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(22) LeftHandMiddle2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(23) LeftHandMiddle3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(24) LeftHandMiddle4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(25) LeftHandRing1
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(26) LeftHandRing2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(27) LeftHandRing3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(28) LeftHandRing4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(29) LeftHandPinky1
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(30) LeftHandPinky2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(31) LeftHandPinky3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(32) LeftHandPinky4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(33) RightShoulder
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(34) RightArm
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(35) RightForeArm
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(36) RightHand
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(37) RightHandPinky1
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(38) RightHandPinky2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(39) RightHandPinky3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(40) RightHandPinky4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(41) RightHandRing1
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(42) RightHandRing2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(43) RightHandRing3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(44) RightHandRing4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(45) RightHandMiddle1
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(46) RightHandMiddle2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(47) RightHandMiddle3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(48) RightHandMiddle4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(49) RightHandIndex1
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(50) RightHandIndex2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(51) RightHandIndex3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(52) RightHandIndex4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(53) RightHandThumb1
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(54) RightHandThumb2
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(55) RightHandThumb3
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(56) RightHandThumb4
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(57) LeftUpLeg
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(58) LeftLeg
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(59) LeftFoot
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(60) LeftToeBase
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(61) LeftToe_End
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(62) RightUpLeg
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(63) RightLeg
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(64) RightFoot
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(65) RightToeBase
+[2017.11.07-10.20.52:556][534]LogFbx: SortedLinks :(66) RightToe_End
+[2017.11.07-10.20.52:557][534]LogFbx: Parsing AnimStack mixamo.com
+[2017.11.07-10.20.52:561][534]LogLinker: Can't find file '/Game/Character/animations/Thankful'
+[2017.11.07-10.20.52:562][534]LogLinker: Can't find file '/Game/Character/animations/Thankful'
+[2017.11.07-10.20.53:104][534]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/animations/Thankful.Thankful
+[2017.11.07-10.21.36:350][311]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.11.07-10.21.36:564][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2017.11.07-10.21.36:638][311]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_2:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2017.11.07-10.21.37:331][311]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0017 seconds. Added 1 classes and 0 folders.
+[2017.11.07-10.21.37:382][311]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.11.07-10.22.28:400][362]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.11.07-10.22.28:477][362]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2017.11.07-10.22.29:054][362]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.11.07-10.25.52:035][ 22]Cmd: TRANSACTION UNDO
+[2017.11.07-10.25.52:035][ 22]LogEditorTransaction: Undo Translate Bone
+[2017.11.07-10.25.52:224][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.11.07-10.25.52:510][ 27]Cmd: TRANSACTION UNDO
+[2017.11.07-10.25.52:511][ 27]LogEditorTransaction: Undo Translate Bone
+[2017.11.07-10.25.52:698][ 27]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2017.11.07-10.27.48:882][111]Cmd: ACTOR HIDE SELECTED
+[2017.11.07-10.29.55:419][254]Cmd: TRANSACTION UNDO
+[2017.11.07-10.29.55:420][254]LogEditorTransaction: Undo Animatable Property Changed
+[2017.11.07-10.29.56:905][314]Cmd: TRANSACTION UNDO
+[2017.11.07-10.29.56:905][314]LogEditorTransaction: Undo Select Actors/Components
+[2017.11.07-10.29.57:564][327]Cmd: TRANSACTION UNDO
+[2017.11.07-10.29.57:564][327]LogEditorTransaction: Undo Select Actors/Components
+[2017.11.07-10.29.58:257][341]Cmd: TRANSACTION UNDO
+[2017.11.07-10.29.58:257][341]LogEditorTransaction: Undo Select None
+[2017.11.07-10.29.59:080][357]Cmd: TRANSACTION UNDO
+[2017.11.07-10.29.59:080][357]LogEditorTransaction: Undo Move Section
+[2017.11.07-10.29.59:763][370]Cmd: TRANSACTION UNDO
+[2017.11.07-10.29.59:763][370]LogEditorTransaction: Undo Move Actors
+[2017.11.07-10.30.00:481][384]Cmd: TRANSACTION UNDO
+[2017.11.07-10.30.00:481][384]LogEditorTransaction: Undo Move Actors
+[2017.11.07-10.30.01:192][398]Cmd: TRANSACTION UNDO
+[2017.11.07-10.30.01:192][398]LogEditorTransaction: Undo Move Actors
+[2017.11.07-10.30.01:748][409]Cmd: TRANSACTION UNDO
+[2017.11.07-10.30.01:748][409]LogEditorTransaction: Undo Move Actors
+[2017.11.07-10.30.02:312][420]Cmd: TRANSACTION UNDO
+[2017.11.07-10.30.02:312][420]LogEditorTransaction: Undo Move Actors
+[2017.11.07-10.30.02:823][430]Cmd: TRANSACTION UNDO
+[2017.11.07-10.30.02:823][430]LogEditorTransaction: Undo Select Actors/Components
+[2017.11.07-10.30.03:284][439]Cmd: TRANSACTION UNDO
+[2017.11.07-10.30.03:284][439]LogEditorTransaction: Undo Select Actors/Components
+[2017.11.07-10.30.03:782][449]Cmd: TRANSACTION UNDO
+[2017.11.07-10.30.03:782][449]LogEditorTransaction: Undo Animatable Property Changed
+[2017.11.07-10.30.13:973][814]Cmd: TRANSACTION UNDO
+[2017.11.07-10.30.13:973][814]LogEditorTransaction: Undo Animatable Property Changed
+[2017.11.07-10.30.42:070][498]Cmd: TRANSACTION UNDO
+[2017.11.07-10.30.42:070][498]LogEditorTransaction: Undo Move Actors
+[2017.11.07-10.32.08:749][ 43]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (xbot_T)
+[2017.11.07-10.33.34:326][420]Cmd: TRANSACTION UNDO
+[2017.11.07-10.33.34:326][420]LogEditorTransaction: Undo Move Section
+[2017.11.07-10.35.16:885][667]LogSavePackage: Save=456.00ms
+[2017.11.07-10.35.16:885][667]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Apartment_Auto198628928478F396EA5FE6C866ECDA66A.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Apartment_Auto1.umap'
+[2017.11.07-10.35.16:888][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Apartment_Auto1.umap
+[2017.11.07-10.35.16:891][667]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Apartment' took 0.514
+[2017.11.07-10.35.16:891][667]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.514
+[2017.11.07-10.35.16:917][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/Materials/xbot_T_Skeleton] ([1] browsable assets)...
+[2017.11.07-10.35.16:917][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Materials/xbot_T_Skeleton]
+[2017.11.07-10.35.16:946][667]LogSavePackage: Save=6.74ms
+[2017.11.07-10.35.16:946][667]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/xbot_T_Skeleton_Auto15431A0874E8F0BD8CD7AAEABF7F020CA.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/StarterContent/Materials/xbot_T_Skeleton_Auto1.uasset'
+[2017.11.07-10.35.16:948][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/StarterContent/Materials/xbot_T_Skeleton_Auto1.uasset
+[2017.11.07-10.35.16:949][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/laying_struggle] ([1] browsable assets)...
+[2017.11.07-10.35.16:965][667]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/animations/laying_struggle.laying_struggle]
+[2017.11.07-10.35.16:965][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/laying_struggle]
+[2017.11.07-10.35.16:986][667]LogSavePackage: Save=18.41ms
+[2017.11.07-10.35.16:986][667]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/laying_struggle_Auto1270707B74CF5D3476C424FB83A704325.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/laying_struggle_Auto1.uasset'
+[2017.11.07-10.35.16:987][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/laying_struggle_Auto1.uasset
+[2017.11.07-10.35.16:988][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/Reacting] ([1] browsable assets)...
+[2017.11.07-10.35.17:003][667]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/animations/Reacting.Reacting]
+[2017.11.07-10.35.17:003][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/Reacting]
+[2017.11.07-10.35.17:019][667]LogSavePackage: Save=14.45ms
+[2017.11.07-10.35.17:019][667]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Reacting_Auto1D39253BE4CD61EC6179033A45B166783.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/Reacting_Auto1.uasset'
+[2017.11.07-10.35.17:021][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/Reacting_Auto1.uasset
+[2017.11.07-10.35.17:022][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/Sitting_Drinking__1_] ([1] browsable assets)...
+[2017.11.07-10.35.17:039][667]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/animations/Sitting_Drinking__1_.Sitting_Drinking__1_]
+[2017.11.07-10.35.17:039][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/Sitting_Drinking__1_]
+[2017.11.07-10.35.17:059][667]LogSavePackage: Save=17.45ms
+[2017.11.07-10.35.17:059][667]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sitting_Drinking__1__Auto13F55F7C24D13CF585A94FEBD76394A43.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/Sitting_Drinking__1__Auto1.uasset'
+[2017.11.07-10.35.17:061][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/Sitting_Drinking__1__Auto1.uasset
+[2017.11.07-10.35.17:061][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/Thankful] ([1] browsable assets)...
+[2017.11.07-10.35.17:079][667]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Character/animations/Thankful.Thankful]
+[2017.11.07-10.35.17:079][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/Thankful]
+[2017.11.07-10.35.17:098][667]LogSavePackage: Save=16.83ms
+[2017.11.07-10.35.17:098][667]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Thankful_Auto11540E9974B82EF3AE435EEA07241C323.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/Thankful_Auto1.uasset'
+[2017.11.07-10.35.17:100][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/Thankful_Auto1.uasset
+[2017.11.07-10.35.17:101][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/Sleeping_nightmare_comp] ([1] browsable assets)...
+[2017.11.07-10.35.17:119][667]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/Character/animations/Sleeping_nightmare_comp.Sleeping_nightmare_comp]
+[2017.11.07-10.35.17:119][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/Sleeping_nightmare_comp]
+[2017.11.07-10.35.17:153][667]LogSavePackage: Save=14.97ms
+[2017.11.07-10.35.17:153][667]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sleeping_nightmare_comp_Auto189DFC4794F713E5F54B52EB57347867D.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/Sleeping_nightmare_comp_Auto1.uasset'
+[2017.11.07-10.35.17:155][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/Sleeping_nightmare_comp_Auto1.uasset
+[2017.11.07-10.35.17:156][667]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/after_dream_sitting] ([1] browsable assets)...
+[2017.11.07-10.35.17:174][667]OBJ SavePackage:     Rendered thumbnail for [AnimComposite /Game/Character/animations/after_dream_sitting.after_dream_sitting]
+[2017.11.07-10.35.17:174][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/after_dream_sitting]
+[2017.11.07-10.35.17:191][667]LogSavePackage: Save=13.92ms
+[2017.11.07-10.35.17:191][667]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/after_dream_sitting_Auto128D52C3E457EB8F858CEAD97EA613BC5.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/after_dream_sitting_Auto1.uasset'
+[2017.11.07-10.35.17:194][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/after_dream_sitting_Auto1.uasset
+[2017.11.07-10.35.17:195][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/animations/sleeping_seq] ([1] browsable assets)...
+[2017.11.07-10.35.17:195][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sleeping_seq]
+[2017.11.07-10.35.17:227][667]LogSavePackage: Save=11.94ms
+[2017.11.07-10.35.17:227][667]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/sleeping_seq_Auto1CF0C3D44499B7AA428A3F191C3E07A34.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/sleeping_seq_Auto1.uasset'
+[2017.11.07-10.35.17:229][667]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/sleeping_seq_Auto1.uasset
+[2017.11.07-10.35.17:229][667]LogFileHelpers: Auto-saving content packages took 0.314
+[2017.11.07-10.37.08:132][628]Cmd: TRANSACTION UNDO
+[2017.11.07-10.37.08:132][628]LogEditorTransaction: Undo Select Actors/Components
+[2017.11.07-10.37.09:031][675]Cmd: TRANSACTION UNDO
+[2017.11.07-10.37.09:031][675]LogEditorTransaction: Undo Animatable Property Changed
+[2017.11.07-10.37.10:190][701]Cmd: TRANSACTION UNDO
+[2017.11.07-10.37.10:190][701]LogEditorTransaction: Undo Animatable Property Changed
+[2017.11.07-10.38.35:344][989]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.11.07-10.42.36:118][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.42.36:152][271]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) - call TermArticulated first.
+[2017.11.07-10.42.36:462][271]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.11.07-10.45.14:402][637]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.14:402][637]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.14:555][637]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.14:869][647]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.14:869][647]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.15:020][647]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.15:488][672]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.15:488][672]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.15:644][672]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.15:964][679]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.15:964][679]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.16:134][679]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.16:182][680]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.16:182][680]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.16:332][680]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.16:377][681]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.16:377][681]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.16:525][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.16:526][681]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.16:526][681]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.16:637][681]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.16:707][684]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.16:707][684]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.16:829][684]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.17:428][696]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.17:428][696]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.17:589][696]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.18:037][705]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.18:037][705]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.18:191][705]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.18:627][714]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.18:627][714]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.18:797][714]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.19:194][722]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.19:194][722]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.19:361][722]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.19:876][732]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.19:876][732]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.20:040][732]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.20:475][741]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.20:475][741]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.20:637][741]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.21:131][751]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.21:131][751]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.21:297][751]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.21:793][761]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.21:793][761]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.21:951][761]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.22:329][769]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.22:329][769]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.22:496][769]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.22:693][774]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.22:693][774]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.22:853][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.22:854][774]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.22:854][774]LogEditorTransaction: Undo Moving Blend Grid Sample
+[2017.11.07-10.45.22:999][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.23:000][774]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.23:000][774]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2017.11.07-10.45.23:120][774]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.45.23:176][776]Cmd: TRANSACTION UNDO
+[2017.11.07-10.45.23:176][776]LogEditorTransaction: Undo Adding Blend Grid Sample
+[2017.11.07-10.45.23:294][776]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.Actor_2.DebugSkelMeshComponent_15) Already registered. Aborting.
+[2017.11.07-10.47.25:455][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Apartment' took 0.010
+[2017.11.07-10.47.25:457][644]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Character/animations/sleeping_seq] ([1] browsable assets)...
+[2017.11.07-10.47.25:457][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/sleeping_seq]
+[2017.11.07-10.47.25:496][644]LogSavePackage: Save=11.11ms
+[2017.11.07-10.47.25:496][644]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/sleeping_seq_Auto2CCE1BA944D5B3AF6B05E168BEFB75BFE.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/sleeping_seq_Auto2.uasset'
+[2017.11.07-10.47.25:498][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/sleeping_seq_Auto2.uasset
+[2017.11.07-10.47.25:499][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Character/animations/dreamtry1] ([1] browsable assets)...
+[2017.11.07-10.47.25:515][644]OBJ SavePackage:     Rendered thumbnail for [BlendSpace /Game/Character/animations/dreamtry1.dreamtry1]
+[2017.11.07-10.47.25:515][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/Character/animations/dreamtry1]
+[2017.11.07-10.47.25:530][644]LogSavePackage: Save=13.26ms
+[2017.11.07-10.47.25:530][644]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/dreamtry1_Auto2C57AD136496333FF3F7A6DA6A76CA280.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/dreamtry1_Auto2.uasset'
+[2017.11.07-10.47.25:532][644]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Autosaves/Game/Character/animations/dreamtry1_Auto2.uasset
+[2017.11.07-10.47.25:532][644]LogFileHelpers: Auto-saving content packages took 0.077
+[2017.11.07-11.14.45:989][551]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/downloaded large pack/mocap/Assets/Huge Mocap Library/mocap animations/01/01_01.fbx)
+[2017.11.07-11.14.46:127][551]LogFbx: ItemName: Model, ItemCount : 52
+[2017.11.07-11.14.46:127][551]LogFbx: ItemName: Geometry, ItemCount : 0
+[2017.11.07-11.14.46:127][551]LogFbx: ItemName: Pose, ItemCount : 1
+[2017.11.07-11.14.46:127][551]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.07-11.14.46:131][551]LogFbx: Loading FBX Scene from ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/downloaded large pack/mocap/Assets/Huge Mocap Library/mocap animations/01/01_01.fbx
+[2017.11.07-11.14.46:393][551]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.07-11.15.01:013][551]LogFbx: Loading FBX Scene from ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/downloaded large pack/mocap/Assets/Huge Mocap Library/mocap animations/01/01_01.fbx
+[2017.11.07-11.15.01:273][551]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.07-11.15.01:281][551]FBXImport: Error: Mesh contains Hips bone as root but animation doesn't contain the root track.
+Import failed. 
+[2017.11.07-11.15.01:281][551]FBXImport: Error: Import failed. 
+[2017.11.07-11.15.06:476][551]LogAssetTools: Warning: Failed to import '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/machinima animations/downloaded large pack/mocap/Assets/Huge Mocap Library/mocap animations/01/01_01.fbx'. Failed to create asset '/Game/Character/animations/01_01'.
+Please see Output Log for details.
+[2017.11.07-11.15.19:893][766]LogSavePackage: Save=443.68ms
+[2017.11.07-11.15.19:893][766]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Apartment39DB5D674AF46949B390F8948C567F29.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Apartment.umap'
+[2017.11.07-11.15.19:903][766]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Apartment.umap
+[2017.11.07-11.15.32:805][145]SourceControl: On branch master
+[2017.11.07-11.15.32:805][145]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.11.07-11.15.32:805][145]SourceControl: Changes not staged for commit:
+[2017.11.07-11.15.32:805][145]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.11.07-11.15.32:805][145]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.07-11.15.32:805][145]SourceControl: 	modified:   TeamPain/Content/Apartment.umap
+[2017.11.07-11.15.32:805][145]SourceControl: 	deleted:    TeamPain/Content/Character/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	deleted:    TeamPain/Content/Character/falloversequence.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Content/Sequence1.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Content/scene2.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Intermediate/CachedAssetRegistry.bin
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Saved/AutoScreenshot.png
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Saved/Autosaves/Game/StarterContent/Materials/xbot_T_Skeleton_Auto1.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Saved/Autosaves/PackageRestoreData.json
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/Engine.ini
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Saved/Config/WorldState/188131190.json
+[2017.11.07-11.15.32:806][145]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.30.32.log
+[2017.11.07-11.15.32:806][145]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.38.42.log
+[2017.11.07-11.15.32:806][145]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.52.34.log
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain.log
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain_2.log
+[2017.11.07-11.15.32:806][145]SourceControl: 	modified:   TeamPain/TeamPain.uproject
+[2017.11.07-11.15.32:806][145]SourceControl: Untracked files:
+[2017.11.07-11.15.32:806][145]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Content/Character/animations/
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/6d9c2bb1.bin
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/adf44649.bin
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Intermediate/Config/CoalescedSourceConfigs/LowEntryExtStdLib.ini
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto1.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto4.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto5.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto7.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto8.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Autosaves/Game/Character/animations/
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-25-57.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-37-50.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-38-14.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-48-15.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-02-13-41.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-03-35-16.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-04-15-19.umap
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Sequence1_2017-11-06-21-06-47.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-05-35.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-11-54.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-18-47.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-33-02.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-06-35.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-13-47.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-03-35-17.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/scene2_2017-11-06-21-06-47.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-23-04.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-38-14.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-48-15.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-02-05-15.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-35-17.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-47-25.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Backup/xbot_T_Skeleton_2017-11-07-03-35-16.uasset
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-0ACD387C46B3CA9E2971BDB8302F1730/
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-133AF882463919EF9E65689650B477CD/
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-EC92392743322D994E191884B71364A6/
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-20.51.57.log
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.07-03.18.32.log
+[2017.11.07-11.15.32:806][145]SourceControl: 	TeamPain/Saved/Logs/TeamPain_2-backup-2017.11.06-20.54.13.log
+[2017.11.07-11.15.32:806][145]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.11.07-11.17.39:436][749]SourceControl: On branch master
+[2017.11.07-11.17.39:436][749]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.11.07-11.17.39:436][749]SourceControl: Changes not staged for commit:
+[2017.11.07-11.17.39:436][749]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.11.07-11.17.39:436][749]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Content/Apartment.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	deleted:    TeamPain/Content/Character/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	deleted:    TeamPain/Content/Character/falloversequence.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Content/Sequence1.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Content/scene2.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Intermediate/CachedAssetRegistry.bin
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Saved/AutoScreenshot.png
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Saved/Autosaves/Game/StarterContent/Materials/xbot_T_Skeleton_Auto1.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Saved/Autosaves/PackageRestoreData.json
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/Engine.ini
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Saved/Config/WorldState/188131190.json
+[2017.11.07-11.17.39:436][749]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.30.32.log
+[2017.11.07-11.17.39:436][749]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.38.42.log
+[2017.11.07-11.17.39:436][749]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.52.34.log
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain.log
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain_2.log
+[2017.11.07-11.17.39:436][749]SourceControl: 	modified:   TeamPain/TeamPain.uproject
+[2017.11.07-11.17.39:436][749]SourceControl: Untracked files:
+[2017.11.07-11.17.39:436][749]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Content/Character/animations/
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/6d9c2bb1.bin
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/adf44649.bin
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Intermediate/Config/CoalescedSourceConfigs/LowEntryExtStdLib.ini
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto1.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto4.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto5.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto7.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto8.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Autosaves/Game/Character/animations/
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-25-57.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-37-50.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-38-14.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-48-15.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-02-13-41.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-03-35-16.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-04-15-19.umap
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Sequence1_2017-11-06-21-06-47.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-05-35.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-11-54.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-18-47.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-33-02.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-06-35.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-13-47.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-03-35-17.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/scene2_2017-11-06-21-06-47.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-23-04.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-38-14.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-48-15.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-02-05-15.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-35-17.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-47-25.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Backup/xbot_T_Skeleton_2017-11-07-03-35-16.uasset
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-0ACD387C46B3CA9E2971BDB8302F1730/
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-133AF882463919EF9E65689650B477CD/
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-EC92392743322D994E191884B71364A6/
+[2017.11.07-11.17.39:436][749]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-20.51.57.log
+[2017.11.07-11.17.39:437][749]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.07-03.18.32.log
+[2017.11.07-11.17.39:437][749]SourceControl: 	TeamPain/Saved/Logs/TeamPain_2-backup-2017.11.06-20.54.13.log
+[2017.11.07-11.17.39:437][749]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2017.11.07-11.17.40:015][749]LogSavePackage: Save=19.92ms
+[2017.11.07-11.17.40:016][749]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Stand_Cover_To_Look41BB36DD43D1AE51403B08BD774E817D.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Stand_Cover_To_Look.uasset'
+[2017.11.07-11.17.40:027][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Stand_Cover_To_Look.uasset
+[2017.11.07-11.17.40:192][749]LogSavePackage: Save=18.88ms
+[2017.11.07-11.17.40:192][749]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Swing_To_Land_in_game_movement_687F7491490ABB0C0B0BE39D37F228E3.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Swing_To_Land_in_game_movement_.uasset'
+[2017.11.07-11.17.40:197][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Swing_To_Land_in_game_movement_.uasset
+[2017.11.07-11.17.40:370][749]LogSavePackage: Save=20.27ms
+[2017.11.07-11.17.40:370][749]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Thankful5BE9BD6C49EBA3324A7CE9A43D69CAEC.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Thankful.uasset'
+[2017.11.07-11.17.40:375][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Thankful.uasset
+[2017.11.07-11.17.40:560][749]LogSavePackage: Save=21.08ms
+[2017.11.07-11.17.40:560][749]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Typing__1_959A34F54CD940EDF06886973E0790D4.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Typing__1_.uasset'
+[2017.11.07-11.17.40:566][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Typing__1_.uasset
+[2017.11.07-11.17.40:755][749]LogSavePackage: Save=13.71ms
+[2017.11.07-11.17.40:755][749]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Waking_sitting_upA064491C49D7141EB97E269DE3C38211.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Waking_sitting_up.uasset'
+[2017.11.07-11.17.40:760][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Waking_sitting_up.uasset
+[2017.11.07-11.17.40:941][749]LogSavePackage: Save=17.37ms
+[2017.11.07-11.17.40:941][749]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Yelling468FECB247C23226E20B49AA9F4C11E7.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Yelling.uasset'
+[2017.11.07-11.17.40:948][749]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Yelling.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: On branch master
+[2017.11.07-11.17.56:681][ 81]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.11.07-11.17.56:681][ 81]SourceControl: Changes to be committed:
+[2017.11.07-11.17.56:681][ 81]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Stand_Cover_To_Look.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Swing_To_Land_in_game_movement_.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Thankful.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Typing__1_.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Waking_sitting_up.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Yelling.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: Changes not staged for commit:
+[2017.11.07-11.17.56:681][ 81]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.11.07-11.17.56:681][ 81]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Content/Apartment.umap
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	deleted:    TeamPain/Content/Character/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	deleted:    TeamPain/Content/Character/falloversequence.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Content/Sequence1.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Content/scene2.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Intermediate/CachedAssetRegistry.bin
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Saved/AutoScreenshot.png
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Saved/Autosaves/Game/StarterContent/Materials/xbot_T_Skeleton_Auto1.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Saved/Autosaves/PackageRestoreData.json
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/Engine.ini
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Saved/Config/WorldState/188131190.json
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.30.32.log
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.38.42.log
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.52.34.log
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain.log
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain_2.log
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	modified:   TeamPain/TeamPain.uproject
+[2017.11.07-11.17.56:681][ 81]SourceControl: Untracked files:
+[2017.11.07-11.17.56:681][ 81]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Angry_Point.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Button_Pushing_for_standing_animation_.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Fallen_Idle.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Falling_Down.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Injured_Walking_hallway_walk_.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Kicking_Out.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Laying_Moaning.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Laying_Shrugging.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Laying_Sleeping.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Look_Around.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Looking_Around.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Lying_Down_Take_001.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Lying_Down_mixamo_com.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/One_Shoulder_Lean__1_.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Open_Door_Outwards__1_.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Opening.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Sitting_Disbelief.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Sitting_Rubbing_Arm_robot_injection_.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Situp_To_Idle_nightmare_poss_.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Sleeping_Idle__1_.uasset
+[2017.11.07-11.17.56:681][ 81]SourceControl: 	TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Content/Character/animations/Sleeping_rollover.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Content/Character/animations/Stand.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Content/Character/animations/falloversequence.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Content/Character/animations/nightmare.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Content/Character/animations/sitting_laying.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Content/Character/animations/sleeping_seq.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/6d9c2bb1.bin
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/adf44649.bin
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Intermediate/Config/CoalescedSourceConfigs/LowEntryExtStdLib.ini
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto1.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto4.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto5.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto7.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto8.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Autosaves/Game/Character/animations/
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-25-57.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-37-50.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-38-14.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-48-15.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-02-13-41.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-03-35-16.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-04-15-19.umap
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Sequence1_2017-11-06-21-06-47.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-05-35.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-11-54.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-18-47.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-33-02.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-06-35.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-13-47.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-03-35-17.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/scene2_2017-11-06-21-06-47.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-23-04.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-38-14.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-48-15.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-02-05-15.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-35-17.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-47-25.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Backup/xbot_T_Skeleton_2017-11-07-03-35-16.uasset
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-0ACD387C46B3CA9E2971BDB8302F1730/
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-133AF882463919EF9E65689650B477CD/
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-EC92392743322D994E191884B71364A6/
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-20.51.57.log
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.07-03.18.32.log
+[2017.11.07-11.17.56:682][ 81]SourceControl: 	TeamPain/Saved/Logs/TeamPain_2-backup-2017.11.06-20.54.13.log
+[2017.11.07-11.17.57:823][ 81]LogSavePackage: Save=31.30ms
+[2017.11.07-11.17.57:823][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/One_Shoulder_Lean__1_395D1F2E4C6CADD9C4C9DD881761C7F4.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/One_Shoulder_Lean__1_.uasset'
+[2017.11.07-11.17.57:827][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/One_Shoulder_Lean__1_.uasset
+[2017.11.07-11.17.57:983][ 81]LogSavePackage: Save=19.41ms
+[2017.11.07-11.17.57:983][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Open_Door_Outwards__1_36389CFD43A4BCC753831880263A5229.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Open_Door_Outwards__1_.uasset'
+[2017.11.07-11.17.57:987][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Open_Door_Outwards__1_.uasset
+[2017.11.07-11.17.58:148][ 81]LogSavePackage: Save=16.86ms
+[2017.11.07-11.17.58:148][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Opening522F622E4207554F60012FA2775F1A58.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Opening.uasset'
+[2017.11.07-11.17.58:153][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Opening.uasset
+[2017.11.07-11.17.58:313][ 81]LogSavePackage: Save=17.48ms
+[2017.11.07-11.17.58:313][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Reacting91B37A41457671A82ECE64B3E3F6F4FF.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Reacting.uasset'
+[2017.11.07-11.17.58:318][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Reacting.uasset
+[2017.11.07-11.17.58:512][ 81]LogSavePackage: Save=23.44ms
+[2017.11.07-11.17.58:512][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Scene2_practice_Anim_Take_00361F73FD6468299E641158EA21FD01EE6.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Scene2_practice_Anim_Take_003.uasset'
+[2017.11.07-11.17.58:518][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.17.58:771][ 81]LogSavePackage: Save=39.16ms
+[2017.11.07-11.17.58:771][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Scene4_falldownkickrobot_001_Anim_fallenCBAA729346A37948AA414882F05FA869.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_fallen.uasset'
+[2017.11.07-11.17.58:776][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.17.59:048][ 81]LogSavePackage: Save=20.75ms
+[2017.11.07-11.17.59:048][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Scene4_falldownkickrobot_001_Anim_fallingDAA7099F4DC7787A49BA57809C51AE73.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_falling.uasset'
+[2017.11.07-11.17.59:055][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.17.59:277][ 81]LogSavePackage: Save=20.09ms
+[2017.11.07-11.17.59:277][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Scene4_falldownkickrobot_001_Anim_idle9BF8DBD94FAF45CE999D73A118122D7B.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_idle.uasset'
+[2017.11.07-11.17.59:281][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.17.59:473][ 81]LogSavePackage: Save=17.55ms
+[2017.11.07-11.17.59:473][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sitting_Disbelief6C8AF2854993DC54606F83BEA52843E3.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sitting_Disbelief.uasset'
+[2017.11.07-11.17.59:477][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sitting_Disbelief.uasset
+[2017.11.07-11.17.59:665][ 81]LogSavePackage: Save=19.28ms
+[2017.11.07-11.17.59:665][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sitting_Drinking__1_B677653E4653E2AE4283EFB6B83FF9BB.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sitting_Drinking__1_.uasset'
+[2017.11.07-11.17.59:669][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sitting_Drinking__1_.uasset
+[2017.11.07-11.17.59:865][ 81]LogSavePackage: Save=22.72ms
+[2017.11.07-11.17.59:865][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/sitting_laying931B7E3647DF6AFEECA4D0A03FB47CA0.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/sitting_laying.uasset'
+[2017.11.07-11.17.59:869][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/sitting_laying.uasset
+[2017.11.07-11.18.00:043][ 81]LogSavePackage: Save=17.34ms
+[2017.11.07-11.18.00:043][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sitting_Rubbing_Arm_robot_injection_EEC5AD0C4170C00113A7EA86856FE675.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sitting_Rubbing_Arm_robot_injection_.uasset'
+[2017.11.07-11.18.00:047][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sitting_Rubbing_Arm_robot_injection_.uasset
+[2017.11.07-11.18.00:263][ 81]LogSavePackage: Save=19.93ms
+[2017.11.07-11.18.00:263][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Situp_To_Idle_nightmare_poss_83F7902F4571FA731FFA53A21B091BCB.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Situp_To_Idle_nightmare_poss_.uasset'
+[2017.11.07-11.18.00:268][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Situp_To_Idle_nightmare_poss_.uasset
+[2017.11.07-11.18.00:465][ 81]LogSavePackage: Save=17.70ms
+[2017.11.07-11.18.00:465][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sleeping_Idle__1_2763E4114771FBBB65C23591512AAD12.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sleeping_Idle__1_.uasset'
+[2017.11.07-11.18.00:469][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sleeping_Idle__1_.uasset
+[2017.11.07-11.18.02:461][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scene2" FILE="../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/scene2.uasset" SILENT=true
+[2017.11.07-11.18.02:495][ 81]LogSavePackage: Save=9.58ms
+[2017.11.07-11.18.02:496][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/scene2D9BEA3CB48A32DF7B7DA739B8136E24D.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/scene2.uasset'
+[2017.11.07-11.18.02:497][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/scene2.uasset
+[2017.11.07-11.18.02:500][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequence1" FILE="../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Sequence1.uasset" SILENT=true
+[2017.11.07-11.18.02:530][ 81]LogSavePackage: Save=8.99ms
+[2017.11.07-11.18.02:530][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sequence1C9B7530D49B27F097CBF1EBF02E94254.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Sequence1.uasset'
+[2017.11.07-11.18.02:532][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Sequence1.uasset
+[2017.11.07-11.18.02:561][ 81]LogSavePackage: Save=6.16ms
+[2017.11.07-11.18.02:561][ 81]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sleeping_nightmare_comp42A427134226C7024C2116B5192AFD13.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset'
+[2017.11.07-11.18.02:570][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: On branch master
+[2017.11.07-11.18.05:888][200]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.11.07-11.18.05:888][200]SourceControl: Changes to be committed:
+[2017.11.07-11.18.05:888][200]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/One_Shoulder_Lean__1_.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Open_Door_Outwards__1_.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Opening.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Reacting.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sitting_Disbelief.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sitting_Drinking__1_.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sitting_Rubbing_Arm_robot_injection_.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Situp_To_Idle_nightmare_poss_.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sleeping_Idle__1_.uasset
+[2017.11.07-11.18.05:888][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Stand_Cover_To_Look.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Swing_To_Land_in_game_movement_.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Thankful.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Typing__1_.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Waking_sitting_up.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Yelling.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/sitting_laying.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: Changes not staged for commit:
+[2017.11.07-11.18.05:889][200]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.11.07-11.18.05:889][200]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Content/Apartment.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	deleted:    TeamPain/Content/Character/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	deleted:    TeamPain/Content/Character/falloversequence.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Content/Sequence1.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Content/scene2.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Intermediate/CachedAssetRegistry.bin
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Saved/AutoScreenshot.png
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Saved/Autosaves/Game/StarterContent/Materials/xbot_T_Skeleton_Auto1.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Saved/Autosaves/PackageRestoreData.json
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/Engine.ini
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Saved/Config/WorldState/188131190.json
+[2017.11.07-11.18.05:889][200]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.30.32.log
+[2017.11.07-11.18.05:889][200]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.38.42.log
+[2017.11.07-11.18.05:889][200]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.52.34.log
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain.log
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain_2.log
+[2017.11.07-11.18.05:889][200]SourceControl: 	modified:   TeamPain/TeamPain.uproject
+[2017.11.07-11.18.05:889][200]SourceControl: Untracked files:
+[2017.11.07-11.18.05:889][200]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Angry_Point.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Button_Pushing_for_standing_animation_.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Fallen_Idle.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Falling_Down.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Injured_Walking_hallway_walk_.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Kicking_Out.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Laying_Moaning.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Laying_Shrugging.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Laying_Sleeping.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Look_Around.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Looking_Around.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Lying_Down_Take_001.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Lying_Down_mixamo_com.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Sleeping_rollover.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/Stand.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/falloversequence.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/nightmare.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Content/Character/animations/sleeping_seq.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/6d9c2bb1.bin
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/adf44649.bin
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Intermediate/Config/CoalescedSourceConfigs/LowEntryExtStdLib.ini
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto1.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto4.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto5.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto7.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto8.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Autosaves/Game/Character/animations/
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-25-57.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-37-50.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-38-14.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-48-15.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-02-13-41.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-03-35-16.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-04-15-19.umap
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sequence1_2017-11-06-21-06-47.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sequence1_2017-11-07-04-18-02.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-05-35.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-11-54.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-18-47.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-33-02.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-06-35.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-13-47.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-03-35-17.uasset
+[2017.11.07-11.18.05:889][200]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-04-18-02.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Backup/scene2_2017-11-06-21-06-47.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Backup/scene2_2017-11-07-04-18-02.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-23-04.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-38-14.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-48-15.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-02-05-15.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-35-17.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-47-25.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Backup/xbot_T_Skeleton_2017-11-07-03-35-16.uasset
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-0ACD387C46B3CA9E2971BDB8302F1730/
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-133AF882463919EF9E65689650B477CD/
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-EC92392743322D994E191884B71364A6/
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-20.51.57.log
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.07-03.18.32.log
+[2017.11.07-11.18.05:890][200]SourceControl: 	TeamPain/Saved/Logs/TeamPain_2-backup-2017.11.06-20.54.13.log
+[2017.11.07-11.18.06:139][200]LogSavePackage: Save=18.98ms
+[2017.11.07-11.18.06:139][200]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sleeping_rolloverDA78835544A24F16E18E1BBEE19A9C9A.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sleeping_rollover.uasset'
+[2017.11.07-11.18.06:145][200]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Sleeping_rollover.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: On branch master
+[2017.11.07-11.18.10:290][322]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.11.07-11.18.10:290][322]SourceControl: Changes to be committed:
+[2017.11.07-11.18.10:290][322]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/One_Shoulder_Lean__1_.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Open_Door_Outwards__1_.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Opening.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Reacting.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sitting_Disbelief.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sitting_Drinking__1_.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sitting_Rubbing_Arm_robot_injection_.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Situp_To_Idle_nightmare_poss_.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sleeping_Idle__1_.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sleeping_rollover.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Stand_Cover_To_Look.uasset
+[2017.11.07-11.18.10:290][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Swing_To_Land_in_game_movement_.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Thankful.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Typing__1_.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Waking_sitting_up.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Yelling.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/sitting_laying.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: Changes not staged for commit:
+[2017.11.07-11.18.10:291][322]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.11.07-11.18.10:291][322]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Content/Apartment.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	deleted:    TeamPain/Content/Character/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	deleted:    TeamPain/Content/Character/falloversequence.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Content/Sequence1.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Content/scene2.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Intermediate/CachedAssetRegistry.bin
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Saved/AutoScreenshot.png
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Saved/Autosaves/Game/StarterContent/Materials/xbot_T_Skeleton_Auto1.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Saved/Autosaves/PackageRestoreData.json
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/Engine.ini
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Saved/Config/WorldState/188131190.json
+[2017.11.07-11.18.10:291][322]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.30.32.log
+[2017.11.07-11.18.10:291][322]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.38.42.log
+[2017.11.07-11.18.10:291][322]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.52.34.log
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain.log
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain_2.log
+[2017.11.07-11.18.10:291][322]SourceControl: 	modified:   TeamPain/TeamPain.uproject
+[2017.11.07-11.18.10:291][322]SourceControl: Untracked files:
+[2017.11.07-11.18.10:291][322]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Angry_Point.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Button_Pushing_for_standing_animation_.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Fallen_Idle.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Falling_Down.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Injured_Walking_hallway_walk_.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Kicking_Out.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Laying_Moaning.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Laying_Shrugging.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Laying_Sleeping.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Look_Around.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Looking_Around.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Lying_Down_Take_001.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Lying_Down_mixamo_com.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/Stand.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/falloversequence.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/nightmare.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Content/Character/animations/sleeping_seq.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/6d9c2bb1.bin
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/adf44649.bin
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Intermediate/Config/CoalescedSourceConfigs/LowEntryExtStdLib.ini
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto1.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto4.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto5.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto7.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto8.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Autosaves/Game/Character/animations/
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-25-57.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-37-50.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-38-14.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-48-15.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-02-13-41.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-03-35-16.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-04-15-19.umap
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sequence1_2017-11-06-21-06-47.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sequence1_2017-11-07-04-18-02.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-05-35.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-11-54.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-18-47.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-33-02.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-06-35.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-13-47.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-03-35-17.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-04-18-02.uasset
+[2017.11.07-11.18.10:291][322]SourceControl: 	TeamPain/Saved/Backup/scene2_2017-11-06-21-06-47.uasset
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Backup/scene2_2017-11-07-04-18-02.uasset
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-23-04.uasset
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-38-14.uasset
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-48-15.uasset
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-02-05-15.uasset
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-35-17.uasset
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-47-25.uasset
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Backup/xbot_T_Skeleton_2017-11-07-03-35-16.uasset
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-0ACD387C46B3CA9E2971BDB8302F1730/
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-133AF882463919EF9E65689650B477CD/
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-EC92392743322D994E191884B71364A6/
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-20.51.57.log
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.07-03.18.32.log
+[2017.11.07-11.18.10:292][322]SourceControl: 	TeamPain/Saved/Logs/TeamPain_2-backup-2017.11.06-20.54.13.log
+[2017.11.07-11.18.10:540][322]LogSavePackage: Save=17.47ms
+[2017.11.07-11.18.10:540][322]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Stand684D5D1D4A99D11E0C443FA9A3D6AAC3.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Stand.uasset'
+[2017.11.07-11.18.10:546][322]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Stand.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: On branch master
+[2017.11.07-11.18.25:747][654]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.11.07-11.18.25:747][654]SourceControl: Changes to be committed:
+[2017.11.07-11.18.25:747][654]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/One_Shoulder_Lean__1_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Open_Door_Outwards__1_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Opening.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Reacting.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sitting_Disbelief.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sitting_Drinking__1_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sitting_Rubbing_Arm_robot_injection_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Situp_To_Idle_nightmare_poss_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sleeping_Idle__1_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Sleeping_rollover.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Stand.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Stand_Cover_To_Look.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Swing_To_Land_in_game_movement_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Thankful.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Typing__1_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Waking_sitting_up.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/Yelling.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	new file:   TeamPain/Content/Character/animations/individual/sitting_laying.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: Changes not staged for commit:
+[2017.11.07-11.18.25:747][654]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2017.11.07-11.18.25:747][654]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Content/Apartment.umap
+[2017.11.07-11.18.25:747][654]SourceControl: 	deleted:    TeamPain/Content/Character/Scene2_practice_Anim_Take_003.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_fallen.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_falling.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	deleted:    TeamPain/Content/Character/Scene4_falldownkickrobot_001_Anim_idle.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	deleted:    TeamPain/Content/Character/falloversequence.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Content/Sequence1.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Content/scene2.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Intermediate/CachedAssetRegistry.bin
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Saved/AutoScreenshot.png
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Saved/Autosaves/Game/StarterContent/Materials/xbot_T_Skeleton_Auto1.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Saved/Autosaves/PackageRestoreData.json
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Saved/Config/Windows/Engine.ini
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Saved/Config/WorldState/188131190.json
+[2017.11.07-11.18.25:747][654]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.30.32.log
+[2017.11.07-11.18.25:747][654]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.38.42.log
+[2017.11.07-11.18.25:747][654]SourceControl: 	deleted:    TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-14.52.34.log
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain.log
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/Saved/Logs/TeamPain_2.log
+[2017.11.07-11.18.25:747][654]SourceControl: 	modified:   TeamPain/TeamPain.uproject
+[2017.11.07-11.18.25:747][654]SourceControl: Untracked files:
+[2017.11.07-11.18.25:747][654]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.11.07-11.18.25:747][654]SourceControl: 	TeamPain/Content/Character/animations/Angry_Point.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	TeamPain/Content/Character/animations/Button_Pushing_for_standing_animation_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	TeamPain/Content/Character/animations/Fallen_Idle.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	TeamPain/Content/Character/animations/Falling_Down.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	TeamPain/Content/Character/animations/Injured_Walking_hallway_walk_.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	TeamPain/Content/Character/animations/Kicking_Out.uasset
+[2017.11.07-11.18.25:747][654]SourceControl: 	TeamPain/Content/Character/animations/Laying_Moaning.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/Laying_Shrugging.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/Laying_Sleeping.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/Look_Around.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/Looking_Around.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/Lying_Down_Take_001.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/Lying_Down_mixamo_com.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/falloversequence.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/nightmare.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Content/Character/animations/sleeping_seq.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/6d9c2bb1.bin
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Intermediate/AssetRegistryCache/adf44649.bin
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Intermediate/Config/CoalescedSourceConfigs/LowEntryExtStdLib.ini
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto1.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto4.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto5.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto7.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Autosaves/Game/Apartment_Auto8.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Autosaves/Game/Character/animations/
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-25-57.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-06-23-37-50.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-38-14.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-00-48-15.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-02-13-41.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-03-35-16.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Apartment_2017-11-07-04-15-19.umap
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sequence1_2017-11-06-21-06-47.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sequence1_2017-11-07-04-18-02.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-05-35.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-11-54.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-18-47.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-06-22-33-02.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-06-35.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-02-13-47.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-03-35-17.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/Sleeping_nightmare_comp_2017-11-07-04-18-02.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/scene2_2017-11-06-21-06-47.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/scene2_2017-11-07-04-18-02.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-23-04.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-38-14.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-00-48-15.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-02-05-15.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-35-17.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/sleeping_seq_2017-11-07-03-47-25.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Backup/xbot_T_Skeleton_2017-11-07-03-35-16.uasset
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-0ACD387C46B3CA9E2971BDB8302F1730/
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-133AF882463919EF9E65689650B477CD/
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Config/CrashReportClient/UE4CC-Windows-EC92392743322D994E191884B71364A6/
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.06-20.51.57.log
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Logs/TeamPain-backup-2017.11.07-03.18.32.log
+[2017.11.07-11.18.25:748][654]SourceControl: 	TeamPain/Saved/Logs/TeamPain_2-backup-2017.11.06-20.54.13.log
+[2017.11.07-11.18.26:927][654]LogSavePackage: Save=17.69ms
+[2017.11.07-11.18.26:927][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Angry_Point4F678602470C780628A3EAACEB966208.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Angry_Point.uasset'
+[2017.11.07-11.18.26:931][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Angry_Point.uasset
+[2017.11.07-11.18.27:096][654]LogSavePackage: Save=20.26ms
+[2017.11.07-11.18.27:096][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Button_Pushing_for_standing_animation_E48952274708A62557D3DFAFC0F222FF.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Button_Pushing_for_standing_animation_.uasset'
+[2017.11.07-11.18.27:102][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Button_Pushing_for_standing_animation_.uasset
+[2017.11.07-11.18.27:283][654]LogSavePackage: Save=15.85ms
+[2017.11.07-11.18.27:283][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Fallen_IdleAD4E5323412C0B1EBB50B19D2F19D31E.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Fallen_Idle.uasset'
+[2017.11.07-11.18.27:289][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Fallen_Idle.uasset
+[2017.11.07-11.18.27:509][654]LogSavePackage: Save=15.95ms
+[2017.11.07-11.18.27:509][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Falling_Down5E1CC8AE444013CD19AD3A96F7CD8716.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Falling_Down.uasset'
+[2017.11.07-11.18.27:514][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Falling_Down.uasset
+[2017.11.07-11.18.27:759][654]LogSavePackage: Save=17.21ms
+[2017.11.07-11.18.27:759][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/falloversequenceB188E137455199F414D62DA3A1D2B784.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/falloversequence.uasset'
+[2017.11.07-11.18.27:764][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/falloversequence.uasset
+[2017.11.07-11.18.27:946][654]LogSavePackage: Save=18.00ms
+[2017.11.07-11.18.27:946][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Injured_Walking_hallway_walk_59EEECF448C4FB652CAA59959792C586.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Injured_Walking_hallway_walk_.uasset'
+[2017.11.07-11.18.27:951][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Injured_Walking_hallway_walk_.uasset
+[2017.11.07-11.18.28:125][654]LogSavePackage: Save=17.60ms
+[2017.11.07-11.18.28:125][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Kicking_Out0851F67B4CA8BDDC8954899A4C2EC2E3.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Kicking_Out.uasset'
+[2017.11.07-11.18.28:131][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Kicking_Out.uasset
+[2017.11.07-11.18.28:283][654]LogSavePackage: Save=18.20ms
+[2017.11.07-11.18.28:283][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Laying_Moaning3714F1CF4CADB94F35C56AB2C0A1F0DD.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Laying_Moaning.uasset'
+[2017.11.07-11.18.28:289][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Laying_Moaning.uasset
+[2017.11.07-11.18.28:473][654]LogSavePackage: Save=14.04ms
+[2017.11.07-11.18.28:473][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Laying_Shrugging9055AFD5409BFDDCBEDC6E9A63AE8F1F.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Laying_Shrugging.uasset'
+[2017.11.07-11.18.28:478][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Laying_Shrugging.uasset
+[2017.11.07-11.18.28:639][654]LogSavePackage: Save=14.44ms
+[2017.11.07-11.18.28:639][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Laying_SleepingB59813BB4CBBCC0F75E1ACA989A0090B.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Laying_Sleeping.uasset'
+[2017.11.07-11.18.28:644][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Laying_Sleeping.uasset
+[2017.11.07-11.18.28:808][654]LogSavePackage: Save=19.27ms
+[2017.11.07-11.18.28:808][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/laying_struggleC0717D4143E658EF51CC41A2078C3DDD.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/laying_struggle.uasset'
+[2017.11.07-11.18.28:813][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/laying_struggle.uasset
+[2017.11.07-11.18.29:001][654]LogSavePackage: Save=21.10ms
+[2017.11.07-11.18.29:001][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Look_AroundA6A4C1D64C06483026FACD9D9C5B8DB7.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Look_Around.uasset'
+[2017.11.07-11.18.29:006][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Look_Around.uasset
+[2017.11.07-11.18.29:191][654]LogSavePackage: Save=19.03ms
+[2017.11.07-11.18.29:191][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Looking_AroundD8C28A7743F7D194AFCBCBA1A9957A5C.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Looking_Around.uasset'
+[2017.11.07-11.18.29:197][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Looking_Around.uasset
+[2017.11.07-11.18.29:371][654]LogSavePackage: Save=20.99ms
+[2017.11.07-11.18.29:372][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Lying_Down_mixamo_com439CC86F4A00C03000C6A7B35E4FDACF.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Lying_Down_mixamo_com.uasset'
+[2017.11.07-11.18.29:375][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Lying_Down_mixamo_com.uasset
+[2017.11.07-11.18.29:536][654]LogSavePackage: Save=18.06ms
+[2017.11.07-11.18.29:536][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Lying_Down_Take_0019762F3284B636D97760A8DAF3AB77E15.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Lying_Down_Take_001.uasset'
+[2017.11.07-11.18.29:541][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/Lying_Down_Take_001.uasset
+[2017.11.07-11.18.29:725][654]LogSavePackage: Save=16.43ms
+[2017.11.07-11.18.29:725][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/nightmareE2DB0E274D5AE401250C1A9E5909F27A.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/nightmare.uasset'
+[2017.11.07-11.18.29:730][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/individual/nightmare.uasset
+[2017.11.07-11.18.31:711][654]LogSavePackage: Save=7.04ms
+[2017.11.07-11.18.31:711][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sleeping_nightmare_comp42DF627C40E690930A2E01A716A65255.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset'
+[2017.11.07-11.18.31:713][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset
+[2017.11.07-11.18.31:750][654]LogSavePackage: Save=20.52ms
+[2017.11.07-11.18.31:750][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sleeping_nightmare_compFEADAD0C4D7E876C9087ECBC2CC15DE8.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset'
+[2017.11.07-11.18.31:754][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset
+[2017.11.07-11.18.31:777][654]LogSavePackage: Save=5.97ms
+[2017.11.07-11.18.31:777][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sleeping_nightmare_compA3FDC76F4260EE7FB1C379B88205A5F9.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset'
+[2017.11.07-11.18.31:780][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset
+[2017.11.07-11.18.31:803][654]LogSavePackage: Save=6.47ms
+[2017.11.07-11.18.31:803][654]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Sleeping_nightmare_compC2642CAD46B90502A0EDD29CDB89D5B5.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset'
+[2017.11.07-11.18.31:806][654]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Character/animations/Sleeping_nightmare_comp.uasset
+[2017.11.07-11.18.35:600][714]LogSavePackage: Save=469.83ms
+[2017.11.07-11.18.35:600][714]LogSavePackage: Moving '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Saved/Apartment4BC479B2469FE6410C273FBA17237455.tmp' to '../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Apartment.umap'
+[2017.11.07-11.18.35:602][714]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/elizabeth/Desktop/EAE-3660_machinma/repository/EAE3660-TeamPain/TeamPain/Content/Apartment.umap
