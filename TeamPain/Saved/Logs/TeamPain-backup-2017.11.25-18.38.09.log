@@ -1,0 +1,463 @@
+﻿Log file open, 11/25/17 18:10:02
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: TeamPain
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(2044534634) SRandInit(2044534634).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.744117
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.26-01.10.03:135][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.26-01.10.03:135][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.26-01.10.03:158][  0]LogInit: Computer: DESKTOP-06B5JCP
+[2017.11.26-01.10.03:158][  0]LogInit: User: Aaron
+[2017.11.26-01.10.03:158][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.26-01.10.03:158][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2017.11.26-01.10.03:158][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.26-01.10.03:158][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.26-01.10.03:158][  0]LogMemory: Process Physical Memory: 277.79 MB used, 277.79 MB peak
+[2017.11.26-01.10.03:158][  0]LogMemory: Process Virtual Memory: 274.46 MB used, 274.46 MB peak
+[2017.11.26-01.10.03:158][  0]LogMemory: Physical Memory: 3975.88 MB used,  12274.29 MB free, 16250.17 MB total
+[2017.11.26-01.10.03:158][  0]LogMemory: Virtual Memory: 668.91 MB used,  12274.29 MB free, 134217728.00 MB total
+[2017.11.26-01.10.05:711][  0]LogInit: Using OS detected language (en-US).
+[2017.11.26-01.10.05:711][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.26-01.10.05:719][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.26-01.10.06:645][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.26-01.10.07:153][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2017.11.26-01.10.07:153][  0]LogD3D11RHI:       4016/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.26-01.10.07:163][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.11.26-01.10.07:163][  0]LogD3D11RHI:       128/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.11.26-01.10.07:165][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.26-01.10.07:165][  0]LogD3D11RHI:       0/0/8125 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.26-01.10.07:165][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.26-01.10.07:170][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.26-01.10.07:170][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2017.11.26-01.10.07:170][  0]LogWindows: EnumDisplayDevices:
+[2017.11.26-01.10.07:171][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.11.26-01.10.07:171][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.26-01.10.07:171][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.11.26-01.10.07:171][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2017.11.26-01.10.07:171][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2017.11.26-01.10.07:171][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2017.11.26-01.10.07:171][  0]LogD3D11RHI:   Driver Version: 384.77 (internal:22.21.13.8477, unified:384.77)
+[2017.11.26-01.10.07:171][  0]LogD3D11RHI:      Driver Date: 6-29-2017
+[2017.11.26-01.10.07:172][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.26-01.10.07:206][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.26-01.10.07:230][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.26-01.10.07:235][  0]LogShaderCompilers: Guid format shader working directory is -28 characters bigger than the processId version (../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Intermediate/Shaders/WorkingDirectory/11764/).
+[2017.11.26-01.10.07:236][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/namur/AppData/Local/Temp/UnrealShaderWorkingDir/32540D0D4DB8B6A526D067B37A005695/'.
+[2017.11.26-01.10.07:236][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.26-01.10.08:349][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.26-01.10.08:413][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.26-01.10.08:479][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.26-01.10.08:553][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.26-01.10.08:633][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.26-01.10.08:700][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.26-01.10.08:765][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.26-01.10.08:836][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.26-01.10.08:899][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.26-01.10.08:975][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.26-01.10.09:044][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.26-01.10.09:115][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.26-01.10.09:183][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.26-01.10.09:251][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.26-01.10.09:322][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.26-01.10.09:452][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.26-01.10.09:452][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.26-01.10.09:507][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.26-01.10.09:633][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.26-01.10.09:670][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.26-01.10.09:744][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.26-01.10.09:820][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.26-01.10.09:880][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.26-01.10.09:943][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.26-01.10.09:944][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.26-01.10.10:958][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.26-01.10.11:174][  0]LogDerivedDataCache: Loaded boot cache 0.21s 93MB C:/Users/namur/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.26-01.10.11:174][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/namur/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.26-01.10.11:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.26-01.10.11:175][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.26-01.10.11:175][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.26-01.10.11:175][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.26-01.10.11:194][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.26-01.10.11:208][  0]LogDerivedDataCache: Using Local data cache path C:/Users/namur/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.26-01.10.11:220][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.26-01.10.11:227][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.26-01.10.11:232][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.26-01.10.11:232][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.26-01.10.12:091][  0]LogAssetRegistry: FAssetRegistry took 0.0283 seconds to start up
+[2017.11.26-01.10.12:248][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.26-01.10.12:497][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.26-01.10.13:054][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.26-01.10.13:116][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.26-01.10.13:116][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.26-01.10.13:116][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.26-01.10.13:116][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.26-01.10.13:116][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.26-01.10.13:577][  0]LogNetVersion: TeamPain , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1519948437)
+[2017.11.26-01.10.13:870][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.050790 seconds
+[2017.11.26-01.10.13:877][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.11.26-01.10.13:877][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.11.26-01.10.13:877][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.26-01.10.13:975][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.26-01.10.18:039][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.26-01.10.18:089][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.26-01.10.19:209][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.26-01.10.19:715][  0]SourceControl: Source control is disabled
+[2017.11.26-01.10.19:715][  0]SourceControl: Source control is disabled
+[2017.11.26-01.10.19:785][  0]SourceControl: Source control is disabled
+[2017.11.26-01.10.19:848][  0]SourceControl: Source control is disabled
+[2017.11.26-01.10.20:611][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.26-01.10.20:929][  0]LogOcInput: OculusInput pre-init called
+[2017.11.26-01.10.21:261][  0]LogEngine: Initializing Engine...
+[2017.11.26-01.10.21:263][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.11.26-01.10.21:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.26-01.10.21:505][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.26-01.10.21:761][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.26-01.10.21:771][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.26-01.10.23:084][  0]LogInit: FAudioDevice initialized.
+[2017.11.26-01.10.23:160][  0]LogDerivedDataCache: Saved boot cache 0.08s 93MB C:/Users/namur/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.26-01.10.23:174][  0]LogInit: Texture streaming: Enabled
+[2017.11.26-01.10.23:374][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.26-01.10.23:772][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.26-01.10.23:816][  0]LogInit: Transaction tracking system initialized
+[2017.11.26-01.10.24:351][  0]BlueprintLog: New page: Editor Load
+[2017.11.26-01.10.26:055][  0]LocalizationService: Localization service is disabled
+[2017.11.26-01.10.27:506][  0]LogConsoleResponse: Display: 
+[2017.11.26-01.10.27:751][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.26-01.10.27:751][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.26-01.10.27:752][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.26-01.10.28:537][  0]LogFileCache: Scanning file cache for directory 'C:/Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/' took 0.02s
+[2017.11.26-01.10.29:526][  0]SourceControl: Source control is disabled
+[2017.11.26-01.10.29:528][  0]Cmd: MAP LOAD FILE="../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Apartment.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.26-01.10.29:530][  0]LightingResults: New page: Lighting Build
+[2017.11.26-01.10.29:601][  0]MapCheck: New page: Map Check
+[2017.11.26-01.10.29:601][  0]LightingResults: New page: Lighting Build
+[2017.11.26-01.10.29:760][  0]LogLinker: Warning: Can't find file '/Game/Apartment_BuiltData'
+[2017.11.26-01.10.29:761][  0]LogLinker: Warning: Can't find file for asset '/Game/Apartment_BuiltData' while loading ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Apartment.umap.
+[2017.11.26-01.10.29:761][  0]LoadErrors: Error: /Game/Apartment : Can't find file for asset. /Game/Apartment_BuiltData
+[2017.11.26-01.10.30:408][  0]LogLinker: Warning: Can't find file '/Game/Apartment_BuiltData'
+[2017.11.26-01.10.30:408][  0]LogLinker: Warning: Can't find file for asset '/Game/Apartment_BuiltData' while loading ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Apartment.umap.
+[2017.11.26-01.10.30:408][  0]LoadErrors: Error: /Game/Apartment : Can't find file for asset. /Game/Apartment_BuiltData
+[2017.11.26-01.10.31:420][  0]LogLinker: Warning: Can't find file '/Game/Apartment_BuiltData'
+[2017.11.26-01.10.31:420][  0]LogLinker: Warning: Can't find file for asset '/Game/Apartment_BuiltData' while loading NULL.
+[2017.11.26-01.10.31:421][  0]LogLinker: Warning: Can't find file '/Game/Apartment_BuiltData'
+[2017.11.26-01.10.31:421][  0]LogLinker: Warning: Can't find file for asset '/Game/Apartment_BuiltData' while loading NULL.
+[2017.11.26-01.10.31:662][  0]LogLinker: Warning: Can't find file '/Game/Apartment_BuiltData'
+[2017.11.26-01.10.31:662][  0]LoadErrors: Failed to load /Game/Apartment_BuiltData.Apartment_BuiltData Referenced by PersistentLevel
+[2017.11.26-01.10.31:662][  0]LogLinker: Warning: Can't find file for asset '/Game/Apartment_BuiltData' while loading NULL.
+[2017.11.26-01.10.31:662][  0]LoadErrors: Failed to load /Game/Apartment_BuiltData.Apartment_BuiltData Referenced by PersistentLevel
+[2017.11.26-01.10.31:902][  0]LogMaterial: Missing cached shader map for material M_Infil1_City_Deco_lightpole, compiling. 
+[2017.11.26-01.10.31:904][  0]LogMaterial: Warning: Failed to compile Material /Game/Env/Infil1_City_Decos/M_Infil1_City_Deco_lightpole.M_Infil1_City_Deco_lightpole for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.26-01.10.31:904][  0]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.26-01.10.31:904][  0]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.26-01.10.31:904][  0]LogMaterial: Warning: 	Function ML_Infil1_Metal_Base_Light: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.26-01.10.33:109][  0]LogAIModule: Creating AISystem for world Apartment
+[2017.11.26-01.10.33:152][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.26-01.10.33:169][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.26-01.10.33:278][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 108.85ms to complete.
+[2017.11.26-01.10.33:278][  0]LogFileHelpers: Loading map 'Apartment' took 3.751
+[2017.11.26-01.10.33:461][  0]LogCollectionManager: Loaded 0 collections in 0.001714 seconds
+[2017.11.26-01.10.33:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Saved/Collections/' took 0.01s
+[2017.11.26-01.10.33:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Developers/Aaron/Collections/' took 0.01s
+[2017.11.26-01.10.33:586][  0]LogFileCache: Scanning file cache for directory 'C:/Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Collections/' took 0.01s
+[2017.11.26-01.10.33:586][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.11.26-01.10.33:598][  0]LogContentBrowser: Native class hierarchy populated in 0.0108 seconds. Added 2386 classes and 500 folders.
+[2017.11.26-01.10.33:715][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0015 seconds. Added 0 classes and 0 folders.
+[2017.11.26-01.10.33:856][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.11.26-01.10.33:997][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.26-01.10.34:179][  0]LogSlate: Took 0.001112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.26-01.10.34:183][  0]LogSlate: Took 0.001937 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.26-01.10.34:186][  0]LogSlate: Took 0.001469 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.26-01.10.34:223][  0]LogSlate: Took 0.001810 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.26-01.10.34:304][  0]LogRenderer: Reallocating scene render targets to support 812x708 Format 9 NumSamples 1 (Frame:1).
+[2017.11.26-01.10.34:516][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.11.26-01.10.34:516][  0]LogLoad: (Engine Initialization) Total time: 34.35 seconds
+[2017.11.26-01.10.34:516][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.26-01.10.34:516][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.26-01.10.34:567][  0]LogContentStreaming: Texture pool size now 400 MB
+[2017.11.26-01.10.34:656][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/' took 0.11s
+[2017.11.26-01.10.34:742][  2]LogAssetRegistry: Asset discovery search completed in 22.6728 seconds
+[2017.11.26-01.10.34:744][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.26-01.10.34:744][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000076 seconds (updated 0 objects)
+[2017.11.26-01.11.08:843][975]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.26-01.13.30:066][247]Cmd: TRANSACTION UNDO
+[2017.11.26-01.13.30:066][247]LogEditorTransaction: Undo Create Actors
+[2017.11.26-01.13.30:087][247]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Apartment.Apartment:PersistentLevel.ModelComponent_17149' invalid (33067 verts, 0 indices).
+[2017.11.26-01.13.30:087][247]LogPhysics: Warning: Attempt to build physics data for /Game/Apartment.Apartment:PersistentLevel.ModelComponent_17149.BodySetup_17097 when we are unable to.
+[2017.11.26-01.13.30:248][247]LogSlate: Took 0.000263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.26-01.14.31:357][761]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.26-01.14.53:905][ 55]Cmd: TRANSACTION UNDO
+[2017.11.26-01.14.53:906][ 55]LogEditorTransaction: Undo Create Actors
+[2017.11.26-01.14.53:948][ 55]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Apartment.Apartment:PersistentLevel.ModelComponent_646' invalid (25799 verts, 0 indices).
+[2017.11.26-01.14.53:948][ 55]LogPhysics: Warning: Attempt to build physics data for /Game/Apartment.Apartment:PersistentLevel.ModelComponent_646.BodySetup_646 when we are unable to.
+[2017.11.26-01.15.03:544][602]Cmd: TRANSACTION UNDO
+[2017.11.26-01.15.03:544][602]LogEditorTransaction: Undo Create Actors
+[2017.11.26-01.15.03:569][602]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Apartment.Apartment:PersistentLevel.ModelComponent_710' invalid (25765 verts, 0 indices).
+[2017.11.26-01.15.03:570][602]LogPhysics: Warning: Attempt to build physics data for /Game/Apartment.Apartment:PersistentLevel.ModelComponent_710.BodySetup_710 when we are unable to.
+[2017.11.26-01.15.38:226][656]LogStaticMesh: Building static mesh SM_Hallway_Pipe_TJunction...
+[2017.11.26-01.15.38:231][656]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.26-01.15.38:250][656]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Mesh/SM_Hallway_Pipe_TJunction.SM_Hallway_Pipe_TJunction
+[2017.11.26-01.15.38:281][656]LogActorFactory: Actor Factory created SM_Hallway_Pipe_TJunction
+[2017.11.26-01.15.39:109][703]LogActorFactory: Actor Factory created SM_Hallway_Pipe_TJunction
+[2017.11.26-01.16.25:933][446]LogTexture: Display: Building textures: T_Trashbag_N (BC5, 2048X2048)
+[2017.11.26-01.16.25:933][446]LogStaticMesh: Building static mesh SM_Hallway_Trashbag...
+[2017.11.26-01.16.25:964][446]LogStaticMesh: Built static mesh [0.03s] /Game/Assets/Mesh/SM_Hallway_Trashbag.SM_Hallway_Trashbag
+[2017.11.26-01.16.25:971][446]LogMaterial: Missing cached shader map for material M_Trashbag, compiling. 
+[2017.11.26-01.16.26:030][446]LogActorFactory: Actor Factory created SM_Hallway_Trashbag
+[2017.11.26-01.16.26:787][484]LogActorFactory: Actor Factory created SM_Hallway_Trashbag
+[2017.11.26-01.17.04:135][670]LogActorFactory: Actor Factory created prop_cigarette_b
+[2017.11.26-01.17.04:990][720]LogActorFactory: Actor Factory created prop_cigarette_b
+[2017.11.26-01.17.13:302][212]LogActorFactory: Actor Factory created prop_cigarette_b
+[2017.11.26-01.17.14:060][256]LogActorFactory: Actor Factory created prop_cigarette_b
+[2017.11.26-01.17.22:215][737]LogActorFactory: Actor Factory created prop_cigarette_b
+[2017.11.26-01.17.22:969][781]LogActorFactory: Actor Factory created prop_cigarette_b
+[2017.11.26-01.17.26:868][  8]LogActorFactory: Actor Factory created prop_cigarette_b
+[2017.11.26-01.17.27:724][ 58]LogActorFactory: Actor Factory created prop_cigarette_b
+[2017.11.26-01.17.35:045][488]LogActorFactory: Actor Factory created prop_microwave_a
+[2017.11.26-01.17.39:511][754]LogActorFactory: Actor Factory created prop_microwave_a
+[2017.11.26-01.17.42:704][943]Cmd: DELETE
+[2017.11.26-01.17.42:704][943]Cmd: ACTOR DELETE
+[2017.11.26-01.17.42:713][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.26-01.17.42:740][943]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2017.11.26-01.18.25:380][483]LogActorFactory: Actor Factory created Wire1
+[2017.11.26-01.18.25:846][510]LogActorFactory: Actor Factory created Wire1
+[2017.11.26-01.18.29:494][725]Cmd: TRANSACTION UNDO
+[2017.11.26-01.18.29:494][725]LogEditorTransaction: Undo Create Actors
+[2017.11.26-01.19.07:043][955]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D'
+[2017.11.26-01.19.07:043][955]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D' while loading ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01.uasset.
+[2017.11.26-01.19.07:044][955]LoadErrors: Error: /Game/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01 : Can't find file for asset. /Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D
+[2017.11.26-01.19.07:044][955]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N'
+[2017.11.26-01.19.07:044][955]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N' while loading ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01.uasset.
+[2017.11.26-01.19.07:044][955]LoadErrors: Error: /Game/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01 : Can't find file for asset. /Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N
+[2017.11.26-01.19.07:044][955]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D'
+[2017.11.26-01.19.07:044][955]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D' while loading ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01.uasset.
+[2017.11.26-01.19.07:044][955]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N'
+[2017.11.26-01.19.07:044][955]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N' while loading ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Env/Materials/MaterialLayers/Infil1/Metal/ML_Infil1_City_YellowPaint01.uasset.
+[2017.11.26-01.19.07:054][955]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D'
+[2017.11.26-01.19.07:054][955]LoadErrors: Failed to load /Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D.T_Yellow_Paint_D Referenced by MaterialExpressionTextureSample_0
+[2017.11.26-01.19.07:054][955]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_D' while loading NULL.
+[2017.11.26-01.19.07:054][955]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N'
+[2017.11.26-01.19.07:054][955]LoadErrors: Failed to load /Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N.T_Yellow_Paint_N Referenced by MaterialExpressionTextureSample_1
+[2017.11.26-01.19.07:054][955]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Paint/T_Yellow_Paint_N' while loading NULL.
+[2017.11.26-01.19.07:059][955]LogMaterial: Missing cached shader map for material M_Floor_Tech_1, compiling. 
+[2017.11.26-01.19.07:063][955]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1.M_Floor_Tech_1 for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.26-01.19.07:063][955]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.26-01.19.07:063][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.26-01.19.07:063][955]LogMaterial: Warning: 	Function MatLayerBlend_BakedNormal: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.26-01.19.07:063][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.26-01.19.07:063][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.26-01.19.07:063][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.26-01.19.07:063][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.26-01.19.07:069][955]LogMaterial: Missing cached shader map for material M_Floor_Tech_1_Edge, compiling. 
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: Failed to compile Material /Game/Env/Underground/Infrastructure/Materials/M_Floor_Tech_1_Edge.M_Floor_Tech_1_Edge for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node TextureSample) NORMAL> Missing input texture
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Normal
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node TextureSample) BASE COLOR AND ROUGHNESS> Missing input texture
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property BaseColor
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Metallic
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Specular
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function ML_Infil1_City_YellowPaint01: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.26-01.19.07:070][955]LogMaterial: Warning: 	Function MatLayerBlend_Standard: (Node MakeMaterialAttributes) Error on property Roughness
+[2017.11.26-01.19.07:088][955]LogActorFactory: Actor Factory created Floor_Grate_8
+[2017.11.26-01.19.09:668][109]LogActorFactory: Actor Factory created Floor_Grate_8
+[2017.11.26-01.19.24:444][984]Cmd: DELETE
+[2017.11.26-01.19.24:444][984]Cmd: ACTOR DELETE
+[2017.11.26-01.19.24:447][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.26-01.19.24:462][984]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2017.11.26-01.19.38:553][820]LogStaticMesh: Building static mesh IND_Light_Cage_3...
+[2017.11.26-01.19.38:593][820]LogStaticMesh: Built static mesh [0.04s] /Game/Env/Underground/Infrastructure/Model/IND_Light_Cage_3.IND_Light_Cage_3
+[2017.11.26-01.19.41:123][820]LogTexture: Display: Building textures: Light_Cage_3_E (AutoDXT, 2048X2048)
+[2017.11.26-01.19.41:124][820]LogTexture: Display: Building textures: Light_Cage_3_N (BC5, 2048X2048)
+[2017.11.26-01.19.41:124][820]LogTexture: Display: Building textures: Light_Cage_3_M (AutoDXT, 2048X2048)
+[2017.11.26-01.19.41:145][820]LogActorFactory: Actor Factory created IND_Light_Cage_3
+[2017.11.26-01.19.41:163][820]LogActorFactory: Actor Factory created IND_Light_Cage_3
+[2017.11.26-01.19.43:552][943]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.26-01.19.54:621][601]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.26-01.20.34:704][983]LogStaticMesh: Building static mesh IND_Light_Cage_1...
+[2017.11.26-01.20.34:744][983]LogStaticMesh: Built static mesh [0.04s] /Game/Env/Underground/Infrastructure/Model/IND_Light_Cage_1.IND_Light_Cage_1
+[2017.11.26-01.20.34:793][985]LogActorFactory: Actor Factory created IND_Light_Cage_1
+[2017.11.26-01.20.37:213][129]LogActorFactory: Actor Factory created IND_Light_Cage_1
+[2017.11.26-01.20.47:477][738]LogActorFactory: Actor Factory created IND_Light_Cage_3
+[2017.11.26-01.20.49:984][887]LogActorFactory: Actor Factory created IND_Light_Cage_3
+[2017.11.26-01.21.02:363][621]Cmd: DELETE
+[2017.11.26-01.21.02:363][621]Cmd: ACTOR DELETE
+[2017.11.26-01.21.02:371][621]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.11.26-01.21.02:387][621]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.11.26-01.21.03:500][683]LogActorFactory: Actor Factory created IND_Light_Cage_2
+[2017.11.26-01.21.06:073][836]LogActorFactory: Actor Factory created IND_Light_Cage_2
+[2017.11.26-01.22.13:185][777]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.26-01.22.16:032][941]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.26-01.22.31:948][883]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.11.26-01.22.37:631][221]LogEditorViewport: Clicking on Actor (double click): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.26-01.22.39:335][321]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.11.26-01.22.58:436][440]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Concrete/T_Concrete01_D'
+[2017.11.26-01.22.58:436][440]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Concrete/T_Concrete01_D' while loading ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Env/Materials/Surfaces/Metal/M_Metal_GenericMetal03.uasset.
+[2017.11.26-01.22.58:436][440]LoadErrors: Error: /Game/Env/Materials/Surfaces/Metal/M_Metal_GenericMetal03 : Can't find file for asset. /Game/Env/Materials/Textures/Concrete/T_Concrete01_D
+[2017.11.26-01.22.58:448][440]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Concrete/T_Concrete01_D'
+[2017.11.26-01.22.58:448][440]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Concrete/T_Concrete01_D' while loading ../../../../../../Users/namur/Documents/Jessica/EAE3660-TeamPain/TeamPain/Content/Env/Materials/Surfaces/Metal/M_Metal_GenericMetal03.uasset.
+[2017.11.26-01.22.58:452][440]LogLinker: Warning: Can't find file '/Game/Env/Materials/Textures/Concrete/T_Concrete01_D'
+[2017.11.26-01.22.58:452][440]LoadErrors: Failed to load /Game/Env/Materials/Textures/Concrete/T_Concrete01_D.T_Concrete01_D Referenced by M_Metal_GenericMetal03
+[2017.11.26-01.22.58:452][440]LogLinker: Warning: Can't find file for asset '/Game/Env/Materials/Textures/Concrete/T_Concrete01_D' while loading NULL.
+[2017.11.26-01.22.58:511][441]LogActorFactory: Actor Factory created Pipe_Big_1
+[2017.11.26-01.23.06:002][873]LogActorFactory: Actor Factory created Pipe_Big_1
+[2017.11.26-01.23.27:763][162]Cmd: TRANSACTION UNDO
+[2017.11.26-01.23.27:763][162]LogEditorTransaction: Undo Scale Actors
+[2017.11.26-01.23.51:350][548]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pipe_Big_1)
+[2017.11.26-01.24.02:016][171]LogActorFactory: Actor Factory created Pipe_Big_1
+[2017.11.26-01.24.03:567][259]LogActorFactory: Actor Factory created Pipe_Big_1
+[2017.11.26-01.24.10:995][694]Cmd: TRANSACTION UNDO
+[2017.11.26-01.24.10:995][694]LogEditorTransaction: Undo Scale Actors
+[2017.11.26-01.24.48:012][865]Cmd: TRANSACTION UNDO
+[2017.11.26-01.24.48:012][865]LogEditorTransaction: Undo Select Brush Surface
+[2017.11.26-01.24.50:428][968]Cmd: TRANSACTION UNDO
+[2017.11.26-01.24.50:428][968]LogEditorTransaction: Undo Move Actors
+[2017.11.26-01.24.50:496][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush57.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:497][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BedroomWall4.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:497][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush34.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:498][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush10.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:498][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.SphereBrush3.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:499][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush26_13.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:499][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush60_6.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:500][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush58.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:501][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush62.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:501][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush45.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:501][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.KWall1.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:502][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.ClosetFloor.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:503][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.MainWall.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:541][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BedroomFloor.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:541][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.HallFloor2.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:542][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.LivingWall3.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:543][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush17.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:543][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BedroomWall2.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:544][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush19.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:545][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush6.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:546][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush114.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:546][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush13.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:546][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.Building3Floor3.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:546][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.Building5Floor3.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:547][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush112.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:547][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush107.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:547][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush142.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:547][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush137.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:548][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush144.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:549][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush126.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:550][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush124.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:551][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush131.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:551][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.Building1Window4.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:553][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.Building13.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:553][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:553][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.Building4.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:554][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush82.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:555][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush88.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:555][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.Building3Floor1.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:555][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush95.BrushComponent0) Component already registered.
+[2017.11.26-01.24.50:556][968]LogActorComponent: ~FComponentReregisterContext: (/Game/Apartment.Apartment:PersistentLevel.BoxBrush67.BrushComponent0) Component already registered.
+[2017.11.26-01.25.28:943][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (IND_Light_Cage_2)
+[2017.11.26-01.25.32:587][415]Cmd: TRANSACTION UNDO
+[2017.11.26-01.25.32:587][415]LogEditorTransaction: Undo Move Actors
