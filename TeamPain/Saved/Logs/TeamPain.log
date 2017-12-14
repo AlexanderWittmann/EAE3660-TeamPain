@@ -710,3 +710,52 @@ LogInit: Object subsystem initialized
 [2017.12.14-00.21.35:618][703]LogSavePackage: Save=11.80ms
 [2017.12.14-00.21.35:618][703]LogSavePackage: Moving '../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Saved/InsideOfApartment00ADA31E42E2273926FB76891C549F6E.tmp' to '../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Sequences/InsideOfApartment.uasset'
 [2017.12.14-00.21.35:621][703]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Sequences/InsideOfApartment.uasset
+[2017.12.14-00.22.28:046][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Door)
+[2017.12.14-00.34.34:972][220]LogLinker: Warning: Can't find file '/Game/robot_point/unwrapChekcerShader'
+[2017.12.14-00.34.34:972][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/unwrapChekcerShader' while loading ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Robot/robot_attack/robot_point.uasset.
+[2017.12.14-00.34.34:972][220]LoadErrors: Error: /Game/Robot/robot_attack/robot_point : Can't find file for asset. /Game/robot_point/unwrapChekcerShader
+[2017.12.14-00.34.34:972][220]LogLinker: Warning: Can't find file '/Game/robot_point/robot_point_PhysicsAsset'
+[2017.12.14-00.34.34:972][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/robot_point_PhysicsAsset' while loading ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Robot/robot_attack/robot_point.uasset.
+[2017.12.14-00.34.34:972][220]LoadErrors: Error: /Game/Robot/robot_attack/robot_point : Can't find file for asset. /Game/robot_point/robot_point_PhysicsAsset
+[2017.12.14-00.34.34:972][220]LogLinker: Warning: Can't find file '/Game/robot_point/unwrapChekcerShader'
+[2017.12.14-00.34.34:973][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/unwrapChekcerShader' while loading ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Robot/robot_attack/robot_point.uasset.
+[2017.12.14-00.34.34:973][220]LogLinker: Warning: Can't find file '/Game/robot_point/robot_point_PhysicsAsset'
+[2017.12.14-00.34.34:973][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/robot_point_PhysicsAsset' while loading ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Robot/robot_attack/robot_point.uasset.
+[2017.12.14-00.34.34:979][220]LogLinker: Warning: Can't find file '/Game/robot_point/unwrapChekcerShader'
+[2017.12.14-00.34.34:979][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/unwrapChekcerShader' while loading ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Robot/robot_fall/robot_point.uasset.
+[2017.12.14-00.34.34:979][220]LoadErrors: Error: /Game/Robot/robot_fall/robot_point : Can't find file for asset. /Game/robot_point/unwrapChekcerShader
+[2017.12.14-00.34.34:979][220]LogLinker: Warning: Can't find file '/Game/robot_point/robot_point_PhysicsAsset'
+[2017.12.14-00.34.34:979][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/robot_point_PhysicsAsset' while loading ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Robot/robot_fall/robot_point.uasset.
+[2017.12.14-00.34.34:979][220]LoadErrors: Error: /Game/Robot/robot_fall/robot_point : Can't find file for asset. /Game/robot_point/robot_point_PhysicsAsset
+[2017.12.14-00.34.34:979][220]LogLinker: Warning: Can't find file '/Game/robot_point/unwrapChekcerShader'
+[2017.12.14-00.34.34:980][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/unwrapChekcerShader' while loading ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Robot/robot_fall/robot_point.uasset.
+[2017.12.14-00.34.34:980][220]LogLinker: Warning: Can't find file '/Game/robot_point/robot_point_PhysicsAsset'
+[2017.12.14-00.34.34:980][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/robot_point_PhysicsAsset' while loading ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Robot/robot_fall/robot_point.uasset.
+[2017.12.14-00.34.35:060][220]LogTexture: Display: Building textures: Robot_UVs_fixed (AutoDXT, 2048X2048)
+[2017.12.14-00.34.35:060][220]LogLinker: Warning: Can't find file '/Game/robot_point/robot_point_PhysicsAsset'
+[2017.12.14-00.34.35:060][220]LoadErrors: Failed to load /Game/robot_point/robot_point_PhysicsAsset.robot_point_PhysicsAsset Referenced by robot_point
+[2017.12.14-00.34.35:060][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/robot_point_PhysicsAsset' while loading NULL.
+[2017.12.14-00.34.35:061][220]LogLinker: Warning: Can't find file '/Game/robot_point/unwrapChekcerShader'
+[2017.12.14-00.34.35:061][220]LoadErrors: Failed to load /Game/robot_point/unwrapChekcerShader.unwrapChekcerShader Referenced by robot_point
+[2017.12.14-00.34.35:061][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/unwrapChekcerShader' while loading NULL.
+[2017.12.14-00.34.35:119][220]LogTexture: Display: Building textures: robot_neutral (AutoDXT, 6000X1200)
+[2017.12.14-00.34.35:119][220]LogLinker: Warning: Can't find file '/Game/robot_point/robot_point_PhysicsAsset'
+[2017.12.14-00.34.35:120][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/robot_point_PhysicsAsset' while loading NULL.
+[2017.12.14-00.34.35:120][220]LogLinker: Warning: Can't find file '/Game/robot_point/unwrapChekcerShader'
+[2017.12.14-00.34.35:120][220]LogLinker: Warning: Can't find file for asset '/Game/robot_point/unwrapChekcerShader' while loading NULL.
+[2017.12.14-00.34.35:930][220]LogTexture: Display: Building textures: Robot_UVs_fixed (AutoDXT, 2048X2048)
+[2017.12.14-00.34.35:930][220]LogTexture: Display: Building textures: Robot_UVs_fixed (AutoDXT, 2048X2048)
+[2017.12.14-00.34.35:930][220]LogTexture: Display: Building textures: robot_disagree_face (AutoDXT, 6000X1200)
+[2017.12.14-00.34.35:930][220]LogTexture: Display: Building textures: robot_disagree_face (AutoDXT, 6000X1200)
+[2017.12.14-00.34.35:930][220]LogMaterial: Missing cached shader map for material robot_mat_disagree, compiling. 
+[2017.12.14-00.34.35:962][220]LogMaterial: Missing cached shader map for material robot_mat, compiling. 
+[2017.12.14-00.34.36:044][220]LogMaterial: Missing cached shader map for material robot_mat, compiling. 
+[2017.12.14-00.34.36:083][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Robot/robot_idle_angry/robot_idle.robot_idle
+[2017.12.14-00.34.36:087][220]LogMaterial: Missing cached shader map for material unwrapChekcerShader, compiling. 
+[2017.12.14-00.34.36:114][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Robot/robot_fall/robot_fall2_Anim.robot_fall2_Anim
+[2017.12.14-00.34.36:123][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Character/animations/fight_with_robot_lead_up.fight_with_robot_lead_up
+[2017.12.14-00.34.36:158][220]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Robot/robot_attack/robot_fight_Anim.robot_fight_Anim
+[2017.12.14-00.42.29:165][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sequences/FightScene" FILE="../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Sequences/FightScene.uasset" SILENT=true
+[2017.12.14-00.42.29:208][333]LogSavePackage: Save=33.40ms
+[2017.12.14-00.42.29:208][333]LogSavePackage: Moving '../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Saved/FightScene03B635804C7CA81AD07D8BA83B3E2AA2.tmp' to '../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Sequences/FightScene.uasset'
+[2017.12.14-00.42.29:212][333]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/u1121191/Documents/GitHub/EAE3660-TeamPain/TeamPain/Content/Sequences/FightScene.uasset
